@@ -1,0 +1,2 @@
+# emoji_unicode_json_mapping
+This repository contains a Python script that webscrapes all of the emojis listed on 'http://www.unicode.org/emoji/charts/full-emoji-list.html'. It then stores the emoji data in several different JSON files representing major catagories with each JSON filing being broken up into smaller sub-catagories. The emoji data is maps the emoji's name, unicode string, and javascript escape string together for easy use.
