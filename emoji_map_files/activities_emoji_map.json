@@ -1,0 +1,466 @@
+{
+    "sport": {
+        "soccer_ball": {
+            "js_escape": "\u26bd",
+            "unicode": "U+26BD"
+        },
+        "running_shirt": {
+            "js_escape": "\ud83c\udfbd",
+            "unicode": "U+1F3BD"
+        },
+        "field_hockey": {
+            "js_escape": "\ud83c\udfd1",
+            "unicode": "U+1F3D1"
+        },
+        "ping_pong": {
+            "js_escape": "\ud83c\udfd3",
+            "unicode": "U+1F3D3"
+        },
+        "bowling": {
+            "js_escape": "\ud83c\udfb3",
+            "unicode": "U+1F3B3"
+        },
+        "martial_arts_uniform": {
+            "js_escape": "\ud83e\udd4b",
+            "unicode": "U+1F94B"
+        },
+        "volleyball": {
+            "js_escape": "\ud83c\udfd0",
+            "unicode": "U+1F3D0"
+        },
+        "boxing_glove": {
+            "js_escape": "\ud83e\udd4a",
+            "unicode": "U+1F94A"
+        },
+        "skis": {
+            "js_escape": "\ud83c\udfbf",
+            "unicode": "U+1F3BF"
+        },
+        "baseball": {
+            "js_escape": "\u26be",
+            "unicode": "U+26BE"
+        },
+        "rugby_football": {
+            "js_escape": "\ud83c\udfc9",
+            "unicode": "U+1F3C9"
+        },
+        "basketball": {
+            "js_escape": "\ud83c\udfc0",
+            "unicode": "U+1F3C0"
+        },
+        "ice_skate": {
+            "js_escape": "\u26f8",
+            "unicode": "U+26F8"
+        },
+        "american_football": {
+            "js_escape": "\ud83c\udfc8",
+            "unicode": "U+1F3C8"
+        },
+        "direct_hit": {
+            "js_escape": "\ud83c\udfaf",
+            "unicode": "U+1F3AF"
+        },
+        "sled": {
+            "js_escape": "\ud83d\udef7",
+            "unicode": "U+1F6F7"
+        },
+        "curling_stone": {
+            "js_escape": "\ud83e\udd4c",
+            "unicode": "U+1F94C"
+        },
+        "pool_8_ball": {
+            "js_escape": "\ud83c\udfb1",
+            "unicode": "U+1F3B1"
+        },
+        "tennis": {
+            "js_escape": "\ud83c\udfbe",
+            "unicode": "U+1F3BE"
+        },
+        "ice_hockey": {
+            "js_escape": "\ud83c\udfd2",
+            "unicode": "U+1F3D2"
+        },
+        "goal_net": {
+            "js_escape": "\ud83e\udd45",
+            "unicode": "U+1F945"
+        },
+        "cricket_game": {
+            "js_escape": "\ud83c\udfcf",
+            "unicode": "U+1F3CF"
+        },
+        "fishing_pole": {
+            "js_escape": "\ud83c\udfa3",
+            "unicode": "U+1F3A3"
+        },
+        "badminton": {
+            "js_escape": "\ud83c\udff8",
+            "unicode": "U+1F3F8"
+        },
+        "flag_in_hole": {
+            "js_escape": "\u26f3",
+            "unicode": "U+26F3"
+        }
+    },
+    "event": {
+        "snowflake": {
+            "js_escape": "\u2744",
+            "unicode": "U+2744"
+        },
+        "water_wave": {
+            "js_escape": "\ud83c\udf0a",
+            "unicode": "U+1F30A"
+        },
+        "fire": {
+            "js_escape": "\ud83d\udd25",
+            "unicode": "U+1F525"
+        },
+        "balloon": {
+            "js_escape": "\ud83c\udf88",
+            "unicode": "U+1F388"
+        },
+        "sun": {
+            "js_escape": "\u2600",
+            "unicode": "U+2600"
+        },
+        "tanabata_tree": {
+            "js_escape": "\ud83c\udf8b",
+            "unicode": "U+1F38B"
+        },
+        "wind_face": {
+            "js_escape": "\ud83c\udf2c",
+            "unicode": "U+1F32C"
+        },
+        "ticket": {
+            "js_escape": "\ud83c\udfab",
+            "unicode": "U+1F3AB"
+        },
+        "droplet": {
+            "js_escape": "\ud83d\udca7",
+            "unicode": "U+1F4A7"
+        },
+        "waxing_crescent_moon": {
+            "js_escape": "\ud83c\udf12",
+            "unicode": "U+1F312"
+        },
+        "fireworks": {
+            "js_escape": "\ud83c\udf86",
+            "unicode": "U+1F386"
+        },
+        "carp_streamer": {
+            "js_escape": "\ud83c\udf8f",
+            "unicode": "U+1F38F"
+        },
+        "sun_behind_cloud": {
+            "js_escape": "\u26c5",
+            "unicode": "U+26C5"
+        },
+        "thermometer": {
+            "js_escape": "\ud83c\udf21",
+            "unicode": "U+1F321"
+        },
+        "pine_decoration": {
+            "js_escape": "\ud83c\udf8d",
+            "unicode": "U+1F38D"
+        },
+        "christmas_tree": {
+            "js_escape": "\ud83c\udf84",
+            "unicode": "U+1F384"
+        },
+        "moon_viewing_ceremony": {
+            "js_escape": "\ud83c\udf91",
+            "unicode": "U+1F391"
+        },
+        "admission_tickets": {
+            "js_escape": "\ud83c\udf9f",
+            "unicode": "U+1F39F"
+        },
+        "sparkler": {
+            "js_escape": "\ud83c\udf87",
+            "unicode": "U+1F387"
+        },
+        "fog": {
+            "js_escape": "\ud83c\udf2b",
+            "unicode": "U+1F32B"
+        },
+        "shooting_star": {
+            "js_escape": "\ud83c\udf20",
+            "unicode": "U+1F320"
+        },
+        "cloud_with_lightning": {
+            "js_escape": "\ud83c\udf29",
+            "unicode": "U+1F329"
+        },
+        "sun_with_face": {
+            "js_escape": "\ud83c\udf1e",
+            "unicode": "U+1F31E"
+        },
+        "new_moon": {
+            "js_escape": "\ud83c\udf11",
+            "unicode": "U+1F311"
+        },
+        "snowman_without_snow": {
+            "js_escape": "\u26c4",
+            "unicode": "U+26C4"
+        },
+        "jack_o_lantern": {
+            "js_escape": "\ud83c\udf83",
+            "unicode": "U+1F383"
+        },
+        "full_moon": {
+            "js_escape": "\ud83c\udf15",
+            "unicode": "U+1F315"
+        },
+        "umbrella_with_rain_drops": {
+            "js_escape": "\u2614",
+            "unicode": "U+2614"
+        },
+        "reminder_ribbon": {
+            "js_escape": "\ud83c\udf97",
+            "unicode": "U+1F397"
+        },
+        "wrapped_gift": {
+            "js_escape": "\ud83c\udf81",
+            "unicode": "U+1F381"
+        },
+        "wind_chime": {
+            "js_escape": "\ud83c\udf90",
+            "unicode": "U+1F390"
+        },
+        "waxing_gibbous_moon": {
+            "js_escape": "\ud83c\udf14",
+            "unicode": "U+1F314"
+        },
+        "white_medium_star": {
+            "js_escape": "\u2b50",
+            "unicode": "U+2B50"
+        },
+        "umbrella_on_ground": {
+            "js_escape": "\u26f1",
+            "unicode": "U+26F1"
+        },
+        "glowing_star": {
+            "js_escape": "\ud83c\udf1f",
+            "unicode": "U+1F31F"
+        },
+        "sun_behind_rain_cloud": {
+            "js_escape": "\ud83c\udf26",
+            "unicode": "U+1F326"
+        },
+        "crescent_moon": {
+            "js_escape": "\ud83c\udf19",
+            "unicode": "U+1F319"
+        },
+        "sun_behind_large_cloud": {
+            "js_escape": "\ud83c\udf25",
+            "unicode": "U+1F325"
+        },
+        "party_popper": {
+            "js_escape": "\ud83c\udf89",
+            "unicode": "U+1F389"
+        },
+        "japanese_dolls": {
+            "js_escape": "\ud83c\udf8e",
+            "unicode": "U+1F38E"
+        },
+        "cloud_with_lightning_and_rain": {
+            "js_escape": "\u26c8",
+            "unicode": "U+26C8"
+        },
+        "comet": {
+            "js_escape": "\u2604",
+            "unicode": "U+2604"
+        },
+        "tornado": {
+            "js_escape": "\ud83c\udf2a",
+            "unicode": "U+1F32A"
+        },
+        "umbrella": {
+            "js_escape": "\u2602",
+            "unicode": "U+2602"
+        },
+        "cloud": {
+            "js_escape": "\u2601",
+            "unicode": "U+2601"
+        },
+        "closed_umbrella": {
+            "js_escape": "\ud83c\udf02",
+            "unicode": "U+1F302"
+        },
+        "confetti_ball": {
+            "js_escape": "\ud83c\udf8a",
+            "unicode": "U+1F38A"
+        },
+        "new_moon_face": {
+            "js_escape": "\ud83c\udf1a",
+            "unicode": "U+1F31A"
+        },
+        "sun_behind_small_cloud": {
+            "js_escape": "\ud83c\udf24",
+            "unicode": "U+1F324"
+        },
+        "first_quarter_moon_face": {
+            "js_escape": "\ud83c\udf1b",
+            "unicode": "U+1F31B"
+        },
+        "sparkles": {
+            "js_escape": "\u2728",
+            "unicode": "U+2728"
+        },
+        "first_quarter_moon": {
+            "js_escape": "\ud83c\udf13",
+            "unicode": "U+1F313"
+        },
+        "waning_crescent_moon": {
+            "js_escape": "\ud83c\udf18",
+            "unicode": "U+1F318"
+        },
+        "cyclone": {
+            "js_escape": "\ud83c\udf00",
+            "unicode": "U+1F300"
+        },
+        "last_quarter_moon": {
+            "js_escape": "\ud83c\udf17",
+            "unicode": "U+1F317"
+        },
+        "rainbow": {
+            "js_escape": "\ud83c\udf08",
+            "unicode": "U+1F308"
+        },
+        "high_voltage": {
+            "js_escape": "\u26a1",
+            "unicode": "U+26A1"
+        },
+        "full_moon_face": {
+            "js_escape": "\ud83c\udf1d",
+            "unicode": "U+1F31D"
+        },
+        "waning_gibbous_moon": {
+            "js_escape": "\ud83c\udf16",
+            "unicode": "U+1F316"
+        },
+        "last_quarter_moon_face": {
+            "js_escape": "\ud83c\udf1c",
+            "unicode": "U+1F31C"
+        },
+        "cloud_with_rain": {
+            "js_escape": "\ud83c\udf27",
+            "unicode": "U+1F327"
+        },
+        "ribbon": {
+            "js_escape": "\ud83c\udf80",
+            "unicode": "U+1F380"
+        },
+        "snowman": {
+            "js_escape": "\u2603",
+            "unicode": "U+2603"
+        },
+        "cloud_with_snow": {
+            "js_escape": "\ud83c\udf28",
+            "unicode": "U+1F328"
+        }
+    },
+    "game": {
+        "bell_with_slash": {
+            "js_escape": "\ud83d\udd15",
+            "unicode": "U+1F515"
+        },
+        "diamond_suit": {
+            "js_escape": "\u2666",
+            "unicode": "U+2666"
+        },
+        "bell": {
+            "js_escape": "\ud83d\udd14",
+            "unicode": "U+1F514"
+        },
+        "postal_horn": {
+            "js_escape": "\ud83d\udcef",
+            "unicode": "U+1F4EF"
+        },
+        "speaker_high_volume": {
+            "js_escape": "\ud83d\udd0a",
+            "unicode": "U+1F50A"
+        },
+        "muted_speaker": {
+            "js_escape": "\ud83d\udd07",
+            "unicode": "U+1F507"
+        },
+        "joker": {
+            "js_escape": "\ud83c\udccf",
+            "unicode": "U+1F0CF"
+        },
+        "heart_suit": {
+            "js_escape": "\u2665",
+            "unicode": "U+2665"
+        },
+        "spade_suit": {
+            "js_escape": "\u2660",
+            "unicode": "U+2660"
+        },
+        "video_game": {
+            "js_escape": "\ud83c\udfae",
+            "unicode": "U+1F3AE"
+        },
+        "game_die": {
+            "js_escape": "\ud83c\udfb2",
+            "unicode": "U+1F3B2"
+        },
+        "club_suit": {
+            "js_escape": "\u2663",
+            "unicode": "U+2663"
+        },
+        "loudspeaker": {
+            "js_escape": "\ud83d\udce2",
+            "unicode": "U+1F4E2"
+        },
+        "joystick": {
+            "js_escape": "\ud83d\udd79",
+            "unicode": "U+1F579"
+        },
+        "speaker_low_volume": {
+            "js_escape": "\ud83d\udd08",
+            "unicode": "U+1F508"
+        },
+        "megaphone": {
+            "js_escape": "\ud83d\udce3",
+            "unicode": "U+1F4E3"
+        },
+        "speaker_medium_volume": {
+            "js_escape": "\ud83d\udd09",
+            "unicode": "U+1F509"
+        },
+        "flower_playing_cards": {
+            "js_escape": "\ud83c\udfb4",
+            "unicode": "U+1F3B4"
+        },
+        "mahjong_red_dragon": {
+            "js_escape": "\ud83c\udc04",
+            "unicode": "U+1F004"
+        }
+    },
+    "award_medal": {
+        "1st_place_medal": {
+            "js_escape": "\ud83e\udd47",
+            "unicode": "U+1F947"
+        },
+        "military_medal": {
+            "js_escape": "\ud83c\udf96",
+            "unicode": "U+1F396"
+        },
+        "3rd_place_medal": {
+            "js_escape": "\ud83e\udd49",
+            "unicode": "U+1F949"
+        },
+        "2nd_place_medal": {
+            "js_escape": "\ud83e\udd48",
+            "unicode": "U+1F948"
+        },
+        "sports_medal": {
+            "js_escape": "\ud83c\udfc5",
+            "unicode": "U+1F3C5"
+        },
+        "trophy": {
+            "js_escape": "\ud83c\udfc6",
+            "unicode": "U+1F3C6"
+        }
+    }
+}

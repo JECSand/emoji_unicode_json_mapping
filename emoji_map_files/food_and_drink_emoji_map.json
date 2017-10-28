@@ -1,0 +1,496 @@
+{
+    "drink": {
+        "wine_glass": {
+            "js_escape": "\ud83c\udf77",
+            "unicode": "U+1F377"
+        },
+        "cocktail_glass": {
+            "js_escape": "\ud83c\udf78",
+            "unicode": "U+1F378"
+        },
+        "hot_beverage": {
+            "js_escape": "\u2615",
+            "unicode": "U+2615"
+        },
+        "beer_mug": {
+            "js_escape": "\ud83c\udf7a",
+            "unicode": "U+1F37A"
+        },
+        "clinking_beer_mugs": {
+            "js_escape": "\ud83c\udf7b",
+            "unicode": "U+1F37B"
+        },
+        "sake": {
+            "js_escape": "\ud83c\udf76",
+            "unicode": "U+1F376"
+        },
+        "cup_with_straw": {
+            "js_escape": "\ud83e\udd64",
+            "unicode": "U+1F964"
+        },
+        "teacup_without_handle": {
+            "js_escape": "\ud83c\udf75",
+            "unicode": "U+1F375"
+        },
+        "bottle_with_popping_cork": {
+            "js_escape": "\ud83c\udf7e",
+            "unicode": "U+1F37E"
+        },
+        "clinking_glasses": {
+            "js_escape": "\ud83e\udd42",
+            "unicode": "U+1F942"
+        },
+        "baby_bottle": {
+            "js_escape": "\ud83c\udf7c",
+            "unicode": "U+1F37C"
+        },
+        "glass_of_milk": {
+            "js_escape": "\ud83e\udd5b",
+            "unicode": "U+1F95B"
+        },
+        "tropical_drink": {
+            "js_escape": "\ud83c\udf79",
+            "unicode": "U+1F379"
+        },
+        "tumbler_glass": {
+            "js_escape": "\ud83e\udd43",
+            "unicode": "U+1F943"
+        }
+    },
+    "food_fruit": {
+        "sheaf_of_rice": {
+            "js_escape": "\ud83c\udf3e",
+            "unicode": "U+1F33E"
+        },
+        "cactus": {
+            "js_escape": "\ud83c\udf35",
+            "unicode": "U+1F335"
+        },
+        "tomato": {
+            "js_escape": "\ud83c\udf45",
+            "unicode": "U+1F345"
+        },
+        "banana": {
+            "js_escape": "\ud83c\udf4c",
+            "unicode": "U+1F34C"
+        },
+        "strawberry": {
+            "js_escape": "\ud83c\udf53",
+            "unicode": "U+1F353"
+        },
+        "maple_leaf": {
+            "js_escape": "\ud83c\udf41",
+            "unicode": "U+1F341"
+        },
+        "herb": {
+            "js_escape": "\ud83c\udf3f",
+            "unicode": "U+1F33F"
+        },
+        "grapes": {
+            "js_escape": "\ud83c\udf47",
+            "unicode": "U+1F347"
+        },
+        "peach": {
+            "js_escape": "\ud83c\udf51",
+            "unicode": "U+1F351"
+        },
+        "fallen_leaf": {
+            "js_escape": "\ud83c\udf42",
+            "unicode": "U+1F342"
+        },
+        "evergreen_tree": {
+            "js_escape": "\ud83c\udf32",
+            "unicode": "U+1F332"
+        },
+        "tangerine": {
+            "js_escape": "\ud83c\udf4a",
+            "unicode": "U+1F34A"
+        },
+        "watermelon": {
+            "js_escape": "\ud83c\udf49",
+            "unicode": "U+1F349"
+        },
+        "melon": {
+            "js_escape": "\ud83c\udf48",
+            "unicode": "U+1F348"
+        },
+        "coconut": {
+            "js_escape": "\ud83e\udd65",
+            "unicode": "U+1F965"
+        },
+        "seedling": {
+            "js_escape": "\ud83c\udf31",
+            "unicode": "U+1F331"
+        },
+        "palm_tree": {
+            "js_escape": "\ud83c\udf34",
+            "unicode": "U+1F334"
+        },
+        "shamrock": {
+            "js_escape": "\u2618",
+            "unicode": "U+2618"
+        },
+        "leaf_fluttering_in_wind": {
+            "js_escape": "\ud83c\udf43",
+            "unicode": "U+1F343"
+        },
+        "kiwi_fruit": {
+            "js_escape": "\ud83e\udd5d",
+            "unicode": "U+1F95D"
+        },
+        "four_leaf_clover": {
+            "js_escape": "\ud83c\udf40",
+            "unicode": "U+1F340"
+        },
+        "pear": {
+            "js_escape": "\ud83c\udf50",
+            "unicode": "U+1F350"
+        },
+        "pineapple": {
+            "js_escape": "\ud83c\udf4d",
+            "unicode": "U+1F34D"
+        },
+        "lemon": {
+            "js_escape": "\ud83c\udf4b",
+            "unicode": "U+1F34B"
+        },
+        "green_apple": {
+            "js_escape": "\ud83c\udf4f",
+            "unicode": "U+1F34F"
+        },
+        "cherries": {
+            "js_escape": "\ud83c\udf52",
+            "unicode": "U+1F352"
+        },
+        "deciduous_tree": {
+            "js_escape": "\ud83c\udf33",
+            "unicode": "U+1F333"
+        },
+        "red_apple": {
+            "js_escape": "\ud83c\udf4e",
+            "unicode": "U+1F34E"
+        }
+    },
+    "food_vegetable": {
+        "cucumber": {
+            "js_escape": "\ud83e\udd52",
+            "unicode": "U+1F952"
+        },
+        "broccoli": {
+            "js_escape": "\ud83e\udd66",
+            "unicode": "U+1F966"
+        },
+        "avocado": {
+            "js_escape": "\ud83e\udd51",
+            "unicode": "U+1F951"
+        },
+        "mushroom": {
+            "js_escape": "\ud83c\udf44",
+            "unicode": "U+1F344"
+        },
+        "ear_of_corn": {
+            "js_escape": "\ud83c\udf3d",
+            "unicode": "U+1F33D"
+        },
+        "eggplant": {
+            "js_escape": "\ud83c\udf46",
+            "unicode": "U+1F346"
+        },
+        "peanuts": {
+            "js_escape": "\ud83e\udd5c",
+            "unicode": "U+1F95C"
+        },
+        "hot_pepper": {
+            "js_escape": "\ud83c\udf36",
+            "unicode": "U+1F336"
+        },
+        "chestnut": {
+            "js_escape": "\ud83c\udf30",
+            "unicode": "U+1F330"
+        },
+        "potato": {
+            "js_escape": "\ud83e\udd54",
+            "unicode": "U+1F954"
+        },
+        "carrot": {
+            "js_escape": "\ud83e\udd55",
+            "unicode": "U+1F955"
+        }
+    },
+    "dishware": {
+        "kitchen_knife": {
+            "js_escape": "\ud83d\udd2a",
+            "unicode": "U+1F52A"
+        },
+        "chopsticks": {
+            "js_escape": "\ud83e\udd62",
+            "unicode": "U+1F962"
+        },
+        "amphora": {
+            "js_escape": "\ud83c\udffa",
+            "unicode": "U+1F3FA"
+        },
+        "map_of_japan": {
+            "js_escape": "\ud83d\uddfe",
+            "unicode": "U+1F5FE"
+        },
+        "globe_showing_asia_australia": {
+            "js_escape": "\ud83c\udf0f",
+            "unicode": "U+1F30F"
+        },
+        "globe_with_meridians": {
+            "js_escape": "\ud83c\udf10",
+            "unicode": "U+1F310"
+        },
+        "spoon": {
+            "js_escape": "\ud83e\udd44",
+            "unicode": "U+1F944"
+        },
+        "fork_and_knife": {
+            "js_escape": "\ud83c\udf74",
+            "unicode": "U+1F374"
+        },
+        "globe_showing_americas": {
+            "js_escape": "\ud83c\udf0e",
+            "unicode": "U+1F30E"
+        },
+        "world_map": {
+            "js_escape": "\ud83d\uddfa",
+            "unicode": "U+1F5FA"
+        },
+        "fork_and_knife_with_plate": {
+            "js_escape": "\ud83c\udf7d",
+            "unicode": "U+1F37D"
+        },
+        "globe_showing_europe_africa": {
+            "js_escape": "\ud83c\udf0d",
+            "unicode": "U+1F30D"
+        }
+    },
+    "food_prepared": {
+        "cut_of_meat": {
+            "js_escape": "\ud83e\udd69",
+            "unicode": "U+1F969"
+        },
+        "bread": {
+            "js_escape": "\ud83c\udf5e",
+            "unicode": "U+1F35E"
+        },
+        "meat_on_bone": {
+            "js_escape": "\ud83c\udf56",
+            "unicode": "U+1F356"
+        },
+        "hot_dog": {
+            "js_escape": "\ud83c\udf2d",
+            "unicode": "U+1F32D"
+        },
+        "pizza": {
+            "js_escape": "\ud83c\udf55",
+            "unicode": "U+1F355"
+        },
+        "cheese_wedge": {
+            "js_escape": "\ud83e\uddc0",
+            "unicode": "U+1F9C0"
+        },
+        "cooking": {
+            "js_escape": "\ud83c\udf73",
+            "unicode": "U+1F373"
+        },
+        "egg": {
+            "js_escape": "\ud83e\udd5a",
+            "unicode": "U+1F95A"
+        },
+        "baguette_bread": {
+            "js_escape": "\ud83e\udd56",
+            "unicode": "U+1F956"
+        },
+        "pancakes": {
+            "js_escape": "\ud83e\udd5e",
+            "unicode": "U+1F95E"
+        },
+        "burrito": {
+            "js_escape": "\ud83c\udf2f",
+            "unicode": "U+1F32F"
+        },
+        "french_fries": {
+            "js_escape": "\ud83c\udf5f",
+            "unicode": "U+1F35F"
+        },
+        "bowl_with_spoon": {
+            "js_escape": "\ud83e\udd63",
+            "unicode": "U+1F963"
+        },
+        "hamburger": {
+            "js_escape": "\ud83c\udf54",
+            "unicode": "U+1F354"
+        },
+        "pot_of_food": {
+            "js_escape": "\ud83c\udf72",
+            "unicode": "U+1F372"
+        },
+        "taco": {
+            "js_escape": "\ud83c\udf2e",
+            "unicode": "U+1F32E"
+        },
+        "canned_food": {
+            "js_escape": "\ud83e\udd6b",
+            "unicode": "U+1F96B"
+        },
+        "green_salad": {
+            "js_escape": "\ud83e\udd57",
+            "unicode": "U+1F957"
+        },
+        "pretzel": {
+            "js_escape": "\ud83e\udd68",
+            "unicode": "U+1F968"
+        },
+        "sandwich": {
+            "js_escape": "\ud83e\udd6a",
+            "unicode": "U+1F96A"
+        },
+        "croissant": {
+            "js_escape": "\ud83e\udd50",
+            "unicode": "U+1F950"
+        },
+        "bacon": {
+            "js_escape": "\ud83e\udd53",
+            "unicode": "U+1F953"
+        },
+        "stuffed_flatbread": {
+            "js_escape": "\ud83e\udd59",
+            "unicode": "U+1F959"
+        },
+        "shallow_pan_of_food": {
+            "js_escape": "\ud83e\udd58",
+            "unicode": "U+1F958"
+        },
+        "popcorn": {
+            "js_escape": "\ud83c\udf7f",
+            "unicode": "U+1F37F"
+        },
+        "poultry_leg": {
+            "js_escape": "\ud83c\udf57",
+            "unicode": "U+1F357"
+        }
+    },
+    "food_sweet": {
+        "cookie": {
+            "js_escape": "\ud83c\udf6a",
+            "unicode": "U+1F36A"
+        },
+        "shortcake": {
+            "js_escape": "\ud83c\udf70",
+            "unicode": "U+1F370"
+        },
+        "custard": {
+            "js_escape": "\ud83c\udf6e",
+            "unicode": "U+1F36E"
+        },
+        "birthday_cake": {
+            "js_escape": "\ud83c\udf82",
+            "unicode": "U+1F382"
+        },
+        "pie": {
+            "js_escape": "\ud83e\udd67",
+            "unicode": "U+1F967"
+        },
+        "chocolate_bar": {
+            "js_escape": "\ud83c\udf6b",
+            "unicode": "U+1F36B"
+        },
+        "shaved_ice": {
+            "js_escape": "\ud83c\udf67",
+            "unicode": "U+1F367"
+        },
+        "lollipop": {
+            "js_escape": "\ud83c\udf6d",
+            "unicode": "U+1F36D"
+        },
+        "soft_ice_cream": {
+            "js_escape": "\ud83c\udf66",
+            "unicode": "U+1F366"
+        },
+        "ice_cream": {
+            "js_escape": "\ud83c\udf68",
+            "unicode": "U+1F368"
+        },
+        "doughnut": {
+            "js_escape": "\ud83c\udf69",
+            "unicode": "U+1F369"
+        },
+        "candy": {
+            "js_escape": "\ud83c\udf6c",
+            "unicode": "U+1F36C"
+        },
+        "honey_pot": {
+            "js_escape": "\ud83c\udf6f",
+            "unicode": "U+1F36F"
+        }
+    },
+    "food_asian": {
+        "dumpling": {
+            "js_escape": "\ud83e\udd5f",
+            "unicode": "U+1F95F"
+        },
+        "roasted_sweet_potato": {
+            "js_escape": "\ud83c\udf60",
+            "unicode": "U+1F360"
+        },
+        "rice_ball": {
+            "js_escape": "\ud83c\udf59",
+            "unicode": "U+1F359"
+        },
+        "fried_shrimp": {
+            "js_escape": "\ud83c\udf64",
+            "unicode": "U+1F364"
+        },
+        "spaghetti": {
+            "js_escape": "\ud83c\udf5d",
+            "unicode": "U+1F35D"
+        },
+        "bento_box": {
+            "js_escape": "\ud83c\udf71",
+            "unicode": "U+1F371"
+        },
+        "steaming_bowl": {
+            "js_escape": "\ud83c\udf5c",
+            "unicode": "U+1F35C"
+        },
+        "fish_cake_with_swirl": {
+            "js_escape": "\ud83c\udf65",
+            "unicode": "U+1F365"
+        },
+        "rice_cracker": {
+            "js_escape": "\ud83c\udf58",
+            "unicode": "U+1F358"
+        },
+        "sushi": {
+            "js_escape": "\ud83c\udf63",
+            "unicode": "U+1F363"
+        },
+        "fortune_cookie": {
+            "js_escape": "\ud83e\udd60",
+            "unicode": "U+1F960"
+        },
+        "curry_rice": {
+            "js_escape": "\ud83c\udf5b",
+            "unicode": "U+1F35B"
+        },
+        "dango": {
+            "js_escape": "\ud83c\udf61",
+            "unicode": "U+1F361"
+        },
+        "takeout_box": {
+            "js_escape": "\ud83e\udd61",
+            "unicode": "U+1F961"
+        },
+        "oden": {
+            "js_escape": "\ud83c\udf62",
+            "unicode": "U+1F362"
+        },
+        "cooked_rice": {
+            "js_escape": "\ud83c\udf5a",
+            "unicode": "U+1F35A"
+        }
+    }
+}

@@ -1,0 +1,1164 @@
+{
+    "subdivision_flag": {
+        "wales": {
+            "js_escape": "\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc77\udb40\udc6c\udb40\udc73\udb40\udc7f",
+            "unicode": "U+1F3F4 U+E0067 U+E0062 U+E0077 U+E006C U+E0073 U+E007F"
+        },
+        "scotland": {
+            "js_escape": "\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f",
+            "unicode": "U+1F3F4 U+E0067 U+E0062 U+E0073 U+E0063 U+E0074 U+E007F"
+        },
+        "england": {
+            "js_escape": "\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f",
+            "unicode": "U+1F3F4 U+E0067 U+E0062 U+E0065 U+E006E U+E0067 U+E007F"
+        }
+    },
+    "country_flag": {
+        "senegal": {
+            "js_escape": "\ud83c\uddf8\ud83c\uddf3",
+            "unicode": "U+1F1F8 U+1F1F3"
+        },
+        "suriname": {
+            "js_escape": "\ud83c\uddf8\ud83c\uddf7",
+            "unicode": "U+1F1F8 U+1F1F7"
+        },
+        "eritrea": {
+            "js_escape": "\ud83c\uddea\ud83c\uddf7",
+            "unicode": "U+1F1EA U+1F1F7"
+        },
+        "comoros": {
+            "js_escape": "\ud83c\uddf0\ud83c\uddf2",
+            "unicode": "U+1F1F0 U+1F1F2"
+        },
+        "diego_garcia": {
+            "js_escape": "\ud83c\udde9\ud83c\uddec",
+            "unicode": "U+1F1E9 U+1F1EC"
+        },
+        "papua_new_guinea": {
+            "js_escape": "\ud83c\uddf5\ud83c\uddec",
+            "unicode": "U+1F1F5 U+1F1EC"
+        },
+        "ghana": {
+            "js_escape": "\ud83c\uddec\ud83c\udded",
+            "unicode": "U+1F1EC U+1F1ED"
+        },
+        "sri_lanka": {
+            "js_escape": "\ud83c\uddf1\ud83c\uddf0",
+            "unicode": "U+1F1F1 U+1F1F0"
+        },
+        "dominica": {
+            "js_escape": "\ud83c\udde9\ud83c\uddf2",
+            "unicode": "U+1F1E9 U+1F1F2"
+        },
+        "gibraltar": {
+            "js_escape": "\ud83c\uddec\ud83c\uddee",
+            "unicode": "U+1F1EC U+1F1EE"
+        },
+        "portugal": {
+            "js_escape": "\ud83c\uddf5\ud83c\uddf9",
+            "unicode": "U+1F1F5 U+1F1F9"
+        },
+        "kazakhstan": {
+            "js_escape": "\ud83c\uddf0\ud83c\uddff",
+            "unicode": "U+1F1F0 U+1F1FF"
+        },
+        "uruguay": {
+            "js_escape": "\ud83c\uddfa\ud83c\uddfe",
+            "unicode": "U+1F1FA U+1F1FE"
+        },
+        "isle_of_man": {
+            "js_escape": "\ud83c\uddee\ud83c\uddf2",
+            "unicode": "U+1F1EE U+1F1F2"
+        },
+        "curaao": {
+            "js_escape": "\ud83c\udde8\ud83c\uddfc",
+            "unicode": "U+1F1E8 U+1F1FC"
+        },
+        "liechtenstein": {
+            "js_escape": "\ud83c\uddf1\ud83c\uddee",
+            "unicode": "U+1F1F1 U+1F1EE"
+        },
+        "svalbard_jan_mayen": {
+            "js_escape": "\ud83c\uddf8\ud83c\uddef",
+            "unicode": "U+1F1F8 U+1F1EF"
+        },
+        "turkey": {
+            "js_escape": "\ud83c\uddf9\ud83c\uddf7",
+            "unicode": "U+1F1F9 U+1F1F7"
+        },
+        "slovakia": {
+            "js_escape": "\ud83c\uddf8\ud83c\uddf0",
+            "unicode": "U+1F1F8 U+1F1F0"
+        },
+        "puerto_rico": {
+            "js_escape": "\ud83c\uddf5\ud83c\uddf7",
+            "unicode": "U+1F1F5 U+1F1F7"
+        },
+        "andorra": {
+            "js_escape": "\ud83c\udde6\ud83c\udde9",
+            "unicode": "U+1F1E6 U+1F1E9"
+        },
+        "french_polynesia": {
+            "js_escape": "\ud83c\uddf5\ud83c\uddeb",
+            "unicode": "U+1F1F5 U+1F1EB"
+        },
+        "italy": {
+            "js_escape": "\ud83c\uddee\ud83c\uddf9",
+            "unicode": "U+1F1EE U+1F1F9"
+        },
+        "bulgaria": {
+            "js_escape": "\ud83c\udde7\ud83c\uddec",
+            "unicode": "U+1F1E7 U+1F1EC"
+        },
+        "romania": {
+            "js_escape": "\ud83c\uddf7\ud83c\uddf4",
+            "unicode": "U+1F1F7 U+1F1F4"
+        },
+        "canada": {
+            "js_escape": "\ud83c\udde8\ud83c\udde6",
+            "unicode": "U+1F1E8 U+1F1E6"
+        },
+        "iceland": {
+            "js_escape": "\ud83c\uddee\ud83c\uddf8",
+            "unicode": "U+1F1EE U+1F1F8"
+        },
+        "finland": {
+            "js_escape": "\ud83c\uddeb\ud83c\uddee",
+            "unicode": "U+1F1EB U+1F1EE"
+        },
+        "cte_divoire": {
+            "js_escape": "\ud83c\udde8\ud83c\uddee",
+            "unicode": "U+1F1E8 U+1F1EE"
+        },
+        "yemen": {
+            "js_escape": "\ud83c\uddfe\ud83c\uddea",
+            "unicode": "U+1F1FE U+1F1EA"
+        },
+        "china": {
+            "js_escape": "\ud83c\udde8\ud83c\uddf3",
+            "unicode": "U+1F1E8 U+1F1F3"
+        },
+        "saudi_arabia": {
+            "js_escape": "\ud83c\uddf8\ud83c\udde6",
+            "unicode": "U+1F1F8 U+1F1E6"
+        },
+        "nicaragua": {
+            "js_escape": "\ud83c\uddf3\ud83c\uddee",
+            "unicode": "U+1F1F3 U+1F1EE"
+        },
+        "australia": {
+            "js_escape": "\ud83c\udde6\ud83c\uddfa",
+            "unicode": "U+1F1E6 U+1F1FA"
+        },
+        "mongolia": {
+            "js_escape": "\ud83c\uddf2\ud83c\uddf3",
+            "unicode": "U+1F1F2 U+1F1F3"
+        },
+        "jordan": {
+            "js_escape": "\ud83c\uddef\ud83c\uddf4",
+            "unicode": "U+1F1EF U+1F1F4"
+        },
+        "palau": {
+            "js_escape": "\ud83c\uddf5\ud83c\uddfc",
+            "unicode": "U+1F1F5 U+1F1FC"
+        },
+        "georgia": {
+            "js_escape": "\ud83c\uddec\ud83c\uddea",
+            "unicode": "U+1F1EC U+1F1EA"
+        },
+        "hong_kong_sar_china": {
+            "js_escape": "\ud83c\udded\ud83c\uddf0",
+            "unicode": "U+1F1ED U+1F1F0"
+        },
+        "tajikistan": {
+            "js_escape": "\ud83c\uddf9\ud83c\uddef",
+            "unicode": "U+1F1F9 U+1F1EF"
+        },
+        "so_tom_prncipe": {
+            "js_escape": "\ud83c\uddf8\ud83c\uddf9",
+            "unicode": "U+1F1F8 U+1F1F9"
+        },
+        "antarctica": {
+            "js_escape": "\ud83c\udde6\ud83c\uddf6",
+            "unicode": "U+1F1E6 U+1F1F6"
+        },
+        "benin": {
+            "js_escape": "\ud83c\udde7\ud83c\uddef",
+            "unicode": "U+1F1E7 U+1F1EF"
+        },
+        "us_outlying_islands": {
+            "js_escape": "\ud83c\uddfa\ud83c\uddf2",
+            "unicode": "U+1F1FA U+1F1F2"
+        },
+        "libya": {
+            "js_escape": "\ud83c\uddf1\ud83c\uddfe",
+            "unicode": "U+1F1F1 U+1F1FE"
+        },
+        "seychelles": {
+            "js_escape": "\ud83c\uddf8\ud83c\udde8",
+            "unicode": "U+1F1F8 U+1F1E8"
+        },
+        "ukraine": {
+            "js_escape": "\ud83c\uddfa\ud83c\udde6",
+            "unicode": "U+1F1FA U+1F1E6"
+        },
+        "caribbean_netherlands": {
+            "js_escape": "\ud83c\udde7\ud83c\uddf6",
+            "unicode": "U+1F1E7 U+1F1F6"
+        },
+        "zimbabwe": {
+            "js_escape": "\ud83c\uddff\ud83c\uddfc",
+            "unicode": "U+1F1FF U+1F1FC"
+        },
+        "el_salvador": {
+            "js_escape": "\ud83c\uddf8\ud83c\uddfb",
+            "unicode": "U+1F1F8 U+1F1FB"
+        },
+        "micronesia": {
+            "js_escape": "\ud83c\uddeb\ud83c\uddf2",
+            "unicode": "U+1F1EB U+1F1F2"
+        },
+        "united_states": {
+            "js_escape": "\ud83c\uddfa\ud83c\uddf8",
+            "unicode": "U+1F1FA U+1F1F8"
+        },
+        "angola": {
+            "js_escape": "\ud83c\udde6\ud83c\uddf4",
+            "unicode": "U+1F1E6 U+1F1F4"
+        },
+        "equatorial_guinea": {
+            "js_escape": "\ud83c\uddec\ud83c\uddf6",
+            "unicode": "U+1F1EC U+1F1F6"
+        },
+        "kenya": {
+            "js_escape": "\ud83c\uddf0\ud83c\uddea",
+            "unicode": "U+1F1F0 U+1F1EA"
+        },
+        "lesotho": {
+            "js_escape": "\ud83c\uddf1\ud83c\uddf8",
+            "unicode": "U+1F1F1 U+1F1F8"
+        },
+        "hungary": {
+            "js_escape": "\ud83c\udded\ud83c\uddfa",
+            "unicode": "U+1F1ED U+1F1FA"
+        },
+        "st_pierre_miquelon": {
+            "js_escape": "\ud83c\uddf5\ud83c\uddf2",
+            "unicode": "U+1F1F5 U+1F1F2"
+        },
+        "turks_caicos_islands": {
+            "js_escape": "\ud83c\uddf9\ud83c\udde8",
+            "unicode": "U+1F1F9 U+1F1E8"
+        },
+        "new_zealand": {
+            "js_escape": "\ud83c\uddf3\ud83c\uddff",
+            "unicode": "U+1F1F3 U+1F1FF"
+        },
+        "san_marino": {
+            "js_escape": "\ud83c\uddf8\ud83c\uddf2",
+            "unicode": "U+1F1F8 U+1F1F2"
+        },
+        "united_kingdom": {
+            "js_escape": "\ud83c\uddec\ud83c\udde7",
+            "unicode": "U+1F1EC U+1F1E7"
+        },
+        "morocco": {
+            "js_escape": "\ud83c\uddf2\ud83c\udde6",
+            "unicode": "U+1F1F2 U+1F1E6"
+        },
+        "costa_rica": {
+            "js_escape": "\ud83c\udde8\ud83c\uddf7",
+            "unicode": "U+1F1E8 U+1F1F7"
+        },
+        "tonga": {
+            "js_escape": "\ud83c\uddf9\ud83c\uddf4",
+            "unicode": "U+1F1F9 U+1F1F4"
+        },
+        "cocos_keeling_islands": {
+            "js_escape": "\ud83c\udde8\ud83c\udde8",
+            "unicode": "U+1F1E8 U+1F1E8"
+        },
+        "malta": {
+            "js_escape": "\ud83c\uddf2\ud83c\uddf9",
+            "unicode": "U+1F1F2 U+1F1F9"
+        },
+        "guinea": {
+            "js_escape": "\ud83c\uddec\ud83c\uddf3",
+            "unicode": "U+1F1EC U+1F1F3"
+        },
+        "macau_sar_china": {
+            "js_escape": "\ud83c\uddf2\ud83c\uddf4",
+            "unicode": "U+1F1F2 U+1F1F4"
+        },
+        "egypt": {
+            "js_escape": "\ud83c\uddea\ud83c\uddec",
+            "unicode": "U+1F1EA U+1F1EC"
+        },
+        "namibia": {
+            "js_escape": "\ud83c\uddf3\ud83c\udde6",
+            "unicode": "U+1F1F3 U+1F1E6"
+        },
+        "netherlands": {
+            "js_escape": "\ud83c\uddf3\ud83c\uddf1",
+            "unicode": "U+1F1F3 U+1F1F1"
+        },
+        "belgium": {
+            "js_escape": "\ud83c\udde7\ud83c\uddea",
+            "unicode": "U+1F1E7 U+1F1EA"
+        },
+        "venezuela": {
+            "js_escape": "\ud83c\uddfb\ud83c\uddea",
+            "unicode": "U+1F1FB U+1F1EA"
+        },
+        "latvia": {
+            "js_escape": "\ud83c\uddf1\ud83c\uddfb",
+            "unicode": "U+1F1F1 U+1F1FB"
+        },
+        "kyrgyzstan": {
+            "js_escape": "\ud83c\uddf0\ud83c\uddec",
+            "unicode": "U+1F1F0 U+1F1EC"
+        },
+        "sweden": {
+            "js_escape": "\ud83c\uddf8\ud83c\uddea",
+            "unicode": "U+1F1F8 U+1F1EA"
+        },
+        "brunei": {
+            "js_escape": "\ud83c\udde7\ud83c\uddf3",
+            "unicode": "U+1F1E7 U+1F1F3"
+        },
+        "runion": {
+            "js_escape": "\ud83c\uddf7\ud83c\uddea",
+            "unicode": "U+1F1F7 U+1F1EA"
+        },
+        "myanmar_burma": {
+            "js_escape": "\ud83c\uddf2\ud83c\uddf2",
+            "unicode": "U+1F1F2 U+1F1F2"
+        },
+        "israel": {
+            "js_escape": "\ud83c\uddee\ud83c\uddf1",
+            "unicode": "U+1F1EE U+1F1F1"
+        },
+        "bolivia": {
+            "js_escape": "\ud83c\udde7\ud83c\uddf4",
+            "unicode": "U+1F1E7 U+1F1F4"
+        },
+        "luxembourg": {
+            "js_escape": "\ud83c\uddf1\ud83c\uddfa",
+            "unicode": "U+1F1F1 U+1F1FA"
+        },
+        "land_islands": {
+            "js_escape": "\ud83c\udde6\ud83c\uddfd",
+            "unicode": "U+1F1E6 U+1F1FD"
+        },
+        "samoa": {
+            "js_escape": "\ud83c\uddfc\ud83c\uddf8",
+            "unicode": "U+1F1FC U+1F1F8"
+        },
+        "clipperton_island": {
+            "js_escape": "\ud83c\udde8\ud83c\uddf5",
+            "unicode": "U+1F1E8 U+1F1F5"
+        },
+        "montserrat": {
+            "js_escape": "\ud83c\uddf2\ud83c\uddf8",
+            "unicode": "U+1F1F2 U+1F1F8"
+        },
+        "tanzania": {
+            "js_escape": "\ud83c\uddf9\ud83c\uddff",
+            "unicode": "U+1F1F9 U+1F1FF"
+        },
+        "kuwait": {
+            "js_escape": "\ud83c\uddf0\ud83c\uddfc",
+            "unicode": "U+1F1F0 U+1F1FC"
+        },
+        "uganda": {
+            "js_escape": "\ud83c\uddfa\ud83c\uddec",
+            "unicode": "U+1F1FA U+1F1EC"
+        },
+        "japan": {
+            "js_escape": "\ud83c\uddef\ud83c\uddf5",
+            "unicode": "U+1F1EF U+1F1F5"
+        },
+        "european_union": {
+            "js_escape": "\ud83c\uddea\ud83c\uddfa",
+            "unicode": "U+1F1EA U+1F1FA"
+        },
+        "anguilla": {
+            "js_escape": "\ud83c\udde6\ud83c\uddee",
+            "unicode": "U+1F1E6 U+1F1EE"
+        },
+        "denmark": {
+            "js_escape": "\ud83c\udde9\ud83c\uddf0",
+            "unicode": "U+1F1E9 U+1F1F0"
+        },
+        "moldova": {
+            "js_escape": "\ud83c\uddf2\ud83c\udde9",
+            "unicode": "U+1F1F2 U+1F1E9"
+        },
+        "western_sahara": {
+            "js_escape": "\ud83c\uddea\ud83c\udded",
+            "unicode": "U+1F1EA U+1F1ED"
+        },
+        "ireland": {
+            "js_escape": "\ud83c\uddee\ud83c\uddea",
+            "unicode": "U+1F1EE U+1F1EA"
+        },
+        "paraguay": {
+            "js_escape": "\ud83c\uddf5\ud83c\uddfe",
+            "unicode": "U+1F1F5 U+1F1FE"
+        },
+        "sierra_leone": {
+            "js_escape": "\ud83c\uddf8\ud83c\uddf1",
+            "unicode": "U+1F1F8 U+1F1F1"
+        },
+        "sudan": {
+            "js_escape": "\ud83c\uddf8\ud83c\udde9",
+            "unicode": "U+1F1F8 U+1F1E9"
+        },
+        "mauritania": {
+            "js_escape": "\ud83c\uddf2\ud83c\uddf7",
+            "unicode": "U+1F1F2 U+1F1F7"
+        },
+        "jamaica": {
+            "js_escape": "\ud83c\uddef\ud83c\uddf2",
+            "unicode": "U+1F1EF U+1F1F2"
+        },
+        "serbia": {
+            "js_escape": "\ud83c\uddf7\ud83c\uddf8",
+            "unicode": "U+1F1F7 U+1F1F8"
+        },
+        "poland": {
+            "js_escape": "\ud83c\uddf5\ud83c\uddf1",
+            "unicode": "U+1F1F5 U+1F1F1"
+        },
+        "mexico": {
+            "js_escape": "\ud83c\uddf2\ud83c\uddfd",
+            "unicode": "U+1F1F2 U+1F1FD"
+        },
+        "albania": {
+            "js_escape": "\ud83c\udde6\ud83c\uddf1",
+            "unicode": "U+1F1E6 U+1F1F1"
+        },
+        "martinique": {
+            "js_escape": "\ud83c\uddf2\ud83c\uddf6",
+            "unicode": "U+1F1F2 U+1F1F6"
+        },
+        "azerbaijan": {
+            "js_escape": "\ud83c\udde6\ud83c\uddff",
+            "unicode": "U+1F1E6 U+1F1FF"
+        },
+        "british_indian_ocean_territory": {
+            "js_escape": "\ud83c\uddee\ud83c\uddf4",
+            "unicode": "U+1F1EE U+1F1F4"
+        },
+        "guatemala": {
+            "js_escape": "\ud83c\uddec\ud83c\uddf9",
+            "unicode": "U+1F1EC U+1F1F9"
+        },
+        "french_southern_territories": {
+            "js_escape": "\ud83c\uddf9\ud83c\uddeb",
+            "unicode": "U+1F1F9 U+1F1EB"
+        },
+        "qatar": {
+            "js_escape": "\ud83c\uddf6\ud83c\udde6",
+            "unicode": "U+1F1F6 U+1F1E6"
+        },
+        "nigeria": {
+            "js_escape": "\ud83c\uddf3\ud83c\uddec",
+            "unicode": "U+1F1F3 U+1F1EC"
+        },
+        "cambodia": {
+            "js_escape": "\ud83c\uddf0\ud83c\udded",
+            "unicode": "U+1F1F0 U+1F1ED"
+        },
+        "bahamas": {
+            "js_escape": "\ud83c\udde7\ud83c\uddf8",
+            "unicode": "U+1F1E7 U+1F1F8"
+        },
+        "wallis_futuna": {
+            "js_escape": "\ud83c\uddfc\ud83c\uddeb",
+            "unicode": "U+1F1FC U+1F1EB"
+        },
+        "gabon": {
+            "js_escape": "\ud83c\uddec\ud83c\udde6",
+            "unicode": "U+1F1EC U+1F1E6"
+        },
+        "afghanistan": {
+            "js_escape": "\ud83c\udde6\ud83c\uddeb",
+            "unicode": "U+1F1E6 U+1F1EB"
+        },
+        "austria": {
+            "js_escape": "\ud83c\udde6\ud83c\uddf9",
+            "unicode": "U+1F1E6 U+1F1F9"
+        },
+        "france": {
+            "js_escape": "\ud83c\uddeb\ud83c\uddf7",
+            "unicode": "U+1F1EB U+1F1F7"
+        },
+        "panama": {
+            "js_escape": "\ud83c\uddf5\ud83c\udde6",
+            "unicode": "U+1F1F5 U+1F1E6"
+        },
+        "christmas_island": {
+            "js_escape": "\ud83c\udde8\ud83c\uddfd",
+            "unicode": "U+1F1E8 U+1F1FD"
+        },
+        "brazil": {
+            "js_escape": "\ud83c\udde7\ud83c\uddf7",
+            "unicode": "U+1F1E7 U+1F1F7"
+        },
+        "marshall_islands": {
+            "js_escape": "\ud83c\uddf2\ud83c\udded",
+            "unicode": "U+1F1F2 U+1F1ED"
+        },
+        "macedonia": {
+            "js_escape": "\ud83c\uddf2\ud83c\uddf0",
+            "unicode": "U+1F1F2 U+1F1F0"
+        },
+        "french_guiana": {
+            "js_escape": "\ud83c\uddec\ud83c\uddeb",
+            "unicode": "U+1F1EC U+1F1EB"
+        },
+        "cameroon": {
+            "js_escape": "\ud83c\udde8\ud83c\uddf2",
+            "unicode": "U+1F1E8 U+1F1F2"
+        },
+        "croatia": {
+            "js_escape": "\ud83c\udded\ud83c\uddf7",
+            "unicode": "U+1F1ED U+1F1F7"
+        },
+        "new_caledonia": {
+            "js_escape": "\ud83c\uddf3\ud83c\udde8",
+            "unicode": "U+1F1F3 U+1F1E8"
+        },
+        "syria": {
+            "js_escape": "\ud83c\uddf8\ud83c\uddfe",
+            "unicode": "U+1F1F8 U+1F1FE"
+        },
+        "dominican_republic": {
+            "js_escape": "\ud83c\udde9\ud83c\uddf4",
+            "unicode": "U+1F1E9 U+1F1F4"
+        },
+        "st_barthlemy": {
+            "js_escape": "\ud83c\udde7\ud83c\uddf1",
+            "unicode": "U+1F1E7 U+1F1F1"
+        },
+        "maldives": {
+            "js_escape": "\ud83c\uddf2\ud83c\uddfb",
+            "unicode": "U+1F1F2 U+1F1FB"
+        },
+        "south_sudan": {
+            "js_escape": "\ud83c\uddf8\ud83c\uddf8",
+            "unicode": "U+1F1F8 U+1F1F8"
+        },
+        "timor_leste": {
+            "js_escape": "\ud83c\uddf9\ud83c\uddf1",
+            "unicode": "U+1F1F9 U+1F1F1"
+        },
+        "djibouti": {
+            "js_escape": "\ud83c\udde9\ud83c\uddef",
+            "unicode": "U+1F1E9 U+1F1EF"
+        },
+        "antigua_barbuda": {
+            "js_escape": "\ud83c\udde6\ud83c\uddec",
+            "unicode": "U+1F1E6 U+1F1EC"
+        },
+        "ascension_island": {
+            "js_escape": "\ud83c\udde6\ud83c\udde8",
+            "unicode": "U+1F1E6 U+1F1E8"
+        },
+        "oman": {
+            "js_escape": "\ud83c\uddf4\ud83c\uddf2",
+            "unicode": "U+1F1F4 U+1F1F2"
+        },
+        "laos": {
+            "js_escape": "\ud83c\uddf1\ud83c\udde6",
+            "unicode": "U+1F1F1 U+1F1E6"
+        },
+        "taiwan": {
+            "js_escape": "\ud83c\uddf9\ud83c\uddfc",
+            "unicode": "U+1F1F9 U+1F1FC"
+        },
+        "burundi": {
+            "js_escape": "\ud83c\udde7\ud83c\uddee",
+            "unicode": "U+1F1E7 U+1F1EE"
+        },
+        "ethiopia": {
+            "js_escape": "\ud83c\uddea\ud83c\uddf9",
+            "unicode": "U+1F1EA U+1F1F9"
+        },
+        "germany": {
+            "js_escape": "\ud83c\udde9\ud83c\uddea",
+            "unicode": "U+1F1E9 U+1F1EA"
+        },
+        "united_nations": {
+            "js_escape": "\ud83c\uddfa\ud83c\uddf3",
+            "unicode": "U+1F1FA U+1F1F3"
+        },
+        "swaziland": {
+            "js_escape": "\ud83c\uddf8\ud83c\uddff",
+            "unicode": "U+1F1F8 U+1F1FF"
+        },
+        "st_martin": {
+            "js_escape": "\ud83c\uddf2\ud83c\uddeb",
+            "unicode": "U+1F1F2 U+1F1EB"
+        },
+        "trinidad_tobago": {
+            "js_escape": "\ud83c\uddf9\ud83c\uddf9",
+            "unicode": "U+1F1F9 U+1F1F9"
+        },
+        "haiti": {
+            "js_escape": "\ud83c\udded\ud83c\uddf9",
+            "unicode": "U+1F1ED U+1F1F9"
+        },
+        "tunisia": {
+            "js_escape": "\ud83c\uddf9\ud83c\uddf3",
+            "unicode": "U+1F1F9 U+1F1F3"
+        },
+        "north_korea": {
+            "js_escape": "\ud83c\uddf0\ud83c\uddf5",
+            "unicode": "U+1F1F0 U+1F1F5"
+        },
+        "south_korea": {
+            "js_escape": "\ud83c\uddf0\ud83c\uddf7",
+            "unicode": "U+1F1F0 U+1F1F7"
+        },
+        "niger": {
+            "js_escape": "\ud83c\uddf3\ud83c\uddea",
+            "unicode": "U+1F1F3 U+1F1EA"
+        },
+        "peru": {
+            "js_escape": "\ud83c\uddf5\ud83c\uddea",
+            "unicode": "U+1F1F5 U+1F1EA"
+        },
+        "belarus": {
+            "js_escape": "\ud83c\udde7\ud83c\uddfe",
+            "unicode": "U+1F1E7 U+1F1FE"
+        },
+        "bermuda": {
+            "js_escape": "\ud83c\udde7\ud83c\uddf2",
+            "unicode": "U+1F1E7 U+1F1F2"
+        },
+        "india": {
+            "js_escape": "\ud83c\uddee\ud83c\uddf3",
+            "unicode": "U+1F1EE U+1F1F3"
+        },
+        "pakistan": {
+            "js_escape": "\ud83c\uddf5\ud83c\uddf0",
+            "unicode": "U+1F1F5 U+1F1F0"
+        },
+        "singapore": {
+            "js_escape": "\ud83c\uddf8\ud83c\uddec",
+            "unicode": "U+1F1F8 U+1F1EC"
+        },
+        "tristan_da_cunha": {
+            "js_escape": "\ud83c\uddf9\ud83c\udde6",
+            "unicode": "U+1F1F9 U+1F1E6"
+        },
+        "switzerland": {
+            "js_escape": "\ud83c\udde8\ud83c\udded",
+            "unicode": "U+1F1E8 U+1F1ED"
+        },
+        "south_africa": {
+            "js_escape": "\ud83c\uddff\ud83c\udde6",
+            "unicode": "U+1F1FF U+1F1E6"
+        },
+        "bangladesh": {
+            "js_escape": "\ud83c\udde7\ud83c\udde9",
+            "unicode": "U+1F1E7 U+1F1E9"
+        },
+        "faroe_islands": {
+            "js_escape": "\ud83c\uddeb\ud83c\uddf4",
+            "unicode": "U+1F1EB U+1F1F4"
+        },
+        "norfolk_island": {
+            "js_escape": "\ud83c\uddf3\ud83c\uddeb",
+            "unicode": "U+1F1F3 U+1F1EB"
+        },
+        "estonia": {
+            "js_escape": "\ud83c\uddea\ud83c\uddea",
+            "unicode": "U+1F1EA U+1F1EA"
+        },
+        "congo_kinshasa": {
+            "js_escape": "\ud83c\udde8\ud83c\udde9",
+            "unicode": "U+1F1E8 U+1F1E9"
+        },
+        "south_georgia_south_sandwich_islands": {
+            "js_escape": "\ud83c\uddec\ud83c\uddf8",
+            "unicode": "U+1F1EC U+1F1F8"
+        },
+        "colombia": {
+            "js_escape": "\ud83c\udde8\ud83c\uddf4",
+            "unicode": "U+1F1E8 U+1F1F4"
+        },
+        "uzbekistan": {
+            "js_escape": "\ud83c\uddfa\ud83c\uddff",
+            "unicode": "U+1F1FA U+1F1FF"
+        },
+        "ecuador": {
+            "js_escape": "\ud83c\uddea\ud83c\udde8",
+            "unicode": "U+1F1EA U+1F1E8"
+        },
+        "togo": {
+            "js_escape": "\ud83c\uddf9\ud83c\uddec",
+            "unicode": "U+1F1F9 U+1F1EC"
+        },
+        "cyprus": {
+            "js_escape": "\ud83c\udde8\ud83c\uddfe",
+            "unicode": "U+1F1E8 U+1F1FE"
+        },
+        "armenia": {
+            "js_escape": "\ud83c\udde6\ud83c\uddf2",
+            "unicode": "U+1F1E6 U+1F1F2"
+        },
+        "indonesia": {
+            "js_escape": "\ud83c\uddee\ud83c\udde9",
+            "unicode": "U+1F1EE U+1F1E9"
+        },
+        "mauritius": {
+            "js_escape": "\ud83c\uddf2\ud83c\uddfa",
+            "unicode": "U+1F1F2 U+1F1FA"
+        },
+        "congo_brazzaville": {
+            "js_escape": "\ud83c\udde8\ud83c\uddec",
+            "unicode": "U+1F1E8 U+1F1EC"
+        },
+        "algeria": {
+            "js_escape": "\ud83c\udde9\ud83c\uddff",
+            "unicode": "U+1F1E9 U+1F1FF"
+        },
+        "vatican_city": {
+            "js_escape": "\ud83c\uddfb\ud83c\udde6",
+            "unicode": "U+1F1FB U+1F1E6"
+        },
+        "nepal": {
+            "js_escape": "\ud83c\uddf3\ud83c\uddf5",
+            "unicode": "U+1F1F3 U+1F1F5"
+        },
+        "norway": {
+            "js_escape": "\ud83c\uddf3\ud83c\uddf4",
+            "unicode": "U+1F1F3 U+1F1F4"
+        },
+        "nauru": {
+            "js_escape": "\ud83c\uddf3\ud83c\uddf7",
+            "unicode": "U+1F1F3 U+1F1F7"
+        },
+        "tuvalu": {
+            "js_escape": "\ud83c\uddf9\ud83c\uddfb",
+            "unicode": "U+1F1F9 U+1F1FB"
+        },
+        "st_lucia": {
+            "js_escape": "\ud83c\uddf1\ud83c\udde8",
+            "unicode": "U+1F1F1 U+1F1E8"
+        },
+        "grenada": {
+            "js_escape": "\ud83c\uddec\ud83c\udde9",
+            "unicode": "U+1F1EC U+1F1E9"
+        },
+        "rwanda": {
+            "js_escape": "\ud83c\uddf7\ud83c\uddfc",
+            "unicode": "U+1F1F7 U+1F1FC"
+        },
+        "burkina_faso": {
+            "js_escape": "\ud83c\udde7\ud83c\uddeb",
+            "unicode": "U+1F1E7 U+1F1EB"
+        },
+        "mozambique": {
+            "js_escape": "\ud83c\uddf2\ud83c\uddff",
+            "unicode": "U+1F1F2 U+1F1FF"
+        },
+        "thailand": {
+            "js_escape": "\ud83c\uddf9\ud83c\udded",
+            "unicode": "U+1F1F9 U+1F1ED"
+        },
+        "russia": {
+            "js_escape": "\ud83c\uddf7\ud83c\uddfa",
+            "unicode": "U+1F1F7 U+1F1FA"
+        },
+        "guernsey": {
+            "js_escape": "\ud83c\uddec\ud83c\uddec",
+            "unicode": "U+1F1EC U+1F1EC"
+        },
+        "northern_mariana_islands": {
+            "js_escape": "\ud83c\uddf2\ud83c\uddf5",
+            "unicode": "U+1F1F2 U+1F1F5"
+        },
+        "turkmenistan": {
+            "js_escape": "\ud83c\uddf9\ud83c\uddf2",
+            "unicode": "U+1F1F9 U+1F1F2"
+        },
+        "bosnia_herzegovina": {
+            "js_escape": "\ud83c\udde7\ud83c\udde6",
+            "unicode": "U+1F1E7 U+1F1E6"
+        },
+        "guinea_bissau": {
+            "js_escape": "\ud83c\uddec\ud83c\uddfc",
+            "unicode": "U+1F1EC U+1F1FC"
+        },
+        "greece": {
+            "js_escape": "\ud83c\uddec\ud83c\uddf7",
+            "unicode": "U+1F1EC U+1F1F7"
+        },
+        "belize": {
+            "js_escape": "\ud83c\udde7\ud83c\uddff",
+            "unicode": "U+1F1E7 U+1F1FF"
+        },
+        "guadeloupe": {
+            "js_escape": "\ud83c\uddec\ud83c\uddf5",
+            "unicode": "U+1F1EC U+1F1F5"
+        },
+        "guyana": {
+            "js_escape": "\ud83c\uddec\ud83c\uddfe",
+            "unicode": "U+1F1EC U+1F1FE"
+        },
+        "vanuatu": {
+            "js_escape": "\ud83c\uddfb\ud83c\uddfa",
+            "unicode": "U+1F1FB U+1F1FA"
+        },
+        "cook_islands": {
+            "js_escape": "\ud83c\udde8\ud83c\uddf0",
+            "unicode": "U+1F1E8 U+1F1F0"
+        },
+        "falkland_islands": {
+            "js_escape": "\ud83c\uddeb\ud83c\uddf0",
+            "unicode": "U+1F1EB U+1F1F0"
+        },
+        "aruba": {
+            "js_escape": "\ud83c\udde6\ud83c\uddfc",
+            "unicode": "U+1F1E6 U+1F1FC"
+        },
+        "gambia": {
+            "js_escape": "\ud83c\uddec\ud83c\uddf2",
+            "unicode": "U+1F1EC U+1F1F2"
+        },
+        "st_kitts_nevis": {
+            "js_escape": "\ud83c\uddf0\ud83c\uddf3",
+            "unicode": "U+1F1F0 U+1F1F3"
+        },
+        "sint_maarten": {
+            "js_escape": "\ud83c\uddf8\ud83c\uddfd",
+            "unicode": "U+1F1F8 U+1F1FD"
+        },
+        "cape_verde": {
+            "js_escape": "\ud83c\udde8\ud83c\uddfb",
+            "unicode": "U+1F1E8 U+1F1FB"
+        },
+        "mali": {
+            "js_escape": "\ud83c\uddf2\ud83c\uddf1",
+            "unicode": "U+1F1F2 U+1F1F1"
+        },
+        "barbados": {
+            "js_escape": "\ud83c\udde7\ud83c\udde7",
+            "unicode": "U+1F1E7 U+1F1E7"
+        },
+        "british_virgin_islands": {
+            "js_escape": "\ud83c\uddfb\ud83c\uddec",
+            "unicode": "U+1F1FB U+1F1EC"
+        },
+        "tokelau": {
+            "js_escape": "\ud83c\uddf9\ud83c\uddf0",
+            "unicode": "U+1F1F9 U+1F1F0"
+        },
+        "liberia": {
+            "js_escape": "\ud83c\uddf1\ud83c\uddf7",
+            "unicode": "U+1F1F1 U+1F1F7"
+        },
+        "iraq": {
+            "js_escape": "\ud83c\uddee\ud83c\uddf6",
+            "unicode": "U+1F1EE U+1F1F6"
+        },
+        "iran": {
+            "js_escape": "\ud83c\uddee\ud83c\uddf7",
+            "unicode": "U+1F1EE U+1F1F7"
+        },
+        "bhutan": {
+            "js_escape": "\ud83c\udde7\ud83c\uddf9",
+            "unicode": "U+1F1E7 U+1F1F9"
+        },
+        "malawi": {
+            "js_escape": "\ud83c\uddf2\ud83c\uddfc",
+            "unicode": "U+1F1F2 U+1F1FC"
+        },
+        "honduras": {
+            "js_escape": "\ud83c\udded\ud83c\uddf3",
+            "unicode": "U+1F1ED U+1F1F3"
+        },
+        "canary_islands": {
+            "js_escape": "\ud83c\uddee\ud83c\udde8",
+            "unicode": "U+1F1EE U+1F1E8"
+        },
+        "lebanon": {
+            "js_escape": "\ud83c\uddf1\ud83c\udde7",
+            "unicode": "U+1F1F1 U+1F1E7"
+        },
+        "mayotte": {
+            "js_escape": "\ud83c\uddfe\ud83c\uddf9",
+            "unicode": "U+1F1FE U+1F1F9"
+        },
+        "chile": {
+            "js_escape": "\ud83c\udde8\ud83c\uddf1",
+            "unicode": "U+1F1E8 U+1F1F1"
+        },
+        "american_samoa": {
+            "js_escape": "\ud83c\udde6\ud83c\uddf8",
+            "unicode": "U+1F1E6 U+1F1F8"
+        },
+        "guam": {
+            "js_escape": "\ud83c\uddec\ud83c\uddfa",
+            "unicode": "U+1F1EC U+1F1FA"
+        },
+        "zambia": {
+            "js_escape": "\ud83c\uddff\ud83c\uddf2",
+            "unicode": "U+1F1FF U+1F1F2"
+        },
+        "cuba": {
+            "js_escape": "\ud83c\udde8\ud83c\uddfa",
+            "unicode": "U+1F1E8 U+1F1FA"
+        },
+        "vietnam": {
+            "js_escape": "\ud83c\uddfb\ud83c\uddf3",
+            "unicode": "U+1F1FB U+1F1F3"
+        },
+        "czechia": {
+            "js_escape": "\ud83c\udde8\ud83c\uddff",
+            "unicode": "U+1F1E8 U+1F1FF"
+        },
+        "madagascar": {
+            "js_escape": "\ud83c\uddf2\ud83c\uddec",
+            "unicode": "U+1F1F2 U+1F1EC"
+        },
+        "montenegro": {
+            "js_escape": "\ud83c\uddf2\ud83c\uddea",
+            "unicode": "U+1F1F2 U+1F1EA"
+        },
+        "philippines": {
+            "js_escape": "\ud83c\uddf5\ud83c\udded",
+            "unicode": "U+1F1F5 U+1F1ED"
+        },
+        "united_arab_emirates": {
+            "js_escape": "\ud83c\udde6\ud83c\uddea",
+            "unicode": "U+1F1E6 U+1F1EA"
+        },
+        "greenland": {
+            "js_escape": "\ud83c\uddec\ud83c\uddf1",
+            "unicode": "U+1F1EC U+1F1F1"
+        },
+        "heard_mcdonald_islands": {
+            "js_escape": "\ud83c\udded\ud83c\uddf2",
+            "unicode": "U+1F1ED U+1F1F2"
+        },
+        "kosovo": {
+            "js_escape": "\ud83c\uddfd\ud83c\uddf0",
+            "unicode": "U+1F1FD U+1F1F0"
+        },
+        "lithuania": {
+            "js_escape": "\ud83c\uddf1\ud83c\uddf9",
+            "unicode": "U+1F1F1 U+1F1F9"
+        },
+        "chad": {
+            "js_escape": "\ud83c\uddf9\ud83c\udde9",
+            "unicode": "U+1F1F9 U+1F1E9"
+        },
+        "jersey": {
+            "js_escape": "\ud83c\uddef\ud83c\uddea",
+            "unicode": "U+1F1EF U+1F1EA"
+        },
+        "niue": {
+            "js_escape": "\ud83c\uddf3\ud83c\uddfa",
+            "unicode": "U+1F1F3 U+1F1FA"
+        },
+        "pitcairn_islands": {
+            "js_escape": "\ud83c\uddf5\ud83c\uddf3",
+            "unicode": "U+1F1F5 U+1F1F3"
+        },
+        "st_helena": {
+            "js_escape": "\ud83c\uddf8\ud83c\udded",
+            "unicode": "U+1F1F8 U+1F1ED"
+        },
+        "palestinian_territories": {
+            "js_escape": "\ud83c\uddf5\ud83c\uddf8",
+            "unicode": "U+1F1F5 U+1F1F8"
+        },
+        "cayman_islands": {
+            "js_escape": "\ud83c\uddf0\ud83c\uddfe",
+            "unicode": "U+1F1F0 U+1F1FE"
+        },
+        "kiribati": {
+            "js_escape": "\ud83c\uddf0\ud83c\uddee",
+            "unicode": "U+1F1F0 U+1F1EE"
+        },
+        "argentina": {
+            "js_escape": "\ud83c\udde6\ud83c\uddf7",
+            "unicode": "U+1F1E6 U+1F1F7"
+        },
+        "slovenia": {
+            "js_escape": "\ud83c\uddf8\ud83c\uddee",
+            "unicode": "U+1F1F8 U+1F1EE"
+        },
+        "central_african_republic": {
+            "js_escape": "\ud83c\udde8\ud83c\uddeb",
+            "unicode": "U+1F1E8 U+1F1EB"
+        },
+        "malaysia": {
+            "js_escape": "\ud83c\uddf2\ud83c\uddfe",
+            "unicode": "U+1F1F2 U+1F1FE"
+        },
+        "bouvet_island": {
+            "js_escape": "\ud83c\udde7\ud83c\uddfb",
+            "unicode": "U+1F1E7 U+1F1FB"
+        },
+        "st_vincent_grenadines": {
+            "js_escape": "\ud83c\uddfb\ud83c\udde8",
+            "unicode": "U+1F1FB U+1F1E8"
+        },
+        "us_virgin_islands": {
+            "js_escape": "\ud83c\uddfb\ud83c\uddee",
+            "unicode": "U+1F1FB U+1F1EE"
+        },
+        "ceuta_melilla": {
+            "js_escape": "\ud83c\uddea\ud83c\udde6",
+            "unicode": "U+1F1EA U+1F1E6"
+        },
+        "solomon_islands": {
+            "js_escape": "\ud83c\uddf8\ud83c\udde7",
+            "unicode": "U+1F1F8 U+1F1E7"
+        },
+        "somalia": {
+            "js_escape": "\ud83c\uddf8\ud83c\uddf4",
+            "unicode": "U+1F1F8 U+1F1F4"
+        },
+        "spain": {
+            "js_escape": "\ud83c\uddea\ud83c\uddf8",
+            "unicode": "U+1F1EA U+1F1F8"
+        },
+        "fiji": {
+            "js_escape": "\ud83c\uddeb\ud83c\uddef",
+            "unicode": "U+1F1EB U+1F1EF"
+        },
+        "botswana": {
+            "js_escape": "\ud83c\udde7\ud83c\uddfc",
+            "unicode": "U+1F1E7 U+1F1FC"
+        },
+        "bahrain": {
+            "js_escape": "\ud83c\udde7\ud83c\udded",
+            "unicode": "U+1F1E7 U+1F1ED"
+        },
+        "monaco": {
+            "js_escape": "\ud83c\uddf2\ud83c\udde8",
+            "unicode": "U+1F1F2 U+1F1E8"
+        }
+    },
+    "flag": {
+        "red_triangle_pointed_up": {
+            "js_escape": "\ud83d\udd3a",
+            "unicode": "U+1F53A"
+        },
+        "white_circle": {
+            "js_escape": "\u26aa",
+            "unicode": "U+26AA"
+        },
+        "red_circle": {
+            "js_escape": "\ud83d\udd34",
+            "unicode": "U+1F534"
+        },
+        "white_small_square": {
+            "js_escape": "\u25ab",
+            "unicode": "U+25AB"
+        },
+        "large_orange_diamond": {
+            "js_escape": "\ud83d\udd36",
+            "unicode": "U+1F536"
+        },
+        "small_orange_diamond": {
+            "js_escape": "\ud83d\udd38",
+            "unicode": "U+1F538"
+        },
+        "black_flag": {
+            "js_escape": "\ud83c\udff4",
+            "unicode": "U+1F3F4"
+        },
+        "diamond_with_a_dot": {
+            "js_escape": "\ud83d\udca0",
+            "unicode": "U+1F4A0"
+        },
+        "blue_circle": {
+            "js_escape": "\ud83d\udd35",
+            "unicode": "U+1F535"
+        },
+        "crossed_flags": {
+            "js_escape": "\ud83c\udf8c",
+            "unicode": "U+1F38C"
+        },
+        "white_large_square": {
+            "js_escape": "\u2b1c",
+            "unicode": "U+2B1C"
+        },
+        "black_small_square": {
+            "js_escape": "\u25aa",
+            "unicode": "U+25AA"
+        },
+        "chequered_flag": {
+            "js_escape": "\ud83c\udfc1",
+            "unicode": "U+1F3C1"
+        },
+        "black_medium_small_square": {
+            "js_escape": "\u25fe",
+            "unicode": "U+25FE"
+        },
+        "small_blue_diamond": {
+            "js_escape": "\ud83d\udd39",
+            "unicode": "U+1F539"
+        },
+        "red_triangle_pointed_down": {
+            "js_escape": "\ud83d\udd3b",
+            "unicode": "U+1F53B"
+        },
+        "black_medium_square": {
+            "js_escape": "\u25fc",
+            "unicode": "U+25FC"
+        },
+        "radio_button": {
+            "js_escape": "\ud83d\udd18",
+            "unicode": "U+1F518"
+        },
+        "rainbow_flag": {
+            "js_escape": "\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+            "unicode": "U+1F3F3 U+FE0F U+200D U+1F308"
+        },
+        "black_circle": {
+            "js_escape": "\u26ab",
+            "unicode": "U+26AB"
+        },
+        "black_square_button": {
+            "js_escape": "\ud83d\udd32",
+            "unicode": "U+1F532"
+        },
+        "white_medium_small_square": {
+            "js_escape": "\u25fd",
+            "unicode": "U+25FD"
+        },
+        "large_blue_diamond": {
+            "js_escape": "\ud83d\udd37",
+            "unicode": "U+1F537"
+        },
+        "triangular_flag": {
+            "js_escape": "\ud83d\udea9",
+            "unicode": "U+1F6A9"
+        },
+        "white_square_button": {
+            "js_escape": "\ud83d\udd33",
+            "unicode": "U+1F533"
+        },
+        "black_large_square": {
+            "js_escape": "\u2b1b",
+            "unicode": "U+2B1B"
+        },
+        "white_flag": {
+            "js_escape": "\ud83c\udff3",
+            "unicode": "U+1F3F3"
+        },
+        "white_medium_square": {
+            "js_escape": "\u25fb",
+            "unicode": "U+25FB"
+        }
+    }
+}
