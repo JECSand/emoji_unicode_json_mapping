@@ -1,0 +1,296 @@
+{
+    "hair_style": {
+        "speaking_head": {
+            "unicode": "U+1F5E3",
+            "js_escape": "\ud83d\udde3"
+        },
+        "bust_in_silhouette": {
+            "unicode": "U+1F464",
+            "js_escape": "\ud83d\udc64"
+        },
+        "busts_in_silhouette": {
+            "unicode": "U+1F465",
+            "js_escape": "\ud83d\udc65"
+        },
+        "people_hugging": {
+            "unicode": "U+1FAC2",
+            "js_escape": "\ud83e\udec2"
+        },
+        "footprints": {
+            "unicode": "U+1F463",
+            "js_escape": "\ud83d\udc63"
+        },
+        "red_hair": {
+            "unicode": "U+1F9B0",
+            "js_escape": "\ud83e\uddb0"
+        },
+        "curly_hair": {
+            "unicode": "U+1F9B1",
+            "js_escape": "\ud83e\uddb1"
+        },
+        "white_hair": {
+            "unicode": "U+1F9B3",
+            "js_escape": "\ud83e\uddb3"
+        },
+        "bald": {
+            "unicode": "U+1F9B2",
+            "js_escape": "\ud83e\uddb2"
+        },
+        "monkey_face": {
+            "unicode": "U+1F435",
+            "js_escape": "\ud83d\udc35"
+        },
+        "monkey": {
+            "unicode": "U+1F412",
+            "js_escape": "\ud83d\udc12"
+        },
+        "gorilla": {
+            "unicode": "U+1F98D",
+            "js_escape": "\ud83e\udd8d"
+        },
+        "orangutan": {
+            "unicode": "U+1F9A7",
+            "js_escape": "\ud83e\udda7"
+        },
+        "dog_face": {
+            "unicode": "U+1F436",
+            "js_escape": "\ud83d\udc36"
+        },
+        "dog": {
+            "unicode": "U+1F415",
+            "js_escape": "\ud83d\udc15"
+        },
+        "guide_dog": {
+            "unicode": "U+1F9AE",
+            "js_escape": "\ud83e\uddae"
+        },
+        "service_dog": {
+            "unicode": "U+1F415 U+200D U+1F9BA",
+            "js_escape": "\ud83d\udc15\u200d\ud83e\uddba"
+        },
+        "poodle": {
+            "unicode": "U+1F429",
+            "js_escape": "\ud83d\udc29"
+        },
+        "wolf": {
+            "unicode": "U+1F43A",
+            "js_escape": "\ud83d\udc3a"
+        },
+        "fox": {
+            "unicode": "U+1F98A",
+            "js_escape": "\ud83e\udd8a"
+        },
+        "raccoon": {
+            "unicode": "U+1F99D",
+            "js_escape": "\ud83e\udd9d"
+        },
+        "cat_face": {
+            "unicode": "U+1F431",
+            "js_escape": "\ud83d\udc31"
+        },
+        "cat": {
+            "unicode": "U+1F408",
+            "js_escape": "\ud83d\udc08"
+        },
+        "black_cat": {
+            "unicode": "U+1F408 U+200D U+2B1B",
+            "js_escape": "\ud83d\udc08\u200d\u2b1b"
+        },
+        "lion": {
+            "unicode": "U+1F981",
+            "js_escape": "\ud83e\udd81"
+        },
+        "tiger_face": {
+            "unicode": "U+1F42F",
+            "js_escape": "\ud83d\udc2f"
+        },
+        "tiger": {
+            "unicode": "U+1F405",
+            "js_escape": "\ud83d\udc05"
+        },
+        "leopard": {
+            "unicode": "U+1F406",
+            "js_escape": "\ud83d\udc06"
+        },
+        "horse_face": {
+            "unicode": "U+1F434",
+            "js_escape": "\ud83d\udc34"
+        },
+        "horse": {
+            "unicode": "U+1F40E",
+            "js_escape": "\ud83d\udc0e"
+        },
+        "unicorn": {
+            "unicode": "U+1F984",
+            "js_escape": "\ud83e\udd84"
+        },
+        "zebra": {
+            "unicode": "U+1F993",
+            "js_escape": "\ud83e\udd93"
+        },
+        "deer": {
+            "unicode": "U+1F98C",
+            "js_escape": "\ud83e\udd8c"
+        },
+        "bison": {
+            "unicode": "U+1F9AC",
+            "js_escape": "\ud83e\uddac"
+        },
+        "cow_face": {
+            "unicode": "U+1F42E",
+            "js_escape": "\ud83d\udc2e"
+        },
+        "ox": {
+            "unicode": "U+1F402",
+            "js_escape": "\ud83d\udc02"
+        },
+        "water_buffalo": {
+            "unicode": "U+1F403",
+            "js_escape": "\ud83d\udc03"
+        },
+        "cow": {
+            "unicode": "U+1F404",
+            "js_escape": "\ud83d\udc04"
+        },
+        "pig_face": {
+            "unicode": "U+1F437",
+            "js_escape": "\ud83d\udc37"
+        },
+        "pig": {
+            "unicode": "U+1F416",
+            "js_escape": "\ud83d\udc16"
+        },
+        "boar": {
+            "unicode": "U+1F417",
+            "js_escape": "\ud83d\udc17"
+        },
+        "pig_nose": {
+            "unicode": "U+1F43D",
+            "js_escape": "\ud83d\udc3d"
+        },
+        "ram": {
+            "unicode": "U+1F40F",
+            "js_escape": "\ud83d\udc0f"
+        },
+        "ewe": {
+            "unicode": "U+1F411",
+            "js_escape": "\ud83d\udc11"
+        },
+        "goat": {
+            "unicode": "U+1F410",
+            "js_escape": "\ud83d\udc10"
+        },
+        "camel": {
+            "unicode": "U+1F42A",
+            "js_escape": "\ud83d\udc2a"
+        },
+        "two_hump_camel": {
+            "unicode": "U+1F42B",
+            "js_escape": "\ud83d\udc2b"
+        },
+        "llama": {
+            "unicode": "U+1F999",
+            "js_escape": "\ud83e\udd99"
+        },
+        "giraffe": {
+            "unicode": "U+1F992",
+            "js_escape": "\ud83e\udd92"
+        },
+        "elephant": {
+            "unicode": "U+1F418",
+            "js_escape": "\ud83d\udc18"
+        },
+        "mammoth": {
+            "unicode": "U+1F9A3",
+            "js_escape": "\ud83e\udda3"
+        },
+        "rhinoceros": {
+            "unicode": "U+1F98F",
+            "js_escape": "\ud83e\udd8f"
+        },
+        "hippopotamus": {
+            "unicode": "U+1F99B",
+            "js_escape": "\ud83e\udd9b"
+        },
+        "mouse_face": {
+            "unicode": "U+1F42D",
+            "js_escape": "\ud83d\udc2d"
+        },
+        "mouse": {
+            "unicode": "U+1F401",
+            "js_escape": "\ud83d\udc01"
+        },
+        "rat": {
+            "unicode": "U+1F400",
+            "js_escape": "\ud83d\udc00"
+        },
+        "hamster": {
+            "unicode": "U+1F439",
+            "js_escape": "\ud83d\udc39"
+        },
+        "rabbit_face": {
+            "unicode": "U+1F430",
+            "js_escape": "\ud83d\udc30"
+        },
+        "rabbit": {
+            "unicode": "U+1F407",
+            "js_escape": "\ud83d\udc07"
+        },
+        "chipmunk": {
+            "unicode": "U+1F43F",
+            "js_escape": "\ud83d\udc3f"
+        },
+        "beaver": {
+            "unicode": "U+1F9AB",
+            "js_escape": "\ud83e\uddab"
+        },
+        "hedgehog": {
+            "unicode": "U+1F994",
+            "js_escape": "\ud83e\udd94"
+        },
+        "bat": {
+            "unicode": "U+1F987",
+            "js_escape": "\ud83e\udd87"
+        },
+        "bear": {
+            "unicode": "U+1F43B",
+            "js_escape": "\ud83d\udc3b"
+        },
+        "polar_bear": {
+            "unicode": "U+1F43B U+200D U+2744 U+FE0F",
+            "js_escape": "\ud83d\udc3b\u200d\u2744\ufe0f"
+        },
+        "koala": {
+            "unicode": "U+1F428",
+            "js_escape": "\ud83d\udc28"
+        },
+        "panda": {
+            "unicode": "U+1F43C",
+            "js_escape": "\ud83d\udc3c"
+        },
+        "sloth": {
+            "unicode": "U+1F9A5",
+            "js_escape": "\ud83e\udda5"
+        },
+        "otter": {
+            "unicode": "U+1F9A6",
+            "js_escape": "\ud83e\udda6"
+        },
+        "skunk": {
+            "unicode": "U+1F9A8",
+            "js_escape": "\ud83e\udda8"
+        },
+        "kangaroo": {
+            "unicode": "U+1F998",
+            "js_escape": "\ud83e\udd98"
+        },
+        "badger": {
+            "unicode": "U+1F9A1",
+            "js_escape": "\ud83e\udda1"
+        },
+        "paw_prints": {
+            "unicode": "U+1F43E",
+            "js_escape": "\ud83d\udc3e"
+        }
+    }
+}

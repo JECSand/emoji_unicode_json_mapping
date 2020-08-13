@@ -1,772 +1,1118 @@
 {
-    "book_paper": {
-        "label": {
-            "js_escape": "\ud83c\udff7",
-            "unicode": "U+1F3F7"
+    "clothing": {
+        "performing_arts": {
+            "unicode": "U+1F3AD",
+            "js_escape": "\ud83c\udfad"
         },
-        "bookmark": {
-            "js_escape": "\ud83d\udd16",
-            "unicode": "U+1F516"
+        "framed_picture": {
+            "unicode": "U+1F5BC",
+            "js_escape": "\ud83d\uddbc"
         },
-        "green_book": {
-            "js_escape": "\ud83d\udcd7",
-            "unicode": "U+1F4D7"
+        "artist_palette": {
+            "unicode": "U+1F3A8",
+            "js_escape": "\ud83c\udfa8"
         },
-        "bookmark_tabs": {
-            "js_escape": "\ud83d\udcd1",
-            "unicode": "U+1F4D1"
+        "thread": {
+            "unicode": "U+1F9F5",
+            "js_escape": "\ud83e\uddf5"
         },
-        "notebook_with_decorative_cover": {
-            "js_escape": "\ud83d\udcd4",
-            "unicode": "U+1F4D4"
+        "sewing_needle": {
+            "unicode": "U+1FAA1",
+            "js_escape": "\ud83e\udea1"
         },
-        "notebook": {
-            "js_escape": "\ud83d\udcd3",
-            "unicode": "U+1F4D3"
+        "yarn": {
+            "unicode": "U+1F9F6",
+            "js_escape": "\ud83e\uddf6"
         },
-        "books": {
-            "js_escape": "\ud83d\udcda",
-            "unicode": "U+1F4DA"
+        "knot": {
+            "unicode": "U+1FAA2",
+            "js_escape": "\ud83e\udea2"
         },
-        "page_facing_up": {
-            "js_escape": "\ud83d\udcc4",
-            "unicode": "U+1F4C4"
+        "glasses": {
+            "unicode": "U+1F453",
+            "js_escape": "\ud83d\udc53"
         },
-        "page_with_curl": {
-            "js_escape": "\ud83d\udcc3",
-            "unicode": "U+1F4C3"
+        "sunglasses": {
+            "unicode": "U+1F576",
+            "js_escape": "\ud83d\udd76"
         },
-        "closed_book": {
-            "js_escape": "\ud83d\udcd5",
-            "unicode": "U+1F4D5"
+        "goggles": {
+            "unicode": "U+1F97D",
+            "js_escape": "\ud83e\udd7d"
         },
-        "blue_book": {
-            "js_escape": "\ud83d\udcd8",
-            "unicode": "U+1F4D8"
+        "lab_coat": {
+            "unicode": "U+1F97C",
+            "js_escape": "\ud83e\udd7c"
         },
-        "orange_book": {
-            "js_escape": "\ud83d\udcd9",
-            "unicode": "U+1F4D9"
+        "safety_vest": {
+            "unicode": "U+1F9BA",
+            "js_escape": "\ud83e\uddba"
         },
-        "ledger": {
-            "js_escape": "\ud83d\udcd2",
-            "unicode": "U+1F4D2"
+        "necktie": {
+            "unicode": "U+1F454",
+            "js_escape": "\ud83d\udc54"
         },
-        "open_book": {
-            "js_escape": "\ud83d\udcd6",
-            "unicode": "U+1F4D6"
+        "t_shirt": {
+            "unicode": "U+1F455",
+            "js_escape": "\ud83d\udc55"
         },
-        "rolled_up_newspaper": {
-            "js_escape": "\ud83d\uddde",
-            "unicode": "U+1F5DE"
+        "jeans": {
+            "unicode": "U+1F456",
+            "js_escape": "\ud83d\udc56"
         },
-        "scroll": {
-            "js_escape": "\ud83d\udcdc",
-            "unicode": "U+1F4DC"
+        "scarf": {
+            "unicode": "U+1F9E3",
+            "js_escape": "\ud83e\udde3"
         },
-        "newspaper": {
-            "js_escape": "\ud83d\udcf0",
-            "unicode": "U+1F4F0"
-        }
-    },
-    "computer": {
-        "keyboard": {
-            "js_escape": "\u2328",
-            "unicode": "U+2328"
+        "gloves": {
+            "unicode": "U+1F9E4",
+            "js_escape": "\ud83e\udde4"
         },
-        "battery": {
-            "js_escape": "\ud83d\udd0b",
-            "unicode": "U+1F50B"
+        "coat": {
+            "unicode": "U+1F9E5",
+            "js_escape": "\ud83e\udde5"
         },
-        "trackball": {
-            "js_escape": "\ud83d\uddb2",
-            "unicode": "U+1F5B2"
+        "socks": {
+            "unicode": "U+1F9E6",
+            "js_escape": "\ud83e\udde6"
         },
-        "printer": {
-            "js_escape": "\ud83d\udda8",
-            "unicode": "U+1F5A8"
+        "dress": {
+            "unicode": "U+1F457",
+            "js_escape": "\ud83d\udc57"
         },
-        "floppy_disk": {
-            "js_escape": "\ud83d\udcbe",
-            "unicode": "U+1F4BE"
+        "kimono": {
+            "unicode": "U+1F458",
+            "js_escape": "\ud83d\udc58"
         },
-        "optical_disk": {
-            "js_escape": "\ud83d\udcbf",
-            "unicode": "U+1F4BF"
+        "sari": {
+            "unicode": "U+1F97B",
+            "js_escape": "\ud83e\udd7b"
         },
-        "desktop_computer": {
-            "js_escape": "\ud83d\udda5",
-            "unicode": "U+1F5A5"
+        "one_piece_swimsuit": {
+            "unicode": "U+1FA71",
+            "js_escape": "\ud83e\ude71"
         },
-        "computer_disk": {
-            "js_escape": "\ud83d\udcbd",
-            "unicode": "U+1F4BD"
+        "briefs": {
+            "unicode": "U+1FA72",
+            "js_escape": "\ud83e\ude72"
         },
-        "dvd": {
-            "js_escape": "\ud83d\udcc0",
-            "unicode": "U+1F4C0"
+        "shorts": {
+            "unicode": "U+1FA73",
+            "js_escape": "\ud83e\ude73"
         },
-        "computer_mouse": {
-            "js_escape": "\ud83d\uddb1",
-            "unicode": "U+1F5B1"
+        "bikini": {
+            "unicode": "U+1F459",
+            "js_escape": "\ud83d\udc59"
         },
-        "electric_plug": {
-            "js_escape": "\ud83d\udd0c",
-            "unicode": "U+1F50C"
+        "womans_clothes": {
+            "unicode": "U+1F45A",
+            "js_escape": "\ud83d\udc5a"
         },
-        "laptop_computer": {
-            "js_escape": "\ud83d\udcbb",
-            "unicode": "U+1F4BB"
-        }
-    },
-    "lock": {
-        "old_key": {
-            "js_escape": "\ud83d\udddd",
-            "unicode": "U+1F5DD"
+        "purse": {
+            "unicode": "U+1F45B",
+            "js_escape": "\ud83d\udc5b"
         },
-        "locked_with_key": {
-            "js_escape": "\ud83d\udd10",
-            "unicode": "U+1F510"
+        "handbag": {
+            "unicode": "U+1F45C",
+            "js_escape": "\ud83d\udc5c"
         },
-        "locked_with_pen": {
-            "js_escape": "\ud83d\udd0f",
-            "unicode": "U+1F50F"
+        "clutch_bag": {
+            "unicode": "U+1F45D",
+            "js_escape": "\ud83d\udc5d"
         },
-        "locked": {
-            "js_escape": "\ud83d\udd12",
-            "unicode": "U+1F512"
+        "shopping_bags": {
+            "unicode": "U+1F6CD",
+            "js_escape": "\ud83d\udecd"
         },
-        "unlocked": {
-            "js_escape": "\ud83d\udd13",
-            "unicode": "U+1F513"
+        "backpack": {
+            "unicode": "U+1F392",
+            "js_escape": "\ud83c\udf92"
         },
-        "key": {
-            "js_escape": "\ud83d\udd11",
-            "unicode": "U+1F511"
-        }
-    },
-    "office": {
-        "briefcase": {
-            "js_escape": "\ud83d\udcbc",
-            "unicode": "U+1F4BC"
+        "thong_sandal": {
+            "unicode": "U+1FA74",
+            "js_escape": "\ud83e\ude74"
         },
-        "spiral_notepad": {
-            "js_escape": "\ud83d\uddd2",
-            "unicode": "U+1F5D2"
+        "mans_shoe": {
+            "unicode": "U+1F45E",
+            "js_escape": "\ud83d\udc5e"
         },
-        "wastebasket": {
-            "js_escape": "\ud83d\uddd1",
-            "unicode": "U+1F5D1"
+        "running_shoe": {
+            "unicode": "U+1F45F",
+            "js_escape": "\ud83d\udc5f"
         },
-        "chart_decreasing": {
-            "js_escape": "\ud83d\udcc9",
-            "unicode": "U+1F4C9"
+        "hiking_boot": {
+            "unicode": "U+1F97E",
+            "js_escape": "\ud83e\udd7e"
         },
-        "triangular_ruler": {
-            "js_escape": "\ud83d\udcd0",
-            "unicode": "U+1F4D0"
+        "flat_shoe": {
+            "unicode": "U+1F97F",
+            "js_escape": "\ud83e\udd7f"
         },
-        "pushpin": {
-            "js_escape": "\ud83d\udccc",
-            "unicode": "U+1F4CC"
+        "high_heeled_shoe": {
+            "unicode": "U+1F460",
+            "js_escape": "\ud83d\udc60"
         },
-        "card_index": {
-            "js_escape": "\ud83d\udcc7",
-            "unicode": "U+1F4C7"
+        "womans_sandal": {
+            "unicode": "U+1F461",
+            "js_escape": "\ud83d\udc61"
         },
-        "file_folder": {
-            "js_escape": "\ud83d\udcc1",
-            "unicode": "U+1F4C1"
+        "ballet_shoes": {
+            "unicode": "U+1FA70",
+            "js_escape": "\ud83e\ude70"
         },
-        "card_file_box": {
-            "js_escape": "\ud83d\uddc3",
-            "unicode": "U+1F5C3"
+        "womans_boot": {
+            "unicode": "U+1F462",
+            "js_escape": "\ud83d\udc62"
         },
-        "file_cabinet": {
-            "js_escape": "\ud83d\uddc4",
-            "unicode": "U+1F5C4"
+        "crown": {
+            "unicode": "U+1F451",
+            "js_escape": "\ud83d\udc51"
         },
-        "open_file_folder": {
-            "js_escape": "\ud83d\udcc2",
-            "unicode": "U+1F4C2"
+        "womans_hat": {
+            "unicode": "U+1F452",
+            "js_escape": "\ud83d\udc52"
         },
-        "round_pushpin": {
-            "js_escape": "\ud83d\udccd",
-            "unicode": "U+1F4CD"
+        "top_hat": {
+            "unicode": "U+1F3A9",
+            "js_escape": "\ud83c\udfa9"
         },
-        "card_index_dividers": {
-            "js_escape": "\ud83d\uddc2",
-            "unicode": "U+1F5C2"
+        "graduation_cap": {
+            "unicode": "U+1F393",
+            "js_escape": "\ud83c\udf93"
         },
-        "tear_off_calendar": {
-            "js_escape": "\ud83d\udcc6",
-            "unicode": "U+1F4C6"
+        "billed_cap": {
+            "unicode": "U+1F9E2",
+            "js_escape": "\ud83e\udde2"
         },
-        "calendar": {
-            "js_escape": "\ud83d\udcc5",
-            "unicode": "U+1F4C5"
+        "military_helmet": {
+            "unicode": "U+1FA96",
+            "js_escape": "\ud83e\ude96"
         },
-        "linked_paperclips": {
-            "js_escape": "\ud83d\udd87",
-            "unicode": "U+1F587"
+        "rescue_workers_helmet": {
+            "unicode": "U+26D1",
+            "js_escape": "\u26d1"
         },
-        "scissors": {
-            "js_escape": "\u2702",
-            "unicode": "U+2702"
+        "prayer_beads": {
+            "unicode": "U+1F4FF",
+            "js_escape": "\ud83d\udcff"
         },
-        "clipboard": {
-            "js_escape": "\ud83d\udccb",
-            "unicode": "U+1F4CB"
+        "lipstick": {
+            "unicode": "U+1F484",
+            "js_escape": "\ud83d\udc84"
         },
-        "chart_increasing": {
-            "js_escape": "\ud83d\udcc8",
-            "unicode": "U+1F4C8"
+        "ring": {
+            "unicode": "U+1F48D",
+            "js_escape": "\ud83d\udc8d"
         },
-        "spiral_calendar": {
-            "js_escape": "\ud83d\uddd3",
-            "unicode": "U+1F5D3"
-        },
-        "straight_ruler": {
-            "js_escape": "\ud83d\udccf",
-            "unicode": "U+1F4CF"
-        },
-        "bar_chart": {
-            "js_escape": "\ud83d\udcca",
-            "unicode": "U+1F4CA"
-        },
-        "paperclip": {
-            "js_escape": "\ud83d\udcce",
-            "unicode": "U+1F4CE"
-        }
-    },
-    "musical_instrument": {
-        "guitar": {
-            "js_escape": "\ud83c\udfb8",
-            "unicode": "U+1F3B8"
-        },
-        "saxophone": {
-            "js_escape": "\ud83c\udfb7",
-            "unicode": "U+1F3B7"
-        },
-        "musical_keyboard": {
-            "js_escape": "\ud83c\udfb9",
-            "unicode": "U+1F3B9"
-        },
-        "drum": {
-            "js_escape": "\ud83e\udd41",
-            "unicode": "U+1F941"
-        },
-        "violin": {
-            "js_escape": "\ud83c\udfbb",
-            "unicode": "U+1F3BB"
-        },
-        "trumpet": {
-            "js_escape": "\ud83c\udfba",
-            "unicode": "U+1F3BA"
+        "gem_stone": {
+            "unicode": "U+1F48E",
+            "js_escape": "\ud83d\udc8e"
         }
     },
     "sound": {
-        "bell_with_slash": {
-            "js_escape": "\ud83d\udd15",
-            "unicode": "U+1F515"
-        },
-        "diamond_suit": {
-            "js_escape": "\u2666",
-            "unicode": "U+2666"
-        },
-        "bell": {
-            "js_escape": "\ud83d\udd14",
-            "unicode": "U+1F514"
-        },
-        "postal_horn": {
-            "js_escape": "\ud83d\udcef",
-            "unicode": "U+1F4EF"
-        },
-        "speaker_high_volume": {
-            "js_escape": "\ud83d\udd0a",
-            "unicode": "U+1F50A"
-        },
         "muted_speaker": {
-            "js_escape": "\ud83d\udd07",
-            "unicode": "U+1F507"
-        },
-        "joker": {
-            "js_escape": "\ud83c\udccf",
-            "unicode": "U+1F0CF"
-        },
-        "heart_suit": {
-            "js_escape": "\u2665",
-            "unicode": "U+2665"
-        },
-        "spade_suit": {
-            "js_escape": "\u2660",
-            "unicode": "U+2660"
-        },
-        "video_game": {
-            "js_escape": "\ud83c\udfae",
-            "unicode": "U+1F3AE"
-        },
-        "game_die": {
-            "js_escape": "\ud83c\udfb2",
-            "unicode": "U+1F3B2"
-        },
-        "club_suit": {
-            "js_escape": "\u2663",
-            "unicode": "U+2663"
-        },
-        "loudspeaker": {
-            "js_escape": "\ud83d\udce2",
-            "unicode": "U+1F4E2"
-        },
-        "joystick": {
-            "js_escape": "\ud83d\udd79",
-            "unicode": "U+1F579"
+            "unicode": "U+1F507",
+            "js_escape": "\ud83d\udd07"
         },
         "speaker_low_volume": {
-            "js_escape": "\ud83d\udd08",
-            "unicode": "U+1F508"
-        },
-        "megaphone": {
-            "js_escape": "\ud83d\udce3",
-            "unicode": "U+1F4E3"
+            "unicode": "U+1F508",
+            "js_escape": "\ud83d\udd08"
         },
         "speaker_medium_volume": {
-            "js_escape": "\ud83d\udd09",
-            "unicode": "U+1F509"
+            "unicode": "U+1F509",
+            "js_escape": "\ud83d\udd09"
         },
-        "flower_playing_cards": {
-            "js_escape": "\ud83c\udfb4",
-            "unicode": "U+1F3B4"
+        "speaker_high_volume": {
+            "unicode": "U+1F50A",
+            "js_escape": "\ud83d\udd0a"
         },
-        "mahjong_red_dragon": {
-            "js_escape": "\ud83c\udc04",
-            "unicode": "U+1F004"
+        "loudspeaker": {
+            "unicode": "U+1F4E2",
+            "js_escape": "\ud83d\udce2"
+        },
+        "megaphone": {
+            "unicode": "U+1F4E3",
+            "js_escape": "\ud83d\udce3"
+        },
+        "postal_horn": {
+            "unicode": "U+1F4EF",
+            "js_escape": "\ud83d\udcef"
+        },
+        "bell": {
+            "unicode": "U+1F514",
+            "js_escape": "\ud83d\udd14"
+        },
+        "bell_with_slash": {
+            "unicode": "U+1F515",
+            "js_escape": "\ud83d\udd15"
         }
     },
-    "money": {
-        "chart_increasing_with_yen": {
-            "js_escape": "\ud83d\udcb9",
-            "unicode": "U+1F4B9"
+    "music": {
+        "musical_score": {
+            "unicode": "U+1F3BC",
+            "js_escape": "\ud83c\udfbc"
         },
-        "money_bag": {
-            "js_escape": "\ud83d\udcb0",
-            "unicode": "U+1F4B0"
+        "musical_note": {
+            "unicode": "U+1F3B5",
+            "js_escape": "\ud83c\udfb5"
         },
-        "money_with_wings": {
-            "js_escape": "\ud83d\udcb8",
-            "unicode": "U+1F4B8"
+        "musical_notes": {
+            "unicode": "U+1F3B6",
+            "js_escape": "\ud83c\udfb6"
         },
-        "yen_banknote": {
-            "js_escape": "\ud83d\udcb4",
-            "unicode": "U+1F4B4"
+        "studio_microphone": {
+            "unicode": "U+1F399",
+            "js_escape": "\ud83c\udf99"
         },
-        "euro_banknote": {
-            "js_escape": "\ud83d\udcb6",
-            "unicode": "U+1F4B6"
+        "level_slider": {
+            "unicode": "U+1F39A",
+            "js_escape": "\ud83c\udf9a"
         },
-        "dollar_banknote": {
-            "js_escape": "\ud83d\udcb5",
-            "unicode": "U+1F4B5"
+        "control_knobs": {
+            "unicode": "U+1F39B",
+            "js_escape": "\ud83c\udf9b"
         },
-        "credit_card": {
-            "js_escape": "\ud83d\udcb3",
-            "unicode": "U+1F4B3"
+        "microphone": {
+            "unicode": "U+1F3A4",
+            "js_escape": "\ud83c\udfa4"
         },
-        "pound_banknote": {
-            "js_escape": "\ud83d\udcb7",
-            "unicode": "U+1F4B7"
+        "headphone": {
+            "unicode": "U+1F3A7",
+            "js_escape": "\ud83c\udfa7"
         },
-        "heavy_dollar_sign": {
-            "js_escape": "\ud83d\udcb2",
-            "unicode": "U+1F4B2"
-        },
-        "currency_exchange": {
-            "js_escape": "\ud83d\udcb1",
-            "unicode": "U+1F4B1"
+        "radio": {
+            "unicode": "U+1F4FB",
+            "js_escape": "\ud83d\udcfb"
         }
     },
-    "mail": {
-        "closed_mailbox_with_raised_flag": {
-            "js_escape": "\ud83d\udceb",
-            "unicode": "U+1F4EB"
+    "musical_instrument": {
+        "saxophone": {
+            "unicode": "U+1F3B7",
+            "js_escape": "\ud83c\udfb7"
         },
-        "open_mailbox_with_raised_flag": {
-            "js_escape": "\ud83d\udcec",
-            "unicode": "U+1F4EC"
+        "accordion": {
+            "unicode": "U+1FA97",
+            "js_escape": "\ud83e\ude97"
         },
-        "open_mailbox_with_lowered_flag": {
-            "js_escape": "\ud83d\udced",
-            "unicode": "U+1F4ED"
+        "guitar": {
+            "unicode": "U+1F3B8",
+            "js_escape": "\ud83c\udfb8"
         },
-        "package": {
-            "js_escape": "\ud83d\udce6",
-            "unicode": "U+1F4E6"
+        "musical_keyboard": {
+            "unicode": "U+1F3B9",
+            "js_escape": "\ud83c\udfb9"
         },
-        "postbox": {
-            "js_escape": "\ud83d\udcee",
-            "unicode": "U+1F4EE"
+        "trumpet": {
+            "unicode": "U+1F3BA",
+            "js_escape": "\ud83c\udfba"
         },
-        "e_mail": {
-            "js_escape": "\ud83d\udce7",
-            "unicode": "U+1F4E7"
+        "violin": {
+            "unicode": "U+1F3BB",
+            "js_escape": "\ud83c\udfbb"
         },
-        "outbox_tray": {
-            "js_escape": "\ud83d\udce4",
-            "unicode": "U+1F4E4"
+        "banjo": {
+            "unicode": "U+1FA95",
+            "js_escape": "\ud83e\ude95"
         },
-        "envelope_with_arrow": {
-            "js_escape": "\ud83d\udce9",
-            "unicode": "U+1F4E9"
+        "drum": {
+            "unicode": "U+1F941",
+            "js_escape": "\ud83e\udd41"
         },
-        "ballot_box_with_ballot": {
-            "js_escape": "\ud83d\uddf3",
-            "unicode": "U+1F5F3"
-        },
-        "envelope": {
-            "js_escape": "\u2709",
-            "unicode": "U+2709"
-        },
-        "inbox_tray": {
-            "js_escape": "\ud83d\udce5",
-            "unicode": "U+1F4E5"
-        },
-        "closed_mailbox_with_lowered_flag": {
-            "js_escape": "\ud83d\udcea",
-            "unicode": "U+1F4EA"
-        },
-        "incoming_envelope": {
-            "js_escape": "\ud83d\udce8",
-            "unicode": "U+1F4E8"
-        }
-    },
-    "tool": {
-        "dagger": {
-            "js_escape": "\ud83d\udde1",
-            "unicode": "U+1F5E1"
-        },
-        "hammer_and_wrench": {
-            "js_escape": "\ud83d\udee0",
-            "unicode": "U+1F6E0"
-        },
-        "link": {
-            "js_escape": "\ud83d\udd17",
-            "unicode": "U+1F517"
-        },
-        "alembic": {
-            "js_escape": "\u2697",
-            "unicode": "U+2697"
-        },
-        "hammer_and_pick": {
-            "js_escape": "\u2692",
-            "unicode": "U+2692"
-        },
-        "shield": {
-            "js_escape": "\ud83d\udee1",
-            "unicode": "U+1F6E1"
-        },
-        "crossed_swords": {
-            "js_escape": "\u2694",
-            "unicode": "U+2694"
-        },
-        "wrench": {
-            "js_escape": "\ud83d\udd27",
-            "unicode": "U+1F527"
-        },
-        "balance_scale": {
-            "js_escape": "\u2696",
-            "unicode": "U+2696"
-        },
-        "bow_and_arrow": {
-            "js_escape": "\ud83c\udff9",
-            "unicode": "U+1F3F9"
-        },
-        "hammer": {
-            "js_escape": "\ud83d\udd28",
-            "unicode": "U+1F528"
-        },
-        "chains": {
-            "js_escape": "\u26d3",
-            "unicode": "U+26D3"
-        },
-        "pistol": {
-            "js_escape": "\ud83d\udd2b",
-            "unicode": "U+1F52B"
-        },
-        "nut_and_bolt": {
-            "js_escape": "\ud83d\udd29",
-            "unicode": "U+1F529"
-        },
-        "clamp": {
-            "js_escape": "\ud83d\udddc",
-            "unicode": "U+1F5DC"
-        },
-        "pick": {
-            "js_escape": "\u26cf",
-            "unicode": "U+26CF"
-        },
-        "gear": {
-            "js_escape": "\u2699",
-            "unicode": "U+2699"
-        }
-    },
-    "medical": {
-        "syringe": {
-            "js_escape": "\ud83d\udc89",
-            "unicode": "U+1F489"
-        },
-        "pill": {
-            "js_escape": "\ud83d\udc8a",
-            "unicode": "U+1F48A"
+        "long_drum": {
+            "unicode": "U+1FA98",
+            "js_escape": "\ud83e\ude98"
         }
     },
     "phone": {
-        "mobile_phone_with_arrow": {
-            "js_escape": "\ud83d\udcf2",
-            "unicode": "U+1F4F2"
-        },
-        "fax_machine": {
-            "js_escape": "\ud83d\udce0",
-            "unicode": "U+1F4E0"
-        },
-        "telephone_receiver": {
-            "js_escape": "\ud83d\udcde",
-            "unicode": "U+1F4DE"
-        },
         "mobile_phone": {
-            "js_escape": "\ud83d\udcf1",
-            "unicode": "U+1F4F1"
+            "unicode": "U+1F4F1",
+            "js_escape": "\ud83d\udcf1"
+        },
+        "mobile_phone_with_arrow": {
+            "unicode": "U+1F4F2",
+            "js_escape": "\ud83d\udcf2"
         },
         "telephone": {
-            "js_escape": "\u260e",
-            "unicode": "U+260E"
+            "unicode": "U+260E",
+            "js_escape": "\u260e"
+        },
+        "telephone_receiver": {
+            "unicode": "U+1F4DE",
+            "js_escape": "\ud83d\udcde"
         },
         "pager": {
-            "js_escape": "\ud83d\udcdf",
-            "unicode": "U+1F4DF"
+            "unicode": "U+1F4DF",
+            "js_escape": "\ud83d\udcdf"
+        },
+        "fax_machine": {
+            "unicode": "U+1F4E0",
+            "js_escape": "\ud83d\udce0"
         }
     },
-    "writing": {
-        "pen": {
-            "js_escape": "\ud83d\udd8a",
-            "unicode": "U+1F58A"
+    "computer": {
+        "battery": {
+            "unicode": "U+1F50B",
+            "js_escape": "\ud83d\udd0b"
         },
-        "memo": {
-            "js_escape": "\ud83d\udcdd",
-            "unicode": "U+1F4DD"
+        "electric_plug": {
+            "unicode": "U+1F50C",
+            "js_escape": "\ud83d\udd0c"
         },
-        "paintbrush": {
-            "js_escape": "\ud83d\udd8c",
-            "unicode": "U+1F58C"
+        "laptop": {
+            "unicode": "U+1F4BB",
+            "js_escape": "\ud83d\udcbb"
         },
-        "fountain_pen": {
-            "js_escape": "\ud83d\udd8b",
-            "unicode": "U+1F58B"
+        "desktop_computer": {
+            "unicode": "U+1F5A5",
+            "js_escape": "\ud83d\udda5"
         },
-        "pencil": {
-            "js_escape": "\u270f",
-            "unicode": "U+270F"
+        "printer": {
+            "unicode": "U+1F5A8",
+            "js_escape": "\ud83d\udda8"
         },
-        "crayon": {
-            "js_escape": "\ud83d\udd8d",
-            "unicode": "U+1F58D"
+        "keyboard": {
+            "unicode": "U+2328",
+            "js_escape": "\u2328"
         },
-        "black_nib": {
-            "js_escape": "\u2712",
-            "unicode": "U+2712"
-        }
-    },
-    "other_object": {
-        "womens_room": {
-            "js_escape": "\ud83d\udeba",
-            "unicode": "U+1F6BA"
+        "computer_mouse": {
+            "unicode": "U+1F5B1",
+            "js_escape": "\ud83d\uddb1"
         },
-        "baby_symbol": {
-            "js_escape": "\ud83d\udebc",
-            "unicode": "U+1F6BC"
+        "trackball": {
+            "unicode": "U+1F5B2",
+            "js_escape": "\ud83d\uddb2"
         },
-        "coffin": {
-            "js_escape": "\u26b0",
-            "unicode": "U+26B0"
+        "computer_disk": {
+            "unicode": "U+1F4BD",
+            "js_escape": "\ud83d\udcbd"
         },
-        "restroom": {
-            "js_escape": "\ud83d\udebb",
-            "unicode": "U+1F6BB"
+        "floppy_disk": {
+            "unicode": "U+1F4BE",
+            "js_escape": "\ud83d\udcbe"
         },
-        "funeral_urn": {
-            "js_escape": "\u26b1",
-            "unicode": "U+26B1"
+        "optical_disk": {
+            "unicode": "U+1F4BF",
+            "js_escape": "\ud83d\udcbf"
         },
-        "atm_sign": {
-            "js_escape": "\ud83c\udfe7",
-            "unicode": "U+1F3E7"
+        "dvd": {
+            "unicode": "U+1F4C0",
+            "js_escape": "\ud83d\udcc0"
         },
-        "wheelchair_symbol": {
-            "js_escape": "\u267f",
-            "unicode": "U+267F"
-        },
-        "mens_room": {
-            "js_escape": "\ud83d\udeb9",
-            "unicode": "U+1F6B9"
-        },
-        "left_luggage": {
-            "js_escape": "\ud83d\udec5",
-            "unicode": "U+1F6C5"
-        },
-        "crystal_ball": {
-            "js_escape": "\ud83d\udd2e",
-            "unicode": "U+1F52E"
-        },
-        "moai": {
-            "js_escape": "\ud83d\uddff",
-            "unicode": "U+1F5FF"
-        },
-        "cigarette": {
-            "js_escape": "\ud83d\udeac",
-            "unicode": "U+1F6AC"
-        },
-        "water_closet": {
-            "js_escape": "\ud83d\udebe",
-            "unicode": "U+1F6BE"
-        },
-        "litter_in_bin_sign": {
-            "js_escape": "\ud83d\udeae",
-            "unicode": "U+1F6AE"
-        },
-        "baggage_claim": {
-            "js_escape": "\ud83d\udec4",
-            "unicode": "U+1F6C4"
-        },
-        "potable_water": {
-            "js_escape": "\ud83d\udeb0",
-            "unicode": "U+1F6B0"
-        },
-        "passport_control": {
-            "js_escape": "\ud83d\udec2",
-            "unicode": "U+1F6C2"
-        },
-        "customs": {
-            "js_escape": "\ud83d\udec3",
-            "unicode": "U+1F6C3"
-        },
-        "oil_drum": {
-            "js_escape": "\ud83d\udee2",
-            "unicode": "U+1F6E2"
-        },
-        "shopping_cart": {
-            "js_escape": "\ud83d\uded2",
-            "unicode": "U+1F6D2"
+        "abacus": {
+            "unicode": "U+1F9EE",
+            "js_escape": "\ud83e\uddee"
         }
     },
     "light_video": {
         "movie_camera": {
-            "js_escape": "\ud83c\udfa5",
-            "unicode": "U+1F3A5"
-        },
-        "film_projector": {
-            "js_escape": "\ud83d\udcfd",
-            "unicode": "U+1F4FD"
-        },
-        "magnifying_glass_tilted_left": {
-            "js_escape": "\ud83d\udd0d",
-            "unicode": "U+1F50D"
+            "unicode": "U+1F3A5",
+            "js_escape": "\ud83c\udfa5"
         },
         "film_frames": {
-            "js_escape": "\ud83c\udf9e",
-            "unicode": "U+1F39E"
+            "unicode": "U+1F39E",
+            "js_escape": "\ud83c\udf9e"
         },
-        "red_paper_lantern": {
-            "js_escape": "\ud83c\udfee",
-            "unicode": "U+1F3EE"
-        },
-        "camera_with_flash": {
-            "js_escape": "\ud83d\udcf8",
-            "unicode": "U+1F4F8"
-        },
-        "magnifying_glass_tilted_right": {
-            "js_escape": "\ud83d\udd0e",
-            "unicode": "U+1F50E"
-        },
-        "microscope": {
-            "js_escape": "\ud83d\udd2c",
-            "unicode": "U+1F52C"
-        },
-        "telescope": {
-            "js_escape": "\ud83d\udd2d",
-            "unicode": "U+1F52D"
-        },
-        "camera": {
-            "js_escape": "\ud83d\udcf7",
-            "unicode": "U+1F4F7"
-        },
-        "video_camera": {
-            "js_escape": "\ud83d\udcf9",
-            "unicode": "U+1F4F9"
-        },
-        "candle": {
-            "js_escape": "\ud83d\udd6f",
-            "unicode": "U+1F56F"
-        },
-        "videocassette": {
-            "js_escape": "\ud83d\udcfc",
-            "unicode": "U+1F4FC"
-        },
-        "light_bulb": {
-            "js_escape": "\ud83d\udca1",
-            "unicode": "U+1F4A1"
-        },
-        "flashlight": {
-            "js_escape": "\ud83d\udd26",
-            "unicode": "U+1F526"
-        },
-        "television": {
-            "js_escape": "\ud83d\udcfa",
-            "unicode": "U+1F4FA"
+        "film_projector": {
+            "unicode": "U+1F4FD",
+            "js_escape": "\ud83d\udcfd"
         },
         "clapper_board": {
-            "js_escape": "\ud83c\udfac",
-            "unicode": "U+1F3AC"
+            "unicode": "U+1F3AC",
+            "js_escape": "\ud83c\udfac"
         },
-        "satellite_antenna": {
-            "js_escape": "\ud83d\udce1",
-            "unicode": "U+1F4E1"
+        "television": {
+            "unicode": "U+1F4FA",
+            "js_escape": "\ud83d\udcfa"
+        },
+        "camera": {
+            "unicode": "U+1F4F7",
+            "js_escape": "\ud83d\udcf7"
+        },
+        "camera_with_flash": {
+            "unicode": "U+1F4F8",
+            "js_escape": "\ud83d\udcf8"
+        },
+        "video_camera": {
+            "unicode": "U+1F4F9",
+            "js_escape": "\ud83d\udcf9"
+        },
+        "videocassette": {
+            "unicode": "U+1F4FC",
+            "js_escape": "\ud83d\udcfc"
+        },
+        "magnifying_glass_tilted_left": {
+            "unicode": "U+1F50D",
+            "js_escape": "\ud83d\udd0d"
+        },
+        "magnifying_glass_tilted_right": {
+            "unicode": "U+1F50E",
+            "js_escape": "\ud83d\udd0e"
+        },
+        "candle": {
+            "unicode": "U+1F56F",
+            "js_escape": "\ud83d\udd6f"
+        },
+        "light_bulb": {
+            "unicode": "U+1F4A1",
+            "js_escape": "\ud83d\udca1"
+        },
+        "flashlight": {
+            "unicode": "U+1F526",
+            "js_escape": "\ud83d\udd26"
+        },
+        "red_paper_lantern": {
+            "unicode": "U+1F3EE",
+            "js_escape": "\ud83c\udfee"
+        },
+        "diya_lamp": {
+            "unicode": "U+1FA94",
+            "js_escape": "\ud83e\ude94"
         }
     },
-    "music": {
-        "control_knobs": {
-            "js_escape": "\ud83c\udf9b",
-            "unicode": "U+1F39B"
+    "book_paper": {
+        "notebook_with_decorative_cover": {
+            "unicode": "U+1F4D4",
+            "js_escape": "\ud83d\udcd4"
         },
-        "musical_score": {
-            "js_escape": "\ud83c\udfbc",
-            "unicode": "U+1F3BC"
+        "closed_book": {
+            "unicode": "U+1F4D5",
+            "js_escape": "\ud83d\udcd5"
         },
-        "musical_note": {
-            "js_escape": "\ud83c\udfb5",
-            "unicode": "U+1F3B5"
+        "open_book": {
+            "unicode": "U+1F4D6",
+            "js_escape": "\ud83d\udcd6"
         },
-        "headphone": {
-            "js_escape": "\ud83c\udfa7",
-            "unicode": "U+1F3A7"
+        "green_book": {
+            "unicode": "U+1F4D7",
+            "js_escape": "\ud83d\udcd7"
         },
-        "microphone": {
-            "js_escape": "\ud83c\udfa4",
-            "unicode": "U+1F3A4"
+        "blue_book": {
+            "unicode": "U+1F4D8",
+            "js_escape": "\ud83d\udcd8"
         },
-        "musical_notes": {
-            "js_escape": "\ud83c\udfb6",
-            "unicode": "U+1F3B6"
+        "orange_book": {
+            "unicode": "U+1F4D9",
+            "js_escape": "\ud83d\udcd9"
         },
-        "studio_microphone": {
-            "js_escape": "\ud83c\udf99",
-            "unicode": "U+1F399"
+        "books": {
+            "unicode": "U+1F4DA",
+            "js_escape": "\ud83d\udcda"
         },
-        "level_slider": {
-            "js_escape": "\ud83c\udf9a",
-            "unicode": "U+1F39A"
+        "notebook": {
+            "unicode": "U+1F4D3",
+            "js_escape": "\ud83d\udcd3"
         },
-        "radio": {
-            "js_escape": "\ud83d\udcfb",
-            "unicode": "U+1F4FB"
+        "ledger": {
+            "unicode": "U+1F4D2",
+            "js_escape": "\ud83d\udcd2"
+        },
+        "page_with_curl": {
+            "unicode": "U+1F4C3",
+            "js_escape": "\ud83d\udcc3"
+        },
+        "scroll": {
+            "unicode": "U+1F4DC",
+            "js_escape": "\ud83d\udcdc"
+        },
+        "page_facing_up": {
+            "unicode": "U+1F4C4",
+            "js_escape": "\ud83d\udcc4"
+        },
+        "newspaper": {
+            "unicode": "U+1F4F0",
+            "js_escape": "\ud83d\udcf0"
+        },
+        "rolled_up_newspaper": {
+            "unicode": "U+1F5DE",
+            "js_escape": "\ud83d\uddde"
+        },
+        "bookmark_tabs": {
+            "unicode": "U+1F4D1",
+            "js_escape": "\ud83d\udcd1"
+        },
+        "bookmark": {
+            "unicode": "U+1F516",
+            "js_escape": "\ud83d\udd16"
+        },
+        "label": {
+            "unicode": "U+1F3F7",
+            "js_escape": "\ud83c\udff7"
+        }
+    },
+    "money": {
+        "money_bag": {
+            "unicode": "U+1F4B0",
+            "js_escape": "\ud83d\udcb0"
+        },
+        "coin": {
+            "unicode": "U+1FA99",
+            "js_escape": "\ud83e\ude99"
+        },
+        "yen_banknote": {
+            "unicode": "U+1F4B4",
+            "js_escape": "\ud83d\udcb4"
+        },
+        "dollar_banknote": {
+            "unicode": "U+1F4B5",
+            "js_escape": "\ud83d\udcb5"
+        },
+        "euro_banknote": {
+            "unicode": "U+1F4B6",
+            "js_escape": "\ud83d\udcb6"
+        },
+        "pound_banknote": {
+            "unicode": "U+1F4B7",
+            "js_escape": "\ud83d\udcb7"
+        },
+        "money_with_wings": {
+            "unicode": "U+1F4B8",
+            "js_escape": "\ud83d\udcb8"
+        },
+        "credit_card": {
+            "unicode": "U+1F4B3",
+            "js_escape": "\ud83d\udcb3"
+        },
+        "receipt": {
+            "unicode": "U+1F9FE",
+            "js_escape": "\ud83e\uddfe"
+        },
+        "chart_increasing_with_yen": {
+            "unicode": "U+1F4B9",
+            "js_escape": "\ud83d\udcb9"
+        }
+    },
+    "mail": {
+        "envelope": {
+            "unicode": "U+2709",
+            "js_escape": "\u2709"
+        },
+        "e_mail": {
+            "unicode": "U+1F4E7",
+            "js_escape": "\ud83d\udce7"
+        },
+        "incoming_envelope": {
+            "unicode": "U+1F4E8",
+            "js_escape": "\ud83d\udce8"
+        },
+        "envelope_with_arrow": {
+            "unicode": "U+1F4E9",
+            "js_escape": "\ud83d\udce9"
+        },
+        "outbox_tray": {
+            "unicode": "U+1F4E4",
+            "js_escape": "\ud83d\udce4"
+        },
+        "inbox_tray": {
+            "unicode": "U+1F4E5",
+            "js_escape": "\ud83d\udce5"
+        },
+        "package": {
+            "unicode": "U+1F4E6",
+            "js_escape": "\ud83d\udce6"
+        },
+        "closed_mailbox_with_raised_flag": {
+            "unicode": "U+1F4EB",
+            "js_escape": "\ud83d\udceb"
+        },
+        "closed_mailbox_with_lowered_flag": {
+            "unicode": "U+1F4EA",
+            "js_escape": "\ud83d\udcea"
+        },
+        "open_mailbox_with_raised_flag": {
+            "unicode": "U+1F4EC",
+            "js_escape": "\ud83d\udcec"
+        },
+        "open_mailbox_with_lowered_flag": {
+            "unicode": "U+1F4ED",
+            "js_escape": "\ud83d\udced"
+        },
+        "postbox": {
+            "unicode": "U+1F4EE",
+            "js_escape": "\ud83d\udcee"
+        },
+        "ballot_box_with_ballot": {
+            "unicode": "U+1F5F3",
+            "js_escape": "\ud83d\uddf3"
+        }
+    },
+    "writing": {
+        "pencil": {
+            "unicode": "U+270F",
+            "js_escape": "\u270f"
+        },
+        "black_nib": {
+            "unicode": "U+2712",
+            "js_escape": "\u2712"
+        },
+        "fountain_pen": {
+            "unicode": "U+1F58B",
+            "js_escape": "\ud83d\udd8b"
+        },
+        "pen": {
+            "unicode": "U+1F58A",
+            "js_escape": "\ud83d\udd8a"
+        },
+        "paintbrush": {
+            "unicode": "U+1F58C",
+            "js_escape": "\ud83d\udd8c"
+        },
+        "crayon": {
+            "unicode": "U+1F58D",
+            "js_escape": "\ud83d\udd8d"
+        },
+        "memo": {
+            "unicode": "U+1F4DD",
+            "js_escape": "\ud83d\udcdd"
+        }
+    },
+    "office": {
+        "briefcase": {
+            "unicode": "U+1F4BC",
+            "js_escape": "\ud83d\udcbc"
+        },
+        "file_folder": {
+            "unicode": "U+1F4C1",
+            "js_escape": "\ud83d\udcc1"
+        },
+        "open_file_folder": {
+            "unicode": "U+1F4C2",
+            "js_escape": "\ud83d\udcc2"
+        },
+        "card_index_dividers": {
+            "unicode": "U+1F5C2",
+            "js_escape": "\ud83d\uddc2"
+        },
+        "calendar": {
+            "unicode": "U+1F4C5",
+            "js_escape": "\ud83d\udcc5"
+        },
+        "tear_off_calendar": {
+            "unicode": "U+1F4C6",
+            "js_escape": "\ud83d\udcc6"
+        },
+        "spiral_notepad": {
+            "unicode": "U+1F5D2",
+            "js_escape": "\ud83d\uddd2"
+        },
+        "spiral_calendar": {
+            "unicode": "U+1F5D3",
+            "js_escape": "\ud83d\uddd3"
+        },
+        "card_index": {
+            "unicode": "U+1F4C7",
+            "js_escape": "\ud83d\udcc7"
+        },
+        "chart_increasing": {
+            "unicode": "U+1F4C8",
+            "js_escape": "\ud83d\udcc8"
+        },
+        "chart_decreasing": {
+            "unicode": "U+1F4C9",
+            "js_escape": "\ud83d\udcc9"
+        },
+        "bar_chart": {
+            "unicode": "U+1F4CA",
+            "js_escape": "\ud83d\udcca"
+        },
+        "clipboard": {
+            "unicode": "U+1F4CB",
+            "js_escape": "\ud83d\udccb"
+        },
+        "pushpin": {
+            "unicode": "U+1F4CC",
+            "js_escape": "\ud83d\udccc"
+        },
+        "round_pushpin": {
+            "unicode": "U+1F4CD",
+            "js_escape": "\ud83d\udccd"
+        },
+        "paperclip": {
+            "unicode": "U+1F4CE",
+            "js_escape": "\ud83d\udcce"
+        },
+        "linked_paperclips": {
+            "unicode": "U+1F587",
+            "js_escape": "\ud83d\udd87"
+        },
+        "straight_ruler": {
+            "unicode": "U+1F4CF",
+            "js_escape": "\ud83d\udccf"
+        },
+        "triangular_ruler": {
+            "unicode": "U+1F4D0",
+            "js_escape": "\ud83d\udcd0"
+        },
+        "scissors": {
+            "unicode": "U+2702",
+            "js_escape": "\u2702"
+        },
+        "card_file_box": {
+            "unicode": "U+1F5C3",
+            "js_escape": "\ud83d\uddc3"
+        },
+        "file_cabinet": {
+            "unicode": "U+1F5C4",
+            "js_escape": "\ud83d\uddc4"
+        },
+        "wastebasket": {
+            "unicode": "U+1F5D1",
+            "js_escape": "\ud83d\uddd1"
+        }
+    },
+    "lock": {
+        "locked": {
+            "unicode": "U+1F512",
+            "js_escape": "\ud83d\udd12"
+        },
+        "unlocked": {
+            "unicode": "U+1F513",
+            "js_escape": "\ud83d\udd13"
+        },
+        "locked_with_pen": {
+            "unicode": "U+1F50F",
+            "js_escape": "\ud83d\udd0f"
+        },
+        "locked_with_key": {
+            "unicode": "U+1F510",
+            "js_escape": "\ud83d\udd10"
+        },
+        "key": {
+            "unicode": "U+1F511",
+            "js_escape": "\ud83d\udd11"
+        },
+        "old_key": {
+            "unicode": "U+1F5DD",
+            "js_escape": "\ud83d\udddd"
+        }
+    },
+    "tool": {
+        "hammer": {
+            "unicode": "U+1F528",
+            "js_escape": "\ud83d\udd28"
+        },
+        "axe": {
+            "unicode": "U+1FA93",
+            "js_escape": "\ud83e\ude93"
+        },
+        "pick": {
+            "unicode": "U+26CF",
+            "js_escape": "\u26cf"
+        },
+        "hammer_and_pick": {
+            "unicode": "U+2692",
+            "js_escape": "\u2692"
+        },
+        "hammer_and_wrench": {
+            "unicode": "U+1F6E0",
+            "js_escape": "\ud83d\udee0"
+        },
+        "dagger": {
+            "unicode": "U+1F5E1",
+            "js_escape": "\ud83d\udde1"
+        },
+        "crossed_swords": {
+            "unicode": "U+2694",
+            "js_escape": "\u2694"
+        },
+        "water_pistol": {
+            "unicode": "U+1F52B",
+            "js_escape": "\ud83d\udd2b"
+        },
+        "boomerang": {
+            "unicode": "U+1FA83",
+            "js_escape": "\ud83e\ude83"
+        },
+        "bow_and_arrow": {
+            "unicode": "U+1F3F9",
+            "js_escape": "\ud83c\udff9"
+        },
+        "shield": {
+            "unicode": "U+1F6E1",
+            "js_escape": "\ud83d\udee1"
+        },
+        "carpentry_saw": {
+            "unicode": "U+1FA9A",
+            "js_escape": "\ud83e\ude9a"
+        },
+        "wrench": {
+            "unicode": "U+1F527",
+            "js_escape": "\ud83d\udd27"
+        },
+        "screwdriver": {
+            "unicode": "U+1FA9B",
+            "js_escape": "\ud83e\ude9b"
+        },
+        "nut_and_bolt": {
+            "unicode": "U+1F529",
+            "js_escape": "\ud83d\udd29"
+        },
+        "gear": {
+            "unicode": "U+2699",
+            "js_escape": "\u2699"
+        },
+        "clamp": {
+            "unicode": "U+1F5DC",
+            "js_escape": "\ud83d\udddc"
+        },
+        "balance_scale": {
+            "unicode": "U+2696",
+            "js_escape": "\u2696"
+        },
+        "white_cane": {
+            "unicode": "U+1F9AF",
+            "js_escape": "\ud83e\uddaf"
+        },
+        "link": {
+            "unicode": "U+1F517",
+            "js_escape": "\ud83d\udd17"
+        },
+        "chains": {
+            "unicode": "U+26D3",
+            "js_escape": "\u26d3"
+        },
+        "hook": {
+            "unicode": "U+1FA9D",
+            "js_escape": "\ud83e\ude9d"
+        },
+        "toolbox": {
+            "unicode": "U+1F9F0",
+            "js_escape": "\ud83e\uddf0"
+        },
+        "magnet": {
+            "unicode": "U+1F9F2",
+            "js_escape": "\ud83e\uddf2"
+        },
+        "ladder": {
+            "unicode": "U+1FA9C",
+            "js_escape": "\ud83e\ude9c"
+        }
+    },
+    "science": {
+        "alembic": {
+            "unicode": "U+2697",
+            "js_escape": "\u2697"
+        },
+        "test_tube": {
+            "unicode": "U+1F9EA",
+            "js_escape": "\ud83e\uddea"
+        },
+        "petri_dish": {
+            "unicode": "U+1F9EB",
+            "js_escape": "\ud83e\uddeb"
+        },
+        "dna": {
+            "unicode": "U+1F9EC",
+            "js_escape": "\ud83e\uddec"
+        },
+        "microscope": {
+            "unicode": "U+1F52C",
+            "js_escape": "\ud83d\udd2c"
+        },
+        "telescope": {
+            "unicode": "U+1F52D",
+            "js_escape": "\ud83d\udd2d"
+        },
+        "satellite_antenna": {
+            "unicode": "U+1F4E1",
+            "js_escape": "\ud83d\udce1"
+        }
+    },
+    "medical": {
+        "syringe": {
+            "unicode": "U+1F489",
+            "js_escape": "\ud83d\udc89"
+        },
+        "drop_of_blood": {
+            "unicode": "U+1FA78",
+            "js_escape": "\ud83e\ude78"
+        },
+        "pill": {
+            "unicode": "U+1F48A",
+            "js_escape": "\ud83d\udc8a"
+        },
+        "adhesive_bandage": {
+            "unicode": "U+1FA79",
+            "js_escape": "\ud83e\ude79"
+        },
+        "stethoscope": {
+            "unicode": "U+1FA7A",
+            "js_escape": "\ud83e\ude7a"
+        }
+    },
+    "household": {
+        "door": {
+            "unicode": "U+1F6AA",
+            "js_escape": "\ud83d\udeaa"
+        },
+        "elevator": {
+            "unicode": "U+1F6D7",
+            "js_escape": "\ud83d\uded7"
+        },
+        "mirror": {
+            "unicode": "U+1FA9E",
+            "js_escape": "\ud83e\ude9e"
+        },
+        "window": {
+            "unicode": "U+1FA9F",
+            "js_escape": "\ud83e\ude9f"
+        },
+        "bed": {
+            "unicode": "U+1F6CF",
+            "js_escape": "\ud83d\udecf"
+        },
+        "couch_and_lamp": {
+            "unicode": "U+1F6CB",
+            "js_escape": "\ud83d\udecb"
+        },
+        "chair": {
+            "unicode": "U+1FA91",
+            "js_escape": "\ud83e\ude91"
+        },
+        "toilet": {
+            "unicode": "U+1F6BD",
+            "js_escape": "\ud83d\udebd"
+        },
+        "plunger": {
+            "unicode": "U+1FAA0",
+            "js_escape": "\ud83e\udea0"
+        },
+        "shower": {
+            "unicode": "U+1F6BF",
+            "js_escape": "\ud83d\udebf"
+        },
+        "bathtub": {
+            "unicode": "U+1F6C1",
+            "js_escape": "\ud83d\udec1"
+        },
+        "mouse_trap": {
+            "unicode": "U+1FAA4",
+            "js_escape": "\ud83e\udea4"
+        },
+        "razor": {
+            "unicode": "U+1FA92",
+            "js_escape": "\ud83e\ude92"
+        },
+        "lotion_bottle": {
+            "unicode": "U+1F9F4",
+            "js_escape": "\ud83e\uddf4"
+        },
+        "safety_pin": {
+            "unicode": "U+1F9F7",
+            "js_escape": "\ud83e\uddf7"
+        },
+        "broom": {
+            "unicode": "U+1F9F9",
+            "js_escape": "\ud83e\uddf9"
+        },
+        "basket": {
+            "unicode": "U+1F9FA",
+            "js_escape": "\ud83e\uddfa"
+        },
+        "roll_of_paper": {
+            "unicode": "U+1F9FB",
+            "js_escape": "\ud83e\uddfb"
+        },
+        "bucket": {
+            "unicode": "U+1FAA3",
+            "js_escape": "\ud83e\udea3"
+        },
+        "soap": {
+            "unicode": "U+1F9FC",
+            "js_escape": "\ud83e\uddfc"
+        },
+        "toothbrush": {
+            "unicode": "U+1FAA5",
+            "js_escape": "\ud83e\udea5"
+        },
+        "sponge": {
+            "unicode": "U+1F9FD",
+            "js_escape": "\ud83e\uddfd"
+        },
+        "fire_extinguisher": {
+            "unicode": "U+1F9EF",
+            "js_escape": "\ud83e\uddef"
+        },
+        "shopping_cart": {
+            "unicode": "U+1F6D2",
+            "js_escape": "\ud83d\uded2"
+        }
+    },
+    "other_object": {
+        "cigarette": {
+            "unicode": "U+1F6AC",
+            "js_escape": "\ud83d\udeac"
+        },
+        "coffin": {
+            "unicode": "U+26B0",
+            "js_escape": "\u26b0"
+        },
+        "headstone": {
+            "unicode": "U+1FAA6",
+            "js_escape": "\ud83e\udea6"
+        },
+        "funeral_urn": {
+            "unicode": "U+26B1",
+            "js_escape": "\u26b1"
+        },
+        "moai": {
+            "unicode": "U+1F5FF",
+            "js_escape": "\ud83d\uddff"
+        },
+        "placard": {
+            "unicode": "U+1FAA7",
+            "js_escape": "\ud83e\udea7"
+        },
+        "atm_sign": {
+            "unicode": "U+1F3E7",
+            "js_escape": "\ud83c\udfe7"
+        },
+        "litter_in_bin_sign": {
+            "unicode": "U+1F6AE",
+            "js_escape": "\ud83d\udeae"
+        },
+        "potable_water": {
+            "unicode": "U+1F6B0",
+            "js_escape": "\ud83d\udeb0"
+        },
+        "wheelchair_symbol": {
+            "unicode": "U+267F",
+            "js_escape": "\u267f"
+        },
+        "mens_room": {
+            "unicode": "U+1F6B9",
+            "js_escape": "\ud83d\udeb9"
+        },
+        "womens_room": {
+            "unicode": "U+1F6BA",
+            "js_escape": "\ud83d\udeba"
+        },
+        "restroom": {
+            "unicode": "U+1F6BB",
+            "js_escape": "\ud83d\udebb"
+        },
+        "baby_symbol": {
+            "unicode": "U+1F6BC",
+            "js_escape": "\ud83d\udebc"
+        },
+        "water_closet": {
+            "unicode": "U+1F6BE",
+            "js_escape": "\ud83d\udebe"
+        },
+        "passport_control": {
+            "unicode": "U+1F6C2",
+            "js_escape": "\ud83d\udec2"
+        },
+        "customs": {
+            "unicode": "U+1F6C3",
+            "js_escape": "\ud83d\udec3"
+        },
+        "baggage_claim": {
+            "unicode": "U+1F6C4",
+            "js_escape": "\ud83d\udec4"
+        },
+        "left_luggage": {
+            "unicode": "U+1F6C5",
+            "js_escape": "\ud83d\udec5"
         }
     }
 }

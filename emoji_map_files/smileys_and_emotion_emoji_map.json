@@ -1,0 +1,656 @@
+{
+    "face_smiling": {
+        "grinning_face": {
+            "unicode": "U+1F600",
+            "js_escape": "\ud83d\ude00"
+        },
+        "grinning_face_with_big_eyes": {
+            "unicode": "U+1F603",
+            "js_escape": "\ud83d\ude03"
+        },
+        "grinning_face_with_smiling_eyes": {
+            "unicode": "U+1F604",
+            "js_escape": "\ud83d\ude04"
+        },
+        "beaming_face_with_smiling_eyes": {
+            "unicode": "U+1F601",
+            "js_escape": "\ud83d\ude01"
+        },
+        "grinning_squinting_face": {
+            "unicode": "U+1F606",
+            "js_escape": "\ud83d\ude06"
+        },
+        "grinning_face_with_sweat": {
+            "unicode": "U+1F605",
+            "js_escape": "\ud83d\ude05"
+        },
+        "rolling_on_the_floor_laughing": {
+            "unicode": "U+1F923",
+            "js_escape": "\ud83e\udd23"
+        },
+        "face_with_tears_of_joy": {
+            "unicode": "U+1F602",
+            "js_escape": "\ud83d\ude02"
+        },
+        "slightly_smiling_face": {
+            "unicode": "U+1F642",
+            "js_escape": "\ud83d\ude42"
+        },
+        "upside_down_face": {
+            "unicode": "U+1F643",
+            "js_escape": "\ud83d\ude43"
+        },
+        "winking_face": {
+            "unicode": "U+1F609",
+            "js_escape": "\ud83d\ude09"
+        },
+        "smiling_face_with_smiling_eyes": {
+            "unicode": "U+1F60A",
+            "js_escape": "\ud83d\ude0a"
+        },
+        "smiling_face_with_halo": {
+            "unicode": "U+1F607",
+            "js_escape": "\ud83d\ude07"
+        }
+    },
+    "face_affection": {
+        "smiling_face_with_hearts": {
+            "unicode": "U+1F970",
+            "js_escape": "\ud83e\udd70"
+        },
+        "smiling_face_with_heart_eyes": {
+            "unicode": "U+1F60D",
+            "js_escape": "\ud83d\ude0d"
+        },
+        "star_struck": {
+            "unicode": "U+1F929",
+            "js_escape": "\ud83e\udd29"
+        },
+        "face_blowing_a_kiss": {
+            "unicode": "U+1F618",
+            "js_escape": "\ud83d\ude18"
+        },
+        "kissing_face": {
+            "unicode": "U+1F617",
+            "js_escape": "\ud83d\ude17"
+        },
+        "smiling_face": {
+            "unicode": "U+263A",
+            "js_escape": "\u263a"
+        },
+        "kissing_face_with_closed_eyes": {
+            "unicode": "U+1F61A",
+            "js_escape": "\ud83d\ude1a"
+        },
+        "kissing_face_with_smiling_eyes": {
+            "unicode": "U+1F619",
+            "js_escape": "\ud83d\ude19"
+        },
+        "smiling_face_with_tear": {
+            "unicode": "U+1F972",
+            "js_escape": "\ud83e\udd72"
+        }
+    },
+    "face_tongue": {
+        "face_savoring_food": {
+            "unicode": "U+1F60B",
+            "js_escape": "\ud83d\ude0b"
+        },
+        "face_with_tongue": {
+            "unicode": "U+1F61B",
+            "js_escape": "\ud83d\ude1b"
+        },
+        "winking_face_with_tongue": {
+            "unicode": "U+1F61C",
+            "js_escape": "\ud83d\ude1c"
+        },
+        "zany_face": {
+            "unicode": "U+1F92A",
+            "js_escape": "\ud83e\udd2a"
+        },
+        "squinting_face_with_tongue": {
+            "unicode": "U+1F61D",
+            "js_escape": "\ud83d\ude1d"
+        },
+        "money_mouth_face": {
+            "unicode": "U+1F911",
+            "js_escape": "\ud83e\udd11"
+        }
+    },
+    "face_hand": {
+        "hugging_face": {
+            "unicode": "U+1F917",
+            "js_escape": "\ud83e\udd17"
+        },
+        "face_with_hand_over_mouth": {
+            "unicode": "U+1F92D",
+            "js_escape": "\ud83e\udd2d"
+        },
+        "shushing_face": {
+            "unicode": "U+1F92B",
+            "js_escape": "\ud83e\udd2b"
+        },
+        "thinking_face": {
+            "unicode": "U+1F914",
+            "js_escape": "\ud83e\udd14"
+        }
+    },
+    "face_neutral_skeptical": {
+        "zipper_mouth_face": {
+            "unicode": "U+1F910",
+            "js_escape": "\ud83e\udd10"
+        },
+        "face_with_raised_eyebrow": {
+            "unicode": "U+1F928",
+            "js_escape": "\ud83e\udd28"
+        },
+        "neutral_face": {
+            "unicode": "U+1F610",
+            "js_escape": "\ud83d\ude10"
+        },
+        "expressionless_face": {
+            "unicode": "U+1F611",
+            "js_escape": "\ud83d\ude11"
+        },
+        "face_without_mouth": {
+            "unicode": "U+1F636",
+            "js_escape": "\ud83d\ude36"
+        },
+        "smirking_face": {
+            "unicode": "U+1F60F",
+            "js_escape": "\ud83d\ude0f"
+        },
+        "unamused_face": {
+            "unicode": "U+1F612",
+            "js_escape": "\ud83d\ude12"
+        },
+        "face_with_rolling_eyes": {
+            "unicode": "U+1F644",
+            "js_escape": "\ud83d\ude44"
+        },
+        "grimacing_face": {
+            "unicode": "U+1F62C",
+            "js_escape": "\ud83d\ude2c"
+        },
+        "lying_face": {
+            "unicode": "U+1F925",
+            "js_escape": "\ud83e\udd25"
+        }
+    },
+    "face_sleepy": {
+        "relieved_face": {
+            "unicode": "U+1F60C",
+            "js_escape": "\ud83d\ude0c"
+        },
+        "pensive_face": {
+            "unicode": "U+1F614",
+            "js_escape": "\ud83d\ude14"
+        },
+        "sleepy_face": {
+            "unicode": "U+1F62A",
+            "js_escape": "\ud83d\ude2a"
+        },
+        "drooling_face": {
+            "unicode": "U+1F924",
+            "js_escape": "\ud83e\udd24"
+        },
+        "sleeping_face": {
+            "unicode": "U+1F634",
+            "js_escape": "\ud83d\ude34"
+        }
+    },
+    "face_unwell": {
+        "face_with_medical_mask": {
+            "unicode": "U+1F637",
+            "js_escape": "\ud83d\ude37"
+        },
+        "face_with_thermometer": {
+            "unicode": "U+1F912",
+            "js_escape": "\ud83e\udd12"
+        },
+        "face_with_head_bandage": {
+            "unicode": "U+1F915",
+            "js_escape": "\ud83e\udd15"
+        },
+        "nauseated_face": {
+            "unicode": "U+1F922",
+            "js_escape": "\ud83e\udd22"
+        },
+        "face_vomiting": {
+            "unicode": "U+1F92E",
+            "js_escape": "\ud83e\udd2e"
+        },
+        "sneezing_face": {
+            "unicode": "U+1F927",
+            "js_escape": "\ud83e\udd27"
+        },
+        "hot_face": {
+            "unicode": "U+1F975",
+            "js_escape": "\ud83e\udd75"
+        },
+        "cold_face": {
+            "unicode": "U+1F976",
+            "js_escape": "\ud83e\udd76"
+        },
+        "woozy_face": {
+            "unicode": "U+1F974",
+            "js_escape": "\ud83e\udd74"
+        },
+        "knocked_out_face": {
+            "unicode": "U+1F635",
+            "js_escape": "\ud83d\ude35"
+        },
+        "exploding_head": {
+            "unicode": "U+1F92F",
+            "js_escape": "\ud83e\udd2f"
+        }
+    },
+    "face_hat": {
+        "cowboy_hat_face": {
+            "unicode": "U+1F920",
+            "js_escape": "\ud83e\udd20"
+        },
+        "partying_face": {
+            "unicode": "U+1F973",
+            "js_escape": "\ud83e\udd73"
+        },
+        "disguised_face": {
+            "unicode": "U+1F978",
+            "js_escape": "\ud83e\udd78"
+        }
+    },
+    "face_glasses": {
+        "smiling_face_with_sunglasses": {
+            "unicode": "U+1F60E",
+            "js_escape": "\ud83d\ude0e"
+        },
+        "nerd_face": {
+            "unicode": "U+1F913",
+            "js_escape": "\ud83e\udd13"
+        },
+        "face_with_monocle": {
+            "unicode": "U+1F9D0",
+            "js_escape": "\ud83e\uddd0"
+        }
+    },
+    "face_concerned": {
+        "confused_face": {
+            "unicode": "U+1F615",
+            "js_escape": "\ud83d\ude15"
+        },
+        "worried_face": {
+            "unicode": "U+1F61F",
+            "js_escape": "\ud83d\ude1f"
+        },
+        "slightly_frowning_face": {
+            "unicode": "U+1F641",
+            "js_escape": "\ud83d\ude41"
+        },
+        "frowning_face": {
+            "unicode": "U+2639",
+            "js_escape": "\u2639"
+        },
+        "face_with_open_mouth": {
+            "unicode": "U+1F62E",
+            "js_escape": "\ud83d\ude2e"
+        },
+        "hushed_face": {
+            "unicode": "U+1F62F",
+            "js_escape": "\ud83d\ude2f"
+        },
+        "astonished_face": {
+            "unicode": "U+1F632",
+            "js_escape": "\ud83d\ude32"
+        },
+        "flushed_face": {
+            "unicode": "U+1F633",
+            "js_escape": "\ud83d\ude33"
+        },
+        "pleading_face": {
+            "unicode": "U+1F97A",
+            "js_escape": "\ud83e\udd7a"
+        },
+        "frowning_face_with_open_mouth": {
+            "unicode": "U+1F626",
+            "js_escape": "\ud83d\ude26"
+        },
+        "anguished_face": {
+            "unicode": "U+1F627",
+            "js_escape": "\ud83d\ude27"
+        },
+        "fearful_face": {
+            "unicode": "U+1F628",
+            "js_escape": "\ud83d\ude28"
+        },
+        "anxious_face_with_sweat": {
+            "unicode": "U+1F630",
+            "js_escape": "\ud83d\ude30"
+        },
+        "sad_but_relieved_face": {
+            "unicode": "U+1F625",
+            "js_escape": "\ud83d\ude25"
+        },
+        "crying_face": {
+            "unicode": "U+1F622",
+            "js_escape": "\ud83d\ude22"
+        },
+        "loudly_crying_face": {
+            "unicode": "U+1F62D",
+            "js_escape": "\ud83d\ude2d"
+        },
+        "face_screaming_in_fear": {
+            "unicode": "U+1F631",
+            "js_escape": "\ud83d\ude31"
+        },
+        "confounded_face": {
+            "unicode": "U+1F616",
+            "js_escape": "\ud83d\ude16"
+        },
+        "persevering_face": {
+            "unicode": "U+1F623",
+            "js_escape": "\ud83d\ude23"
+        },
+        "disappointed_face": {
+            "unicode": "U+1F61E",
+            "js_escape": "\ud83d\ude1e"
+        },
+        "downcast_face_with_sweat": {
+            "unicode": "U+1F613",
+            "js_escape": "\ud83d\ude13"
+        },
+        "weary_face": {
+            "unicode": "U+1F629",
+            "js_escape": "\ud83d\ude29"
+        },
+        "tired_face": {
+            "unicode": "U+1F62B",
+            "js_escape": "\ud83d\ude2b"
+        },
+        "yawning_face": {
+            "unicode": "U+1F971",
+            "js_escape": "\ud83e\udd71"
+        }
+    },
+    "face_negative": {
+        "face_with_steam_from_nose": {
+            "unicode": "U+1F624",
+            "js_escape": "\ud83d\ude24"
+        },
+        "pouting_face": {
+            "unicode": "U+1F621",
+            "js_escape": "\ud83d\ude21"
+        },
+        "angry_face": {
+            "unicode": "U+1F620",
+            "js_escape": "\ud83d\ude20"
+        },
+        "face_with_symbols_on_mouth": {
+            "unicode": "U+1F92C",
+            "js_escape": "\ud83e\udd2c"
+        },
+        "smiling_face_with_horns": {
+            "unicode": "U+1F608",
+            "js_escape": "\ud83d\ude08"
+        },
+        "angry_face_with_horns": {
+            "unicode": "U+1F47F",
+            "js_escape": "\ud83d\udc7f"
+        },
+        "skull": {
+            "unicode": "U+1F480",
+            "js_escape": "\ud83d\udc80"
+        },
+        "skull_and_crossbones": {
+            "unicode": "U+2620",
+            "js_escape": "\u2620"
+        }
+    },
+    "face_costume": {
+        "pile_of_poo": {
+            "unicode": "U+1F4A9",
+            "js_escape": "\ud83d\udca9"
+        },
+        "clown_face": {
+            "unicode": "U+1F921",
+            "js_escape": "\ud83e\udd21"
+        },
+        "ogre": {
+            "unicode": "U+1F479",
+            "js_escape": "\ud83d\udc79"
+        },
+        "goblin": {
+            "unicode": "U+1F47A",
+            "js_escape": "\ud83d\udc7a"
+        },
+        "ghost": {
+            "unicode": "U+1F47B",
+            "js_escape": "\ud83d\udc7b"
+        },
+        "alien": {
+            "unicode": "U+1F47D",
+            "js_escape": "\ud83d\udc7d"
+        },
+        "alien_monster": {
+            "unicode": "U+1F47E",
+            "js_escape": "\ud83d\udc7e"
+        },
+        "robot": {
+            "unicode": "U+1F916",
+            "js_escape": "\ud83e\udd16"
+        }
+    },
+    "cat_face": {
+        "grinning_cat": {
+            "unicode": "U+1F63A",
+            "js_escape": "\ud83d\ude3a"
+        },
+        "grinning_cat_with_smiling_eyes": {
+            "unicode": "U+1F638",
+            "js_escape": "\ud83d\ude38"
+        },
+        "cat_with_tears_of_joy": {
+            "unicode": "U+1F639",
+            "js_escape": "\ud83d\ude39"
+        },
+        "smiling_cat_with_heart_eyes": {
+            "unicode": "U+1F63B",
+            "js_escape": "\ud83d\ude3b"
+        },
+        "cat_with_wry_smile": {
+            "unicode": "U+1F63C",
+            "js_escape": "\ud83d\ude3c"
+        },
+        "kissing_cat": {
+            "unicode": "U+1F63D",
+            "js_escape": "\ud83d\ude3d"
+        },
+        "weary_cat": {
+            "unicode": "U+1F640",
+            "js_escape": "\ud83d\ude40"
+        },
+        "crying_cat": {
+            "unicode": "U+1F63F",
+            "js_escape": "\ud83d\ude3f"
+        },
+        "pouting_cat": {
+            "unicode": "U+1F63E",
+            "js_escape": "\ud83d\ude3e"
+        }
+    },
+    "monkey_face": {
+        "see_no_evil_monkey": {
+            "unicode": "U+1F648",
+            "js_escape": "\ud83d\ude48"
+        },
+        "hear_no_evil_monkey": {
+            "unicode": "U+1F649",
+            "js_escape": "\ud83d\ude49"
+        },
+        "speak_no_evil_monkey": {
+            "unicode": "U+1F64A",
+            "js_escape": "\ud83d\ude4a"
+        }
+    },
+    "emotion": {
+        "kiss_mark": {
+            "unicode": "U+1F48B",
+            "js_escape": "\ud83d\udc8b"
+        },
+        "love_letter": {
+            "unicode": "U+1F48C",
+            "js_escape": "\ud83d\udc8c"
+        },
+        "heart_with_arrow": {
+            "unicode": "U+1F498",
+            "js_escape": "\ud83d\udc98"
+        },
+        "heart_with_ribbon": {
+            "unicode": "U+1F49D",
+            "js_escape": "\ud83d\udc9d"
+        },
+        "sparkling_heart": {
+            "unicode": "U+1F496",
+            "js_escape": "\ud83d\udc96"
+        },
+        "growing_heart": {
+            "unicode": "U+1F497",
+            "js_escape": "\ud83d\udc97"
+        },
+        "beating_heart": {
+            "unicode": "U+1F493",
+            "js_escape": "\ud83d\udc93"
+        },
+        "revolving_hearts": {
+            "unicode": "U+1F49E",
+            "js_escape": "\ud83d\udc9e"
+        },
+        "two_hearts": {
+            "unicode": "U+1F495",
+            "js_escape": "\ud83d\udc95"
+        },
+        "heart_decoration": {
+            "unicode": "U+1F49F",
+            "js_escape": "\ud83d\udc9f"
+        },
+        "heart_exclamation": {
+            "unicode": "U+2763",
+            "js_escape": "\u2763"
+        },
+        "broken_heart": {
+            "unicode": "U+1F494",
+            "js_escape": "\ud83d\udc94"
+        },
+        "red_heart": {
+            "unicode": "U+2764",
+            "js_escape": "\u2764"
+        },
+        "orange_heart": {
+            "unicode": "U+1F9E1",
+            "js_escape": "\ud83e\udde1"
+        },
+        "yellow_heart": {
+            "unicode": "U+1F49B",
+            "js_escape": "\ud83d\udc9b"
+        },
+        "green_heart": {
+            "unicode": "U+1F49A",
+            "js_escape": "\ud83d\udc9a"
+        },
+        "blue_heart": {
+            "unicode": "U+1F499",
+            "js_escape": "\ud83d\udc99"
+        },
+        "purple_heart": {
+            "unicode": "U+1F49C",
+            "js_escape": "\ud83d\udc9c"
+        },
+        "brown_heart": {
+            "unicode": "U+1F90E",
+            "js_escape": "\ud83e\udd0e"
+        },
+        "black_heart": {
+            "unicode": "U+1F5A4",
+            "js_escape": "\ud83d\udda4"
+        },
+        "white_heart": {
+            "unicode": "U+1F90D",
+            "js_escape": "\ud83e\udd0d"
+        },
+        "hundred_points": {
+            "unicode": "U+1F4AF",
+            "js_escape": "\ud83d\udcaf"
+        },
+        "anger_symbol": {
+            "unicode": "U+1F4A2",
+            "js_escape": "\ud83d\udca2"
+        },
+        "collision": {
+            "unicode": "U+1F4A5",
+            "js_escape": "\ud83d\udca5"
+        },
+        "dizzy": {
+            "unicode": "U+1F4AB",
+            "js_escape": "\ud83d\udcab"
+        },
+        "sweat_droplets": {
+            "unicode": "U+1F4A6",
+            "js_escape": "\ud83d\udca6"
+        },
+        "dashing_away": {
+            "unicode": "U+1F4A8",
+            "js_escape": "\ud83d\udca8"
+        },
+        "hole": {
+            "unicode": "U+1F573",
+            "js_escape": "\ud83d\udd73"
+        },
+        "bomb": {
+            "unicode": "U+1F4A3",
+            "js_escape": "\ud83d\udca3"
+        },
+        "speech_balloon": {
+            "unicode": "U+1F4AC",
+            "js_escape": "\ud83d\udcac"
+        },
+        "eye_in_speech_bubble": {
+            "unicode": "U+1F441 U+FE0F U+200D U+1F5E8 U+FE0F",
+            "js_escape": "\ud83d\udc41\ufe0f\u200d\ud83d\udde8\ufe0f"
+        },
+        "left_speech_bubble": {
+            "unicode": "U+1F5E8",
+            "js_escape": "\ud83d\udde8"
+        },
+        "right_anger_bubble": {
+            "unicode": "U+1F5EF",
+            "js_escape": "\ud83d\uddef"
+        },
+        "thought_balloon": {
+            "unicode": "U+1F4AD",
+            "js_escape": "\ud83d\udcad"
+        },
+        "zzz": {
+            "unicode": "U+1F4A4",
+            "js_escape": "\ud83d\udca4"
+        },
+        "waving_hand": {
+            "unicode": "U+1F44B",
+            "js_escape": "\ud83d\udc4b"
+        },
+        "raised_back_of_hand": {
+            "unicode": "U+1F91A",
+            "js_escape": "\ud83e\udd1a"
+        },
+        "hand_with_fingers_splayed": {
+            "unicode": "U+1F590",
+            "js_escape": "\ud83d\udd90"
+        },
+        "raised_hand": {
+            "unicode": "U+270B",
+            "js_escape": "\u270b"
+        },
+        "vulcan_salute": {
+            "unicode": "U+1F596",
+            "js_escape": "\ud83d\udd96"
+        }
+    }
+}
