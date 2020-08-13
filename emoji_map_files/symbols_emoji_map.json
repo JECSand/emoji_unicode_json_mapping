@@ -1,894 +1,966 @@
 {
-    "zodiac": {
-        "aquarius": {
-            "js_escape": "\u2652",
-            "unicode": "U+2652"
+    "transport_sign": {
+        "cigarette": {
+            "unicode": "U+1F6AC",
+            "js_escape": "\ud83d\udeac"
         },
-        "gemini": {
-            "js_escape": "\u264a",
-            "unicode": "U+264A"
+        "coffin": {
+            "unicode": "U+26B0",
+            "js_escape": "\u26b0"
         },
-        "taurus": {
-            "js_escape": "\u2649",
-            "unicode": "U+2649"
+        "headstone": {
+            "unicode": "U+1FAA6",
+            "js_escape": "\ud83e\udea6"
         },
-        "pisces": {
-            "js_escape": "\u2653",
-            "unicode": "U+2653"
+        "funeral_urn": {
+            "unicode": "U+26B1",
+            "js_escape": "\u26b1"
         },
-        "virgo": {
-            "js_escape": "\u264d",
-            "unicode": "U+264D"
+        "moai": {
+            "unicode": "U+1F5FF",
+            "js_escape": "\ud83d\uddff"
         },
-        "libra": {
-            "js_escape": "\u264e",
-            "unicode": "U+264E"
+        "placard": {
+            "unicode": "U+1FAA7",
+            "js_escape": "\ud83e\udea7"
         },
-        "capricorn": {
-            "js_escape": "\u2651",
-            "unicode": "U+2651"
+        "atm_sign": {
+            "unicode": "U+1F3E7",
+            "js_escape": "\ud83c\udfe7"
         },
-        "ophiuchus": {
-            "js_escape": "\u26ce",
-            "unicode": "U+26CE"
+        "litter_in_bin_sign": {
+            "unicode": "U+1F6AE",
+            "js_escape": "\ud83d\udeae"
         },
-        "scorpio": {
-            "js_escape": "\u264f",
-            "unicode": "U+264F"
+        "potable_water": {
+            "unicode": "U+1F6B0",
+            "js_escape": "\ud83d\udeb0"
         },
-        "cancer": {
-            "js_escape": "\u264b",
-            "unicode": "U+264B"
+        "wheelchair_symbol": {
+            "unicode": "U+267F",
+            "js_escape": "\u267f"
         },
-        "aries": {
-            "js_escape": "\u2648",
-            "unicode": "U+2648"
+        "mens_room": {
+            "unicode": "U+1F6B9",
+            "js_escape": "\ud83d\udeb9"
         },
-        "leo": {
-            "js_escape": "\u264c",
-            "unicode": "U+264C"
+        "womens_room": {
+            "unicode": "U+1F6BA",
+            "js_escape": "\ud83d\udeba"
         },
-        "sagittarius": {
-            "js_escape": "\u2650",
-            "unicode": "U+2650"
+        "restroom": {
+            "unicode": "U+1F6BB",
+            "js_escape": "\ud83d\udebb"
+        },
+        "baby_symbol": {
+            "unicode": "U+1F6BC",
+            "js_escape": "\ud83d\udebc"
+        },
+        "water_closet": {
+            "unicode": "U+1F6BE",
+            "js_escape": "\ud83d\udebe"
+        },
+        "passport_control": {
+            "unicode": "U+1F6C2",
+            "js_escape": "\ud83d\udec2"
+        },
+        "customs": {
+            "unicode": "U+1F6C3",
+            "js_escape": "\ud83d\udec3"
+        },
+        "baggage_claim": {
+            "unicode": "U+1F6C4",
+            "js_escape": "\ud83d\udec4"
+        },
+        "left_luggage": {
+            "unicode": "U+1F6C5",
+            "js_escape": "\ud83d\udec5"
         }
     },
-    "religion": {
-        "latin_cross": {
-            "js_escape": "\u271d",
-            "unicode": "U+271D"
+    "warning": {
+        "warning": {
+            "unicode": "U+26A0",
+            "js_escape": "\u26a0"
         },
-        "dotted_six_pointed_star": {
-            "js_escape": "\ud83d\udd2f",
-            "unicode": "U+1F52F"
+        "children_crossing": {
+            "unicode": "U+1F6B8",
+            "js_escape": "\ud83d\udeb8"
         },
-        "atom_symbol": {
-            "js_escape": "\u269b",
-            "unicode": "U+269B"
+        "no_entry": {
+            "unicode": "U+26D4",
+            "js_escape": "\u26d4"
         },
-        "yin_yang": {
-            "js_escape": "\u262f",
-            "unicode": "U+262F"
+        "prohibited": {
+            "unicode": "U+1F6AB",
+            "js_escape": "\ud83d\udeab"
         },
-        "place_of_worship": {
-            "js_escape": "\ud83d\uded0",
-            "unicode": "U+1F6D0"
+        "no_bicycles": {
+            "unicode": "U+1F6B3",
+            "js_escape": "\ud83d\udeb3"
         },
-        "star_and_crescent": {
-            "js_escape": "\u262a",
-            "unicode": "U+262A"
+        "no_smoking": {
+            "unicode": "U+1F6AD",
+            "js_escape": "\ud83d\udead"
         },
-        "menorah": {
-            "js_escape": "\ud83d\udd4e",
-            "unicode": "U+1F54E"
+        "no_littering": {
+            "unicode": "U+1F6AF",
+            "js_escape": "\ud83d\udeaf"
         },
-        "star_of_david": {
-            "js_escape": "\u2721",
-            "unicode": "U+2721"
+        "non_potable_water": {
+            "unicode": "U+1F6B1",
+            "js_escape": "\ud83d\udeb1"
         },
-        "wheel_of_dharma": {
-            "js_escape": "\u2638",
-            "unicode": "U+2638"
+        "no_pedestrians": {
+            "unicode": "U+1F6B7",
+            "js_escape": "\ud83d\udeb7"
         },
-        "peace_symbol": {
-            "js_escape": "\u262e",
-            "unicode": "U+262E"
+        "no_mobile_phones": {
+            "unicode": "U+1F4F5",
+            "js_escape": "\ud83d\udcf5"
         },
-        "orthodox_cross": {
-            "js_escape": "\u2626",
-            "unicode": "U+2626"
+        "no_one_under_eighteen": {
+            "unicode": "U+1F51E",
+            "js_escape": "\ud83d\udd1e"
         },
-        "om": {
-            "js_escape": "\ud83d\udd49",
-            "unicode": "U+1F549"
-        }
-    },
-    "av_symbol": {
-        "pause_button": {
-            "js_escape": "\u23f8",
-            "unicode": "U+23F8"
+        "radioactive": {
+            "unicode": "U+2622",
+            "js_escape": "\u2622"
         },
-        "antenna_bars": {
-            "js_escape": "\ud83d\udcf6",
-            "unicode": "U+1F4F6"
-        },
-        "fast_down_button": {
-            "js_escape": "\u23ec",
-            "unicode": "U+23EC"
-        },
-        "last_track_button": {
-            "js_escape": "\u23ee",
-            "unicode": "U+23EE"
-        },
-        "play_button": {
-            "js_escape": "\u25b6",
-            "unicode": "U+25B6"
-        },
-        "vibration_mode": {
-            "js_escape": "\ud83d\udcf3",
-            "unicode": "U+1F4F3"
-        },
-        "bright_button": {
-            "js_escape": "\ud83d\udd06",
-            "unicode": "U+1F506"
-        },
-        "shuffle_tracks_button": {
-            "js_escape": "\ud83d\udd00",
-            "unicode": "U+1F500"
-        },
-        "eject_button": {
-            "js_escape": "\u23cf",
-            "unicode": "U+23CF"
-        },
-        "downwards_button": {
-            "js_escape": "\ud83d\udd3d",
-            "unicode": "U+1F53D"
-        },
-        "stop_button": {
-            "js_escape": "\u23f9",
-            "unicode": "U+23F9"
-        },
-        "mobile_phone_off": {
-            "js_escape": "\ud83d\udcf4",
-            "unicode": "U+1F4F4"
-        },
-        "dim_button": {
-            "js_escape": "\ud83d\udd05",
-            "unicode": "U+1F505"
-        },
-        "cinema": {
-            "js_escape": "\ud83c\udfa6",
-            "unicode": "U+1F3A6"
-        },
-        "fast_forward_button": {
-            "js_escape": "\u23e9",
-            "unicode": "U+23E9"
-        },
-        "repeat_button": {
-            "js_escape": "\ud83d\udd01",
-            "unicode": "U+1F501"
-        },
-        "upwards_button": {
-            "js_escape": "\ud83d\udd3c",
-            "unicode": "U+1F53C"
-        },
-        "play_or_pause_button": {
-            "js_escape": "\u23ef",
-            "unicode": "U+23EF"
-        },
-        "reverse_button": {
-            "js_escape": "\u25c0",
-            "unicode": "U+25C0"
-        },
-        "record_button": {
-            "js_escape": "\u23fa",
-            "unicode": "U+23FA"
-        },
-        "fast_up_button": {
-            "js_escape": "\u23eb",
-            "unicode": "U+23EB"
-        },
-        "fast_reverse_button": {
-            "js_escape": "\u23ea",
-            "unicode": "U+23EA"
-        },
-        "repeat_single_button": {
-            "js_escape": "\ud83d\udd02",
-            "unicode": "U+1F502"
-        },
-        "next_track_button": {
-            "js_escape": "\u23ed",
-            "unicode": "U+23ED"
+        "biohazard": {
+            "unicode": "U+2623",
+            "js_escape": "\u2623"
         }
     },
     "arrow": {
-        "soon_arrow": {
-            "js_escape": "\ud83d\udd1c",
-            "unicode": "U+1F51C"
-        },
-        "right_arrow_curving_down": {
-            "js_escape": "\u2935",
-            "unicode": "U+2935"
-        },
-        "top_arrow": {
-            "js_escape": "\ud83d\udd1d",
-            "unicode": "U+1F51D"
-        },
         "up_arrow": {
-            "js_escape": "\u2b06",
-            "unicode": "U+2B06"
-        },
-        "down_arrow": {
-            "js_escape": "\u2b07",
-            "unicode": "U+2B07"
-        },
-        "right_arrow_curving_left": {
-            "js_escape": "\u21a9",
-            "unicode": "U+21A9"
-        },
-        "up_down_arrow": {
-            "js_escape": "\u2195",
-            "unicode": "U+2195"
-        },
-        "clockwise_vertical_arrows": {
-            "js_escape": "\ud83d\udd03",
-            "unicode": "U+1F503"
-        },
-        "end_arrow": {
-            "js_escape": "\ud83d\udd1a",
-            "unicode": "U+1F51A"
-        },
-        "on_arrow": {
-            "js_escape": "\ud83d\udd1b",
-            "unicode": "U+1F51B"
-        },
-        "down_left_arrow": {
-            "js_escape": "\u2199",
-            "unicode": "U+2199"
-        },
-        "left_arrow_curving_right": {
-            "js_escape": "\u21aa",
-            "unicode": "U+21AA"
-        },
-        "counterclockwise_arrows_button": {
-            "js_escape": "\ud83d\udd04",
-            "unicode": "U+1F504"
-        },
-        "up_left_arrow": {
-            "js_escape": "\u2196",
-            "unicode": "U+2196"
-        },
-        "left_arrow": {
-            "js_escape": "\u2b05",
-            "unicode": "U+2B05"
+            "unicode": "U+2B06",
+            "js_escape": "\u2b06"
         },
         "up_right_arrow": {
-            "js_escape": "\u2197",
-            "unicode": "U+2197"
+            "unicode": "U+2197",
+            "js_escape": "\u2197"
         },
         "right_arrow": {
-            "js_escape": "\u27a1",
-            "unicode": "U+27A1"
+            "unicode": "U+27A1",
+            "js_escape": "\u27a1"
         },
         "down_right_arrow": {
-            "js_escape": "\u2198",
-            "unicode": "U+2198"
+            "unicode": "U+2198",
+            "js_escape": "\u2198"
         },
-        "right_arrow_curving_up": {
-            "js_escape": "\u2934",
-            "unicode": "U+2934"
+        "down_arrow": {
+            "unicode": "U+2B07",
+            "js_escape": "\u2b07"
+        },
+        "down_left_arrow": {
+            "unicode": "U+2199",
+            "js_escape": "\u2199"
+        },
+        "left_arrow": {
+            "unicode": "U+2B05",
+            "js_escape": "\u2b05"
+        },
+        "up_left_arrow": {
+            "unicode": "U+2196",
+            "js_escape": "\u2196"
+        },
+        "up_down_arrow": {
+            "unicode": "U+2195",
+            "js_escape": "\u2195"
         },
         "left_right_arrow": {
-            "js_escape": "\u2194",
-            "unicode": "U+2194"
+            "unicode": "U+2194",
+            "js_escape": "\u2194"
+        },
+        "right_arrow_curving_left": {
+            "unicode": "U+21A9",
+            "js_escape": "\u21a9"
+        },
+        "left_arrow_curving_right": {
+            "unicode": "U+21AA",
+            "js_escape": "\u21aa"
+        },
+        "right_arrow_curving_up": {
+            "unicode": "U+2934",
+            "js_escape": "\u2934"
+        },
+        "right_arrow_curving_down": {
+            "unicode": "U+2935",
+            "js_escape": "\u2935"
+        },
+        "clockwise_vertical_arrows": {
+            "unicode": "U+1F503",
+            "js_escape": "\ud83d\udd03"
+        },
+        "counterclockwise_arrows_button": {
+            "unicode": "U+1F504",
+            "js_escape": "\ud83d\udd04"
         },
         "back_arrow": {
-            "js_escape": "\ud83d\udd19",
-            "unicode": "U+1F519"
+            "unicode": "U+1F519",
+            "js_escape": "\ud83d\udd19"
+        },
+        "end_arrow": {
+            "unicode": "U+1F51A",
+            "js_escape": "\ud83d\udd1a"
+        },
+        "on_arrow": {
+            "unicode": "U+1F51B",
+            "js_escape": "\ud83d\udd1b"
+        },
+        "soon_arrow": {
+            "unicode": "U+1F51C",
+            "js_escape": "\ud83d\udd1c"
+        },
+        "top_arrow": {
+            "unicode": "U+1F51D",
+            "js_escape": "\ud83d\udd1d"
+        }
+    },
+    "religion": {
+        "place_of_worship": {
+            "unicode": "U+1F6D0",
+            "js_escape": "\ud83d\uded0"
+        },
+        "atom_symbol": {
+            "unicode": "U+269B",
+            "js_escape": "\u269b"
+        },
+        "om": {
+            "unicode": "U+1F549",
+            "js_escape": "\ud83d\udd49"
+        },
+        "star_of_david": {
+            "unicode": "U+2721",
+            "js_escape": "\u2721"
+        },
+        "wheel_of_dharma": {
+            "unicode": "U+2638",
+            "js_escape": "\u2638"
+        },
+        "yin_yang": {
+            "unicode": "U+262F",
+            "js_escape": "\u262f"
+        },
+        "latin_cross": {
+            "unicode": "U+271D",
+            "js_escape": "\u271d"
+        },
+        "orthodox_cross": {
+            "unicode": "U+2626",
+            "js_escape": "\u2626"
+        },
+        "star_and_crescent": {
+            "unicode": "U+262A",
+            "js_escape": "\u262a"
+        },
+        "peace_symbol": {
+            "unicode": "U+262E",
+            "js_escape": "\u262e"
+        },
+        "menorah": {
+            "unicode": "U+1F54E",
+            "js_escape": "\ud83d\udd4e"
+        },
+        "dotted_six_pointed_star": {
+            "unicode": "U+1F52F",
+            "js_escape": "\ud83d\udd2f"
+        }
+    },
+    "zodiac": {
+        "aries": {
+            "unicode": "U+2648",
+            "js_escape": "\u2648"
+        },
+        "taurus": {
+            "unicode": "U+2649",
+            "js_escape": "\u2649"
+        },
+        "gemini": {
+            "unicode": "U+264A",
+            "js_escape": "\u264a"
+        },
+        "cancer": {
+            "unicode": "U+264B",
+            "js_escape": "\u264b"
+        },
+        "leo": {
+            "unicode": "U+264C",
+            "js_escape": "\u264c"
+        },
+        "virgo": {
+            "unicode": "U+264D",
+            "js_escape": "\u264d"
+        },
+        "libra": {
+            "unicode": "U+264E",
+            "js_escape": "\u264e"
+        },
+        "scorpio": {
+            "unicode": "U+264F",
+            "js_escape": "\u264f"
+        },
+        "sagittarius": {
+            "unicode": "U+2650",
+            "js_escape": "\u2650"
+        },
+        "capricorn": {
+            "unicode": "U+2651",
+            "js_escape": "\u2651"
+        },
+        "aquarius": {
+            "unicode": "U+2652",
+            "js_escape": "\u2652"
+        },
+        "pisces": {
+            "unicode": "U+2653",
+            "js_escape": "\u2653"
+        },
+        "ophiuchus": {
+            "unicode": "U+26CE",
+            "js_escape": "\u26ce"
+        }
+    },
+    "av_symbol": {
+        "shuffle_tracks_button": {
+            "unicode": "U+1F500",
+            "js_escape": "\ud83d\udd00"
+        },
+        "repeat_button": {
+            "unicode": "U+1F501",
+            "js_escape": "\ud83d\udd01"
+        },
+        "repeat_single_button": {
+            "unicode": "U+1F502",
+            "js_escape": "\ud83d\udd02"
+        },
+        "play_button": {
+            "unicode": "U+25B6",
+            "js_escape": "\u25b6"
+        },
+        "fast_forward_button": {
+            "unicode": "U+23E9",
+            "js_escape": "\u23e9"
+        },
+        "next_track_button": {
+            "unicode": "U+23ED",
+            "js_escape": "\u23ed"
+        },
+        "play_or_pause_button": {
+            "unicode": "U+23EF",
+            "js_escape": "\u23ef"
+        },
+        "reverse_button": {
+            "unicode": "U+25C0",
+            "js_escape": "\u25c0"
+        },
+        "fast_reverse_button": {
+            "unicode": "U+23EA",
+            "js_escape": "\u23ea"
+        },
+        "last_track_button": {
+            "unicode": "U+23EE",
+            "js_escape": "\u23ee"
+        },
+        "upwards_button": {
+            "unicode": "U+1F53C",
+            "js_escape": "\ud83d\udd3c"
+        },
+        "fast_up_button": {
+            "unicode": "U+23EB",
+            "js_escape": "\u23eb"
+        },
+        "downwards_button": {
+            "unicode": "U+1F53D",
+            "js_escape": "\ud83d\udd3d"
+        },
+        "fast_down_button": {
+            "unicode": "U+23EC",
+            "js_escape": "\u23ec"
+        },
+        "pause_button": {
+            "unicode": "U+23F8",
+            "js_escape": "\u23f8"
+        },
+        "stop_button": {
+            "unicode": "U+23F9",
+            "js_escape": "\u23f9"
+        },
+        "record_button": {
+            "unicode": "U+23FA",
+            "js_escape": "\u23fa"
+        },
+        "eject_button": {
+            "unicode": "U+23CF",
+            "js_escape": "\u23cf"
+        },
+        "cinema": {
+            "unicode": "U+1F3A6",
+            "js_escape": "\ud83c\udfa6"
+        },
+        "dim_button": {
+            "unicode": "U+1F505",
+            "js_escape": "\ud83d\udd05"
+        },
+        "bright_button": {
+            "unicode": "U+1F506",
+            "js_escape": "\ud83d\udd06"
+        },
+        "antenna_bars": {
+            "unicode": "U+1F4F6",
+            "js_escape": "\ud83d\udcf6"
+        },
+        "vibration_mode": {
+            "unicode": "U+1F4F3",
+            "js_escape": "\ud83d\udcf3"
+        },
+        "mobile_phone_off": {
+            "unicode": "U+1F4F4",
+            "js_escape": "\ud83d\udcf4"
+        }
+    },
+    "gender": {
+        "female_sign": {
+            "unicode": "U+2640",
+            "js_escape": "\u2640"
+        },
+        "male_sign": {
+            "unicode": "U+2642",
+            "js_escape": "\u2642"
+        },
+        "transgender_symbol": {
+            "unicode": "U+26A7",
+            "js_escape": "\u26a7"
+        }
+    },
+    "math": {
+        "multiply": {
+            "unicode": "U+2716",
+            "js_escape": "\u2716"
+        },
+        "plus": {
+            "unicode": "U+2795",
+            "js_escape": "\u2795"
+        },
+        "minus": {
+            "unicode": "U+2796",
+            "js_escape": "\u2796"
+        },
+        "divide": {
+            "unicode": "U+2797",
+            "js_escape": "\u2797"
+        },
+        "infinity": {
+            "unicode": "U+267E",
+            "js_escape": "\u267e"
+        }
+    },
+    "punctuation": {
+        "double_exclamation_mark": {
+            "unicode": "U+203C",
+            "js_escape": "\u203c"
+        },
+        "exclamation_question_mark": {
+            "unicode": "U+2049",
+            "js_escape": "\u2049"
+        },
+        "red_question_mark": {
+            "unicode": "U+2753",
+            "js_escape": "\u2753"
+        },
+        "white_question_mark": {
+            "unicode": "U+2754",
+            "js_escape": "\u2754"
+        },
+        "white_exclamation_mark": {
+            "unicode": "U+2755",
+            "js_escape": "\u2755"
+        },
+        "red_exclamation_mark": {
+            "unicode": "U+2757",
+            "js_escape": "\u2757"
+        },
+        "wavy_dash": {
+            "unicode": "U+3030",
+            "js_escape": "\u3030"
+        }
+    },
+    "currency": {
+        "currency_exchange": {
+            "unicode": "U+1F4B1",
+            "js_escape": "\ud83d\udcb1"
+        },
+        "heavy_dollar_sign": {
+            "unicode": "U+1F4B2",
+            "js_escape": "\ud83d\udcb2"
         }
     },
     "other_symbol": {
         "medical_symbol": {
-            "js_escape": "\u2695",
-            "unicode": "U+2695"
-        },
-        "heavy_multiplication_x": {
-            "js_escape": "\u2716",
-            "unicode": "U+2716"
-        },
-        "white_exclamation_mark": {
-            "js_escape": "\u2755",
-            "unicode": "U+2755"
-        },
-        "exclamation_mark": {
-            "js_escape": "\u2757",
-            "unicode": "U+2757"
-        },
-        "heavy_division_sign": {
-            "js_escape": "\u2797",
-            "unicode": "U+2797"
-        },
-        "heavy_large_circle": {
-            "js_escape": "\u2b55",
-            "unicode": "U+2B55"
-        },
-        "heavy_plus_sign": {
-            "js_escape": "\u2795",
-            "unicode": "U+2795"
-        },
-        "name_badge": {
-            "js_escape": "\ud83d\udcdb",
-            "unicode": "U+1F4DB"
-        },
-        "curly_loop": {
-            "js_escape": "\u27b0",
-            "unicode": "U+27B0"
-        },
-        "part_alternation_mark": {
-            "js_escape": "\u303d",
-            "unicode": "U+303D"
-        },
-        "white_heavy_check_mark": {
-            "js_escape": "\u2705",
-            "unicode": "U+2705"
-        },
-        "eight_spoked_asterisk": {
-            "js_escape": "\u2733",
-            "unicode": "U+2733"
-        },
-        "japanese_symbol_for_beginner": {
-            "js_escape": "\ud83d\udd30",
-            "unicode": "U+1F530"
-        },
-        "male_sign": {
-            "js_escape": "\u2642",
-            "unicode": "U+2642"
-        },
-        "female_sign": {
-            "js_escape": "\u2640",
-            "unicode": "U+2640"
-        },
-        "registered": {
-            "js_escape": "\u00ae",
-            "unicode": "U+00AE"
-        },
-        "ballot_box_with_check": {
-            "js_escape": "\u2611",
-            "unicode": "U+2611"
-        },
-        "cross_mark_button": {
-            "js_escape": "\u274e",
-            "unicode": "U+274E"
-        },
-        "heavy_minus_sign": {
-            "js_escape": "\u2796",
-            "unicode": "U+2796"
-        },
-        "cross_mark": {
-            "js_escape": "\u274c",
-            "unicode": "U+274C"
-        },
-        "white_question_mark": {
-            "js_escape": "\u2754",
-            "unicode": "U+2754"
-        },
-        "copyright": {
-            "js_escape": "\u00a9",
-            "unicode": "U+00A9"
+            "unicode": "U+2695",
+            "js_escape": "\u2695"
         },
         "recycling_symbol": {
-            "js_escape": "\u267b",
-            "unicode": "U+267B"
-        },
-        "double_exclamation_mark": {
-            "js_escape": "\u203c",
-            "unicode": "U+203C"
+            "unicode": "U+267B",
+            "js_escape": "\u267b"
         },
         "fleur_de_lis": {
-            "js_escape": "\u269c",
-            "unicode": "U+269C"
-        },
-        "exclamation_question_mark": {
-            "js_escape": "\u2049",
-            "unicode": "U+2049"
+            "unicode": "U+269C",
+            "js_escape": "\u269c"
         },
         "trident_emblem": {
-            "js_escape": "\ud83d\udd31",
-            "unicode": "U+1F531"
+            "unicode": "U+1F531",
+            "js_escape": "\ud83d\udd31"
         },
-        "sparkle": {
-            "js_escape": "\u2747",
-            "unicode": "U+2747"
+        "name_badge": {
+            "unicode": "U+1F4DB",
+            "js_escape": "\ud83d\udcdb"
+        },
+        "japanese_symbol_for_beginner": {
+            "unicode": "U+1F530",
+            "js_escape": "\ud83d\udd30"
+        },
+        "hollow_red_circle": {
+            "unicode": "U+2B55",
+            "js_escape": "\u2b55"
+        },
+        "check_mark_button": {
+            "unicode": "U+2705",
+            "js_escape": "\u2705"
+        },
+        "check_box_with_check": {
+            "unicode": "U+2611",
+            "js_escape": "\u2611"
+        },
+        "check_mark": {
+            "unicode": "U+2714",
+            "js_escape": "\u2714"
+        },
+        "cross_mark": {
+            "unicode": "U+274C",
+            "js_escape": "\u274c"
+        },
+        "cross_mark_button": {
+            "unicode": "U+274E",
+            "js_escape": "\u274e"
+        },
+        "curly_loop": {
+            "unicode": "U+27B0",
+            "js_escape": "\u27b0"
         },
         "double_curly_loop": {
-            "js_escape": "\u27bf",
-            "unicode": "U+27BF"
+            "unicode": "U+27BF",
+            "js_escape": "\u27bf"
         },
-        "heavy_check_mark": {
-            "js_escape": "\u2714",
-            "unicode": "U+2714"
+        "part_alternation_mark": {
+            "unicode": "U+303D",
+            "js_escape": "\u303d"
         },
-        "wavy_dash": {
-            "js_escape": "\u3030",
-            "unicode": "U+3030"
+        "eight_spoked_asterisk": {
+            "unicode": "U+2733",
+            "js_escape": "\u2733"
         },
         "eight_pointed_star": {
-            "js_escape": "\u2734",
-            "unicode": "U+2734"
+            "unicode": "U+2734",
+            "js_escape": "\u2734"
+        },
+        "sparkle": {
+            "unicode": "U+2747",
+            "js_escape": "\u2747"
+        },
+        "copyright": {
+            "unicode": "U+00A9",
+            "js_escape": "\u00a9"
+        },
+        "registered": {
+            "unicode": "U+00AE",
+            "js_escape": "\u00ae"
         },
         "trade_mark": {
-            "js_escape": "\u2122",
-            "unicode": "U+2122"
-        },
-        "question_mark": {
-            "js_escape": "\u2753",
-            "unicode": "U+2753"
-        }
-    },
-    "warning": {
-        "prohibited": {
-            "js_escape": "\ud83d\udeab",
-            "unicode": "U+1F6AB"
-        },
-        "no_entry": {
-            "js_escape": "\u26d4",
-            "unicode": "U+26D4"
-        },
-        "biohazard": {
-            "js_escape": "\u2623",
-            "unicode": "U+2623"
-        },
-        "children_crossing": {
-            "js_escape": "\ud83d\udeb8",
-            "unicode": "U+1F6B8"
-        },
-        "no_one_under_eighteen": {
-            "js_escape": "\ud83d\udd1e",
-            "unicode": "U+1F51E"
-        },
-        "warning": {
-            "js_escape": "\u26a0",
-            "unicode": "U+26A0"
-        },
-        "no_smoking": {
-            "js_escape": "\ud83d\udead",
-            "unicode": "U+1F6AD"
-        },
-        "radioactive": {
-            "js_escape": "\u2622",
-            "unicode": "U+2622"
-        },
-        "no_mobile_phones": {
-            "js_escape": "\ud83d\udcf5",
-            "unicode": "U+1F4F5"
-        },
-        "no_littering": {
-            "js_escape": "\ud83d\udeaf",
-            "unicode": "U+1F6AF"
-        },
-        "non_potable_water": {
-            "js_escape": "\ud83d\udeb1",
-            "unicode": "U+1F6B1"
-        },
-        "no_bicycles": {
-            "js_escape": "\ud83d\udeb3",
-            "unicode": "U+1F6B3"
-        },
-        "no_pedestrians": {
-            "js_escape": "\ud83d\udeb7",
-            "unicode": "U+1F6B7"
+            "unicode": "U+2122",
+            "js_escape": "\u2122"
         }
     },
     "keycap": {
-        "keycap_7": {
-            "js_escape": "7\ufe0f\u20e3",
-            "unicode": "U+0037 U+FE0F U+20E3"
-        },
-        "keycap_1": {
-            "js_escape": "1\ufe0f\u20e3",
-            "unicode": "U+0031 U+FE0F U+20E3"
-        },
-        "keycap_5": {
-            "js_escape": "5\ufe0f\u20e3",
-            "unicode": "U+0035 U+FE0F U+20E3"
-        },
         "keycap_#": {
-            "js_escape": "#\ufe0f\u20e3",
-            "unicode": "U+0023 U+FE0F U+20E3"
-        },
-        "keycap_0": {
-            "js_escape": "0\ufe0f\u20e3",
-            "unicode": "U+0030 U+FE0F U+20E3"
-        },
-        "keycap_4": {
-            "js_escape": "4\ufe0f\u20e3",
-            "unicode": "U+0034 U+FE0F U+20E3"
+            "unicode": "U+0023 U+FE0F U+20E3",
+            "js_escape": "#\ufe0f\u20e3"
         },
         "keycap_*": {
-            "js_escape": "*\ufe0f\u20e3",
-            "unicode": "U+002A U+FE0F U+20E3"
+            "unicode": "U+002A U+FE0F U+20E3",
+            "js_escape": "*\ufe0f\u20e3"
+        },
+        "keycap_0": {
+            "unicode": "U+0030 U+FE0F U+20E3",
+            "js_escape": "0\ufe0f\u20e3"
+        },
+        "keycap_1": {
+            "unicode": "U+0031 U+FE0F U+20E3",
+            "js_escape": "1\ufe0f\u20e3"
         },
         "keycap_2": {
-            "js_escape": "2\ufe0f\u20e3",
-            "unicode": "U+0032 U+FE0F U+20E3"
-        },
-        "keycap_9": {
-            "js_escape": "9\ufe0f\u20e3",
-            "unicode": "U+0039 U+FE0F U+20E3"
-        },
-        "keycap_6": {
-            "js_escape": "6\ufe0f\u20e3",
-            "unicode": "U+0036 U+FE0F U+20E3"
+            "unicode": "U+0032 U+FE0F U+20E3",
+            "js_escape": "2\ufe0f\u20e3"
         },
         "keycap_3": {
-            "js_escape": "3\ufe0f\u20e3",
-            "unicode": "U+0033 U+FE0F U+20E3"
+            "unicode": "U+0033 U+FE0F U+20E3",
+            "js_escape": "3\ufe0f\u20e3"
         },
-        "keycap_10": {
-            "js_escape": "\ud83d\udd1f",
-            "unicode": "U+1F51F"
+        "keycap_4": {
+            "unicode": "U+0034 U+FE0F U+20E3",
+            "js_escape": "4\ufe0f\u20e3"
+        },
+        "keycap_5": {
+            "unicode": "U+0035 U+FE0F U+20E3",
+            "js_escape": "5\ufe0f\u20e3"
+        },
+        "keycap_6": {
+            "unicode": "U+0036 U+FE0F U+20E3",
+            "js_escape": "6\ufe0f\u20e3"
+        },
+        "keycap_7": {
+            "unicode": "U+0037 U+FE0F U+20E3",
+            "js_escape": "7\ufe0f\u20e3"
         },
         "keycap_8": {
-            "js_escape": "8\ufe0f\u20e3",
-            "unicode": "U+0038 U+FE0F U+20E3"
-        }
-    },
-    "transport_sign": {
-        "womens_room": {
-            "js_escape": "\ud83d\udeba",
-            "unicode": "U+1F6BA"
+            "unicode": "U+0038 U+FE0F U+20E3",
+            "js_escape": "8\ufe0f\u20e3"
         },
-        "baby_symbol": {
-            "js_escape": "\ud83d\udebc",
-            "unicode": "U+1F6BC"
+        "keycap_9": {
+            "unicode": "U+0039 U+FE0F U+20E3",
+            "js_escape": "9\ufe0f\u20e3"
         },
-        "coffin": {
-            "js_escape": "\u26b0",
-            "unicode": "U+26B0"
-        },
-        "restroom": {
-            "js_escape": "\ud83d\udebb",
-            "unicode": "U+1F6BB"
-        },
-        "funeral_urn": {
-            "js_escape": "\u26b1",
-            "unicode": "U+26B1"
-        },
-        "atm_sign": {
-            "js_escape": "\ud83c\udfe7",
-            "unicode": "U+1F3E7"
-        },
-        "wheelchair_symbol": {
-            "js_escape": "\u267f",
-            "unicode": "U+267F"
-        },
-        "mens_room": {
-            "js_escape": "\ud83d\udeb9",
-            "unicode": "U+1F6B9"
-        },
-        "left_luggage": {
-            "js_escape": "\ud83d\udec5",
-            "unicode": "U+1F6C5"
-        },
-        "crystal_ball": {
-            "js_escape": "\ud83d\udd2e",
-            "unicode": "U+1F52E"
-        },
-        "moai": {
-            "js_escape": "\ud83d\uddff",
-            "unicode": "U+1F5FF"
-        },
-        "cigarette": {
-            "js_escape": "\ud83d\udeac",
-            "unicode": "U+1F6AC"
-        },
-        "water_closet": {
-            "js_escape": "\ud83d\udebe",
-            "unicode": "U+1F6BE"
-        },
-        "litter_in_bin_sign": {
-            "js_escape": "\ud83d\udeae",
-            "unicode": "U+1F6AE"
-        },
-        "baggage_claim": {
-            "js_escape": "\ud83d\udec4",
-            "unicode": "U+1F6C4"
-        },
-        "potable_water": {
-            "js_escape": "\ud83d\udeb0",
-            "unicode": "U+1F6B0"
-        },
-        "passport_control": {
-            "js_escape": "\ud83d\udec2",
-            "unicode": "U+1F6C2"
-        },
-        "customs": {
-            "js_escape": "\ud83d\udec3",
-            "unicode": "U+1F6C3"
-        },
-        "oil_drum": {
-            "js_escape": "\ud83d\udee2",
-            "unicode": "U+1F6E2"
-        },
-        "shopping_cart": {
-            "js_escape": "\ud83d\uded2",
-            "unicode": "U+1F6D2"
+        "keycap_10": {
+            "unicode": "U+1F51F",
+            "js_escape": "\ud83d\udd1f"
         }
     },
     "alphanum": {
-        "free_button": {
-            "js_escape": "\ud83c\udd93",
-            "unicode": "U+1F193"
-        },
-        "japanese_free_of_charge_button": {
-            "js_escape": "\ud83c\ude1a",
-            "unicode": "U+1F21A"
-        },
-        "japanese_acceptable_button": {
-            "js_escape": "\ud83c\ude51",
-            "unicode": "U+1F251"
-        },
-        "a_button_blood_type": {
-            "js_escape": "\ud83c\udd70",
-            "unicode": "U+1F170"
-        },
-        "information": {
-            "js_escape": "\u2139",
-            "unicode": "U+2139"
-        },
-        "japanese_prohibited_button": {
-            "js_escape": "\ud83c\ude32",
-            "unicode": "U+1F232"
-        },
-        "vs_button": {
-            "js_escape": "\ud83c\udd9a",
-            "unicode": "U+1F19A"
-        },
         "input_latin_uppercase": {
-            "js_escape": "\ud83d\udd20",
-            "unicode": "U+1F520"
-        },
-        "circled_m": {
-            "js_escape": "\u24c2",
-            "unicode": "U+24C2"
-        },
-        "cool_button": {
-            "js_escape": "\ud83c\udd92",
-            "unicode": "U+1F192"
-        },
-        "japanese_not_free_of_charge_button": {
-            "js_escape": "\ud83c\ude36",
-            "unicode": "U+1F236"
-        },
-        "input_latin_letters": {
-            "js_escape": "\ud83d\udd24",
-            "unicode": "U+1F524"
-        },
-        "japanese_application_button": {
-            "js_escape": "\ud83c\ude38",
-            "unicode": "U+1F238"
-        },
-        "b_button_blood_type": {
-            "js_escape": "\ud83c\udd71",
-            "unicode": "U+1F171"
-        },
-        "up_button": {
-            "js_escape": "\ud83c\udd99",
-            "unicode": "U+1F199"
-        },
-        "ok_button": {
-            "js_escape": "\ud83c\udd97",
-            "unicode": "U+1F197"
-        },
-        "japanese_here_button": {
-            "js_escape": "\ud83c\ude01",
-            "unicode": "U+1F201"
-        },
-        "ng_button": {
-            "js_escape": "\ud83c\udd96",
-            "unicode": "U+1F196"
-        },
-        "hundred_points": {
-            "js_escape": "\ud83d\udcaf",
-            "unicode": "U+1F4AF"
-        },
-        "japanese_congratulations_button": {
-            "js_escape": "\u3297",
-            "unicode": "U+3297"
-        },
-        "japanese_bargain_button": {
-            "js_escape": "\ud83c\ude50",
-            "unicode": "U+1F250"
-        },
-        "japanese_no_vacancy_button": {
-            "js_escape": "\ud83c\ude35",
-            "unicode": "U+1F235"
-        },
-        "input_numbers": {
-            "js_escape": "\ud83d\udd22",
-            "unicode": "U+1F522"
-        },
-        "japanese_open_for_business_button": {
-            "js_escape": "\ud83c\ude3a",
-            "unicode": "U+1F23A"
-        },
-        "id_button": {
-            "js_escape": "\ud83c\udd94",
-            "unicode": "U+1F194"
-        },
-        "japanese_vacancy_button": {
-            "js_escape": "\ud83c\ude33",
-            "unicode": "U+1F233"
-        },
-        "japanese_reserved_button": {
-            "js_escape": "\ud83c\ude2f",
-            "unicode": "U+1F22F"
-        },
-        "ab_button_blood_type": {
-            "js_escape": "\ud83c\udd8e",
-            "unicode": "U+1F18E"
-        },
-        "p_button": {
-            "js_escape": "\ud83c\udd7f",
-            "unicode": "U+1F17F"
-        },
-        "o_button_blood_type": {
-            "js_escape": "\ud83c\udd7e",
-            "unicode": "U+1F17E"
-        },
-        "sos_button": {
-            "js_escape": "\ud83c\udd98",
-            "unicode": "U+1F198"
-        },
-        "japanese_secret_button": {
-            "js_escape": "\u3299",
-            "unicode": "U+3299"
+            "unicode": "U+1F520",
+            "js_escape": "\ud83d\udd20"
         },
         "input_latin_lowercase": {
-            "js_escape": "\ud83d\udd21",
-            "unicode": "U+1F521"
+            "unicode": "U+1F521",
+            "js_escape": "\ud83d\udd21"
         },
-        "japanese_service_charge_button": {
-            "js_escape": "\ud83c\ude02",
-            "unicode": "U+1F202"
-        },
-        "japanese_discount_button": {
-            "js_escape": "\ud83c\ude39",
-            "unicode": "U+1F239"
-        },
-        "japanese_passing_grade_button": {
-            "js_escape": "\ud83c\ude34",
-            "unicode": "U+1F234"
+        "input_numbers": {
+            "unicode": "U+1F522",
+            "js_escape": "\ud83d\udd22"
         },
         "input_symbols": {
-            "js_escape": "\ud83d\udd23",
-            "unicode": "U+1F523"
+            "unicode": "U+1F523",
+            "js_escape": "\ud83d\udd23"
         },
-        "new_button": {
-            "js_escape": "\ud83c\udd95",
-            "unicode": "U+1F195"
+        "input_latin_letters": {
+            "unicode": "U+1F524",
+            "js_escape": "\ud83d\udd24"
+        },
+        "a_button_blood_type": {
+            "unicode": "U+1F170",
+            "js_escape": "\ud83c\udd70"
+        },
+        "ab_button_blood_type": {
+            "unicode": "U+1F18E",
+            "js_escape": "\ud83c\udd8e"
+        },
+        "b_button_blood_type": {
+            "unicode": "U+1F171",
+            "js_escape": "\ud83c\udd71"
         },
         "cl_button": {
-            "js_escape": "\ud83c\udd91",
-            "unicode": "U+1F191"
+            "unicode": "U+1F191",
+            "js_escape": "\ud83c\udd91"
+        },
+        "cool_button": {
+            "unicode": "U+1F192",
+            "js_escape": "\ud83c\udd92"
+        },
+        "free_button": {
+            "unicode": "U+1F193",
+            "js_escape": "\ud83c\udd93"
+        },
+        "information": {
+            "unicode": "U+2139",
+            "js_escape": "\u2139"
+        },
+        "id_button": {
+            "unicode": "U+1F194",
+            "js_escape": "\ud83c\udd94"
+        },
+        "circled_m": {
+            "unicode": "U+24C2",
+            "js_escape": "\u24c2"
+        },
+        "new_button": {
+            "unicode": "U+1F195",
+            "js_escape": "\ud83c\udd95"
+        },
+        "ng_button": {
+            "unicode": "U+1F196",
+            "js_escape": "\ud83c\udd96"
+        },
+        "o_button_blood_type": {
+            "unicode": "U+1F17E",
+            "js_escape": "\ud83c\udd7e"
+        },
+        "ok_button": {
+            "unicode": "U+1F197",
+            "js_escape": "\ud83c\udd97"
+        },
+        "p_button": {
+            "unicode": "U+1F17F",
+            "js_escape": "\ud83c\udd7f"
+        },
+        "sos_button": {
+            "unicode": "U+1F198",
+            "js_escape": "\ud83c\udd98"
+        },
+        "up_button": {
+            "unicode": "U+1F199",
+            "js_escape": "\ud83c\udd99"
+        },
+        "vs_button": {
+            "unicode": "U+1F19A",
+            "js_escape": "\ud83c\udd9a"
+        },
+        "japanese_here_button": {
+            "unicode": "U+1F201",
+            "js_escape": "\ud83c\ude01"
+        },
+        "japanese_service_charge_button": {
+            "unicode": "U+1F202",
+            "js_escape": "\ud83c\ude02"
         },
         "japanese_monthly_amount_button": {
-            "js_escape": "\ud83c\ude37",
-            "unicode": "U+1F237"
+            "unicode": "U+1F237",
+            "js_escape": "\ud83c\ude37"
+        },
+        "japanese_not_free_of_charge_button": {
+            "unicode": "U+1F236",
+            "js_escape": "\ud83c\ude36"
+        },
+        "japanese_reserved_button": {
+            "unicode": "U+1F22F",
+            "js_escape": "\ud83c\ude2f"
+        },
+        "japanese_bargain_button": {
+            "unicode": "U+1F250",
+            "js_escape": "\ud83c\ude50"
+        },
+        "japanese_discount_button": {
+            "unicode": "U+1F239",
+            "js_escape": "\ud83c\ude39"
+        },
+        "japanese_free_of_charge_button": {
+            "unicode": "U+1F21A",
+            "js_escape": "\ud83c\ude1a"
+        },
+        "japanese_prohibited_button": {
+            "unicode": "U+1F232",
+            "js_escape": "\ud83c\ude32"
+        },
+        "japanese_acceptable_button": {
+            "unicode": "U+1F251",
+            "js_escape": "\ud83c\ude51"
+        },
+        "japanese_application_button": {
+            "unicode": "U+1F238",
+            "js_escape": "\ud83c\ude38"
+        },
+        "japanese_passing_grade_button": {
+            "unicode": "U+1F234",
+            "js_escape": "\ud83c\ude34"
+        },
+        "japanese_vacancy_button": {
+            "unicode": "U+1F233",
+            "js_escape": "\ud83c\ude33"
+        },
+        "japanese_congratulations_button": {
+            "unicode": "U+3297",
+            "js_escape": "\u3297"
+        },
+        "japanese_secret_button": {
+            "unicode": "U+3299",
+            "js_escape": "\u3299"
+        },
+        "japanese_open_for_business_button": {
+            "unicode": "U+1F23A",
+            "js_escape": "\ud83c\ude3a"
+        },
+        "japanese_no_vacancy_button": {
+            "unicode": "U+1F235",
+            "js_escape": "\ud83c\ude35"
         }
     },
     "geometric": {
-        "red_triangle_pointed_up": {
-            "js_escape": "\ud83d\udd3a",
-            "unicode": "U+1F53A"
-        },
-        "white_circle": {
-            "js_escape": "\u26aa",
-            "unicode": "U+26AA"
-        },
         "red_circle": {
-            "js_escape": "\ud83d\udd34",
-            "unicode": "U+1F534"
+            "unicode": "U+1F534",
+            "js_escape": "\ud83d\udd34"
         },
-        "white_small_square": {
-            "js_escape": "\u25ab",
-            "unicode": "U+25AB"
+        "orange_circle": {
+            "unicode": "U+1F7E0",
+            "js_escape": "\ud83d\udfe0"
         },
-        "large_orange_diamond": {
-            "js_escape": "\ud83d\udd36",
-            "unicode": "U+1F536"
+        "yellow_circle": {
+            "unicode": "U+1F7E1",
+            "js_escape": "\ud83d\udfe1"
         },
-        "small_orange_diamond": {
-            "js_escape": "\ud83d\udd38",
-            "unicode": "U+1F538"
-        },
-        "black_flag": {
-            "js_escape": "\ud83c\udff4",
-            "unicode": "U+1F3F4"
-        },
-        "diamond_with_a_dot": {
-            "js_escape": "\ud83d\udca0",
-            "unicode": "U+1F4A0"
+        "green_circle": {
+            "unicode": "U+1F7E2",
+            "js_escape": "\ud83d\udfe2"
         },
         "blue_circle": {
-            "js_escape": "\ud83d\udd35",
-            "unicode": "U+1F535"
+            "unicode": "U+1F535",
+            "js_escape": "\ud83d\udd35"
         },
-        "crossed_flags": {
-            "js_escape": "\ud83c\udf8c",
-            "unicode": "U+1F38C"
+        "purple_circle": {
+            "unicode": "U+1F7E3",
+            "js_escape": "\ud83d\udfe3"
         },
-        "white_large_square": {
-            "js_escape": "\u2b1c",
-            "unicode": "U+2B1C"
-        },
-        "black_small_square": {
-            "js_escape": "\u25aa",
-            "unicode": "U+25AA"
-        },
-        "chequered_flag": {
-            "js_escape": "\ud83c\udfc1",
-            "unicode": "U+1F3C1"
-        },
-        "black_medium_small_square": {
-            "js_escape": "\u25fe",
-            "unicode": "U+25FE"
-        },
-        "small_blue_diamond": {
-            "js_escape": "\ud83d\udd39",
-            "unicode": "U+1F539"
-        },
-        "red_triangle_pointed_down": {
-            "js_escape": "\ud83d\udd3b",
-            "unicode": "U+1F53B"
-        },
-        "black_medium_square": {
-            "js_escape": "\u25fc",
-            "unicode": "U+25FC"
-        },
-        "radio_button": {
-            "js_escape": "\ud83d\udd18",
-            "unicode": "U+1F518"
-        },
-        "rainbow_flag": {
-            "js_escape": "\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
-            "unicode": "U+1F3F3 U+FE0F U+200D U+1F308"
+        "brown_circle": {
+            "unicode": "U+1F7E4",
+            "js_escape": "\ud83d\udfe4"
         },
         "black_circle": {
-            "js_escape": "\u26ab",
-            "unicode": "U+26AB"
+            "unicode": "U+26AB",
+            "js_escape": "\u26ab"
         },
-        "black_square_button": {
-            "js_escape": "\ud83d\udd32",
-            "unicode": "U+1F532"
+        "white_circle": {
+            "unicode": "U+26AA",
+            "js_escape": "\u26aa"
         },
-        "white_medium_small_square": {
-            "js_escape": "\u25fd",
-            "unicode": "U+25FD"
+        "red_square": {
+            "unicode": "U+1F7E5",
+            "js_escape": "\ud83d\udfe5"
         },
-        "large_blue_diamond": {
-            "js_escape": "\ud83d\udd37",
-            "unicode": "U+1F537"
+        "orange_square": {
+            "unicode": "U+1F7E7",
+            "js_escape": "\ud83d\udfe7"
         },
-        "triangular_flag": {
-            "js_escape": "\ud83d\udea9",
-            "unicode": "U+1F6A9"
+        "yellow_square": {
+            "unicode": "U+1F7E8",
+            "js_escape": "\ud83d\udfe8"
         },
-        "white_square_button": {
-            "js_escape": "\ud83d\udd33",
-            "unicode": "U+1F533"
+        "green_square": {
+            "unicode": "U+1F7E9",
+            "js_escape": "\ud83d\udfe9"
+        },
+        "blue_square": {
+            "unicode": "U+1F7E6",
+            "js_escape": "\ud83d\udfe6"
+        },
+        "purple_square": {
+            "unicode": "U+1F7EA",
+            "js_escape": "\ud83d\udfea"
+        },
+        "brown_square": {
+            "unicode": "U+1F7EB",
+            "js_escape": "\ud83d\udfeb"
         },
         "black_large_square": {
-            "js_escape": "\u2b1b",
-            "unicode": "U+2B1B"
+            "unicode": "U+2B1B",
+            "js_escape": "\u2b1b"
         },
-        "white_flag": {
-            "js_escape": "\ud83c\udff3",
-            "unicode": "U+1F3F3"
+        "white_large_square": {
+            "unicode": "U+2B1C",
+            "js_escape": "\u2b1c"
+        },
+        "black_medium_square": {
+            "unicode": "U+25FC",
+            "js_escape": "\u25fc"
         },
         "white_medium_square": {
-            "js_escape": "\u25fb",
-            "unicode": "U+25FB"
+            "unicode": "U+25FB",
+            "js_escape": "\u25fb"
+        },
+        "black_medium_small_square": {
+            "unicode": "U+25FE",
+            "js_escape": "\u25fe"
+        },
+        "white_medium_small_square": {
+            "unicode": "U+25FD",
+            "js_escape": "\u25fd"
+        },
+        "black_small_square": {
+            "unicode": "U+25AA",
+            "js_escape": "\u25aa"
+        },
+        "white_small_square": {
+            "unicode": "U+25AB",
+            "js_escape": "\u25ab"
+        },
+        "large_orange_diamond": {
+            "unicode": "U+1F536",
+            "js_escape": "\ud83d\udd36"
+        },
+        "large_blue_diamond": {
+            "unicode": "U+1F537",
+            "js_escape": "\ud83d\udd37"
+        },
+        "small_orange_diamond": {
+            "unicode": "U+1F538",
+            "js_escape": "\ud83d\udd38"
+        },
+        "small_blue_diamond": {
+            "unicode": "U+1F539",
+            "js_escape": "\ud83d\udd39"
+        },
+        "red_triangle_pointed_up": {
+            "unicode": "U+1F53A",
+            "js_escape": "\ud83d\udd3a"
+        },
+        "red_triangle_pointed_down": {
+            "unicode": "U+1F53B",
+            "js_escape": "\ud83d\udd3b"
+        },
+        "diamond_with_a_dot": {
+            "unicode": "U+1F4A0",
+            "js_escape": "\ud83d\udca0"
+        },
+        "radio_button": {
+            "unicode": "U+1F518",
+            "js_escape": "\ud83d\udd18"
+        },
+        "white_square_button": {
+            "unicode": "U+1F533",
+            "js_escape": "\ud83d\udd33"
+        },
+        "black_square_button": {
+            "unicode": "U+1F532",
+            "js_escape": "\ud83d\udd32"
+        },
+        "chequered_flag": {
+            "unicode": "U+1F3C1",
+            "js_escape": "\ud83c\udfc1"
+        },
+        "triangular_flag": {
+            "unicode": "U+1F6A9",
+            "js_escape": "\ud83d\udea9"
+        },
+        "crossed_flags": {
+            "unicode": "U+1F38C",
+            "js_escape": "\ud83c\udf8c"
+        },
+        "black_flag": {
+            "unicode": "U+1F3F4",
+            "js_escape": "\ud83c\udff4"
+        },
+        "white_flag": {
+            "unicode": "U+1F3F3",
+            "js_escape": "\ud83c\udff3"
+        },
+        "rainbow_flag": {
+            "unicode": "U+1F3F3 U+FE0F U+200D U+1F308",
+            "js_escape": "\ud83c\udff3\ufe0f\u200d\ud83c\udf08"
+        },
+        "transgender_flag": {
+            "unicode": "U+1F3F3 U+FE0F U+200D U+26A7 U+FE0F",
+            "js_escape": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f"
+        },
+        "pirate_flag": {
+            "unicode": "U+1F3F4 U+200D U+2620 U+FE0F",
+            "js_escape": "\ud83c\udff4\u200d\u2620\ufe0f"
         }
     }
 }

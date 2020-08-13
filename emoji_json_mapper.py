@@ -36,6 +36,14 @@ def scrape_data(url):
     return soup
 
 
+# Function used to delete the older emoji output files
+def remove_emoji_json_file():
+    for filename in os.listdir(json_out_dir):
+        if filename.endswith('.json'):
+            os.remove(json_out_dir + filename)
+            print(filename + ' has been removed!!')
+
+
 # Function used to create the emoji output files
 def create_emoji_json_file(filename, data_obj):
     with open(json_out_dir + filename + '.json', 'w') as json_outfile:
@@ -100,6 +108,7 @@ def build_data_obj():
 
 # Main Function that handles the process
 def main():
+    remove_emoji_json_file()
     data_list = build_data_obj()
     for list_item in data_list:
         file_hash = list(list_item.keys())[0]

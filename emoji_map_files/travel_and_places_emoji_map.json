@@ -1,952 +1,992 @@
 {
-    "transport_air": {
-        "small_airplane": {
-            "js_escape": "\ud83d\udee9",
-            "unicode": "U+1F6E9"
+    "place_map": {
+        "chopsticks": {
+            "unicode": "U+1F962",
+            "js_escape": "\ud83e\udd62"
         },
-        "rocket": {
-            "js_escape": "\ud83d\ude80",
-            "unicode": "U+1F680"
+        "fork_and_knife_with_plate": {
+            "unicode": "U+1F37D",
+            "js_escape": "\ud83c\udf7d"
         },
-        "airplane_departure": {
-            "js_escape": "\ud83d\udeeb",
-            "unicode": "U+1F6EB"
+        "fork_and_knife": {
+            "unicode": "U+1F374",
+            "js_escape": "\ud83c\udf74"
         },
-        "aerial_tramway": {
-            "js_escape": "\ud83d\udea1",
-            "unicode": "U+1F6A1"
+        "spoon": {
+            "unicode": "U+1F944",
+            "js_escape": "\ud83e\udd44"
         },
-        "flying_saucer": {
-            "js_escape": "\ud83d\udef8",
-            "unicode": "U+1F6F8"
+        "kitchen_knife": {
+            "unicode": "U+1F52A",
+            "js_escape": "\ud83d\udd2a"
         },
-        "suspension_railway": {
-            "js_escape": "\ud83d\ude9f",
-            "unicode": "U+1F69F"
+        "amphora": {
+            "unicode": "U+1F3FA",
+            "js_escape": "\ud83c\udffa"
         },
-        "satellite": {
-            "js_escape": "\ud83d\udef0",
-            "unicode": "U+1F6F0"
+        "globe_showing_europe_africa": {
+            "unicode": "U+1F30D",
+            "js_escape": "\ud83c\udf0d"
         },
-        "mountain_cableway": {
-            "js_escape": "\ud83d\udea0",
-            "unicode": "U+1F6A0"
+        "globe_showing_americas": {
+            "unicode": "U+1F30E",
+            "js_escape": "\ud83c\udf0e"
         },
-        "seat": {
-            "js_escape": "\ud83d\udcba",
-            "unicode": "U+1F4BA"
+        "globe_showing_asia_australia": {
+            "unicode": "U+1F30F",
+            "js_escape": "\ud83c\udf0f"
         },
-        "airplane_arrival": {
-            "js_escape": "\ud83d\udeec",
-            "unicode": "U+1F6EC"
+        "globe_with_meridians": {
+            "unicode": "U+1F310",
+            "js_escape": "\ud83c\udf10"
         },
-        "airplane": {
-            "js_escape": "\u2708",
-            "unicode": "U+2708"
+        "world_map": {
+            "unicode": "U+1F5FA",
+            "js_escape": "\ud83d\uddfa"
         },
-        "helicopter": {
-            "js_escape": "\ud83d\ude81",
-            "unicode": "U+1F681"
+        "map_of_japan": {
+            "unicode": "U+1F5FE",
+            "js_escape": "\ud83d\uddfe"
+        },
+        "compass": {
+            "unicode": "U+1F9ED",
+            "js_escape": "\ud83e\udded"
         }
     },
     "place_geographic": {
-        "camping": {
-            "js_escape": "\ud83c\udfd5",
-            "unicode": "U+1F3D5"
-        },
-        "national_park": {
-            "js_escape": "\ud83c\udfde",
-            "unicode": "U+1F3DE"
-        },
-        "beach_with_umbrella": {
-            "js_escape": "\ud83c\udfd6",
-            "unicode": "U+1F3D6"
-        },
         "snow_capped_mountain": {
-            "js_escape": "\ud83c\udfd4",
-            "unicode": "U+1F3D4"
-        },
-        "mount_fuji": {
-            "js_escape": "\ud83d\uddfb",
-            "unicode": "U+1F5FB"
-        },
-        "volcano": {
-            "js_escape": "\ud83c\udf0b",
-            "unicode": "U+1F30B"
-        },
-        "desert": {
-            "js_escape": "\ud83c\udfdc",
-            "unicode": "U+1F3DC"
+            "unicode": "U+1F3D4",
+            "js_escape": "\ud83c\udfd4"
         },
         "mountain": {
-            "js_escape": "\u26f0",
-            "unicode": "U+26F0"
+            "unicode": "U+26F0",
+            "js_escape": "\u26f0"
+        },
+        "volcano": {
+            "unicode": "U+1F30B",
+            "js_escape": "\ud83c\udf0b"
+        },
+        "mount_fuji": {
+            "unicode": "U+1F5FB",
+            "js_escape": "\ud83d\uddfb"
+        },
+        "camping": {
+            "unicode": "U+1F3D5",
+            "js_escape": "\ud83c\udfd5"
+        },
+        "beach_with_umbrella": {
+            "unicode": "U+1F3D6",
+            "js_escape": "\ud83c\udfd6"
+        },
+        "desert": {
+            "unicode": "U+1F3DC",
+            "js_escape": "\ud83c\udfdc"
         },
         "desert_island": {
-            "js_escape": "\ud83c\udfdd",
-            "unicode": "U+1F3DD"
-        }
-    },
-    "transport_water": {
-        "ship": {
-            "js_escape": "\ud83d\udea2",
-            "unicode": "U+1F6A2"
+            "unicode": "U+1F3DD",
+            "js_escape": "\ud83c\udfdd"
         },
-        "motor_boat": {
-            "js_escape": "\ud83d\udee5",
-            "unicode": "U+1F6E5"
-        },
-        "speedboat": {
-            "js_escape": "\ud83d\udea4",
-            "unicode": "U+1F6A4"
-        },
-        "ferry": {
-            "js_escape": "\u26f4",
-            "unicode": "U+26F4"
-        },
-        "passenger_ship": {
-            "js_escape": "\ud83d\udef3",
-            "unicode": "U+1F6F3"
-        },
-        "canoe": {
-            "js_escape": "\ud83d\udef6",
-            "unicode": "U+1F6F6"
-        },
-        "sailboat": {
-            "js_escape": "\u26f5",
-            "unicode": "U+26F5"
-        },
-        "anchor": {
-            "js_escape": "\u2693",
-            "unicode": "U+2693"
+        "national_park": {
+            "unicode": "U+1F3DE",
+            "js_escape": "\ud83c\udfde"
         }
     },
     "place_building": {
-        "japanese_castle": {
-            "js_escape": "\ud83c\udfef",
-            "unicode": "U+1F3EF"
-        },
-        "japanese_post_office": {
-            "js_escape": "\ud83c\udfe3",
-            "unicode": "U+1F3E3"
-        },
-        "bank": {
-            "js_escape": "\ud83c\udfe6",
-            "unicode": "U+1F3E6"
-        },
-        "tokyo_tower": {
-            "js_escape": "\ud83d\uddfc",
-            "unicode": "U+1F5FC"
-        },
-        "house": {
-            "js_escape": "\ud83c\udfe0",
-            "unicode": "U+1F3E0"
-        },
-        "hospital": {
-            "js_escape": "\ud83c\udfe5",
-            "unicode": "U+1F3E5"
-        },
-        "cityscape": {
-            "js_escape": "\ud83c\udfd9",
-            "unicode": "U+1F3D9"
-        },
-        "building_construction": {
-            "js_escape": "\ud83c\udfd7",
-            "unicode": "U+1F3D7"
-        },
-        "convenience_store": {
-            "js_escape": "\ud83c\udfea",
-            "unicode": "U+1F3EA"
-        },
-        "office_building": {
-            "js_escape": "\ud83c\udfe2",
-            "unicode": "U+1F3E2"
-        },
-        "wedding": {
-            "js_escape": "\ud83d\udc92",
-            "unicode": "U+1F492"
-        },
-        "post_office": {
-            "js_escape": "\ud83c\udfe4",
-            "unicode": "U+1F3E4"
-        },
-        "hotel": {
-            "js_escape": "\ud83c\udfe8",
-            "unicode": "U+1F3E8"
-        },
-        "houses": {
-            "js_escape": "\ud83c\udfd8",
-            "unicode": "U+1F3D8"
+        "stadium": {
+            "unicode": "U+1F3DF",
+            "js_escape": "\ud83c\udfdf"
         },
         "classical_building": {
-            "js_escape": "\ud83c\udfdb",
-            "unicode": "U+1F3DB"
+            "unicode": "U+1F3DB",
+            "js_escape": "\ud83c\udfdb"
         },
-        "statue_of_liberty": {
-            "js_escape": "\ud83d\uddfd",
-            "unicode": "U+1F5FD"
+        "building_construction": {
+            "unicode": "U+1F3D7",
+            "js_escape": "\ud83c\udfd7"
         },
-        "department_store": {
-            "js_escape": "\ud83c\udfec",
-            "unicode": "U+1F3EC"
+        "brick": {
+            "unicode": "U+1F9F1",
+            "js_escape": "\ud83e\uddf1"
         },
-        "stadium": {
-            "js_escape": "\ud83c\udfdf",
-            "unicode": "U+1F3DF"
+        "rock": {
+            "unicode": "U+1FAA8",
+            "js_escape": "\ud83e\udea8"
         },
-        "school": {
-            "js_escape": "\ud83c\udfeb",
-            "unicode": "U+1F3EB"
+        "wood": {
+            "unicode": "U+1FAB5",
+            "js_escape": "\ud83e\udeb5"
         },
-        "house_with_garden": {
-            "js_escape": "\ud83c\udfe1",
-            "unicode": "U+1F3E1"
+        "hut": {
+            "unicode": "U+1F6D6",
+            "js_escape": "\ud83d\uded6"
         },
-        "castle": {
-            "js_escape": "\ud83c\udff0",
-            "unicode": "U+1F3F0"
-        },
-        "love_hotel": {
-            "js_escape": "\ud83c\udfe9",
-            "unicode": "U+1F3E9"
-        },
-        "factory": {
-            "js_escape": "\ud83c\udfed",
-            "unicode": "U+1F3ED"
+        "houses": {
+            "unicode": "U+1F3D8",
+            "js_escape": "\ud83c\udfd8"
         },
         "derelict_house": {
-            "js_escape": "\ud83c\udfda",
-            "unicode": "U+1F3DA"
+            "unicode": "U+1F3DA",
+            "js_escape": "\ud83c\udfda"
+        },
+        "house": {
+            "unicode": "U+1F3E0",
+            "js_escape": "\ud83c\udfe0"
+        },
+        "house_with_garden": {
+            "unicode": "U+1F3E1",
+            "js_escape": "\ud83c\udfe1"
+        },
+        "office_building": {
+            "unicode": "U+1F3E2",
+            "js_escape": "\ud83c\udfe2"
+        },
+        "japanese_post_office": {
+            "unicode": "U+1F3E3",
+            "js_escape": "\ud83c\udfe3"
+        },
+        "post_office": {
+            "unicode": "U+1F3E4",
+            "js_escape": "\ud83c\udfe4"
+        },
+        "hospital": {
+            "unicode": "U+1F3E5",
+            "js_escape": "\ud83c\udfe5"
+        },
+        "bank": {
+            "unicode": "U+1F3E6",
+            "js_escape": "\ud83c\udfe6"
+        },
+        "hotel": {
+            "unicode": "U+1F3E8",
+            "js_escape": "\ud83c\udfe8"
+        },
+        "love_hotel": {
+            "unicode": "U+1F3E9",
+            "js_escape": "\ud83c\udfe9"
+        },
+        "convenience_store": {
+            "unicode": "U+1F3EA",
+            "js_escape": "\ud83c\udfea"
+        },
+        "school": {
+            "unicode": "U+1F3EB",
+            "js_escape": "\ud83c\udfeb"
+        },
+        "department_store": {
+            "unicode": "U+1F3EC",
+            "js_escape": "\ud83c\udfec"
+        },
+        "factory": {
+            "unicode": "U+1F3ED",
+            "js_escape": "\ud83c\udfed"
+        },
+        "japanese_castle": {
+            "unicode": "U+1F3EF",
+            "js_escape": "\ud83c\udfef"
+        },
+        "castle": {
+            "unicode": "U+1F3F0",
+            "js_escape": "\ud83c\udff0"
+        },
+        "wedding": {
+            "unicode": "U+1F492",
+            "js_escape": "\ud83d\udc92"
+        },
+        "tokyo_tower": {
+            "unicode": "U+1F5FC",
+            "js_escape": "\ud83d\uddfc"
+        },
+        "statue_of_liberty": {
+            "unicode": "U+1F5FD",
+            "js_escape": "\ud83d\uddfd"
         }
     },
     "place_religious": {
-        "shinto_shrine": {
-            "js_escape": "\u26e9",
-            "unicode": "U+26E9"
-        },
-        "kaaba": {
-            "js_escape": "\ud83d\udd4b",
-            "unicode": "U+1F54B"
-        },
-        "synagogue": {
-            "js_escape": "\ud83d\udd4d",
-            "unicode": "U+1F54D"
-        },
         "church": {
-            "js_escape": "\u26ea",
-            "unicode": "U+26EA"
+            "unicode": "U+26EA",
+            "js_escape": "\u26ea"
         },
         "mosque": {
-            "js_escape": "\ud83d\udd4c",
-            "unicode": "U+1F54C"
-        }
-    },
-    "time": {
-        "hourglass_not_done": {
-            "js_escape": "\u23f3",
-            "unicode": "U+23F3"
-        },
-        "eleven_oclock": {
-            "js_escape": "\ud83d\udd5a",
-            "unicode": "U+1F55A"
-        },
-        "stopwatch": {
-            "js_escape": "\u23f1",
-            "unicode": "U+23F1"
-        },
-        "twelve_oclock": {
-            "js_escape": "\ud83d\udd5b",
-            "unicode": "U+1F55B"
-        },
-        "ten_oclock": {
-            "js_escape": "\ud83d\udd59",
-            "unicode": "U+1F559"
-        },
-        "seven_oclock": {
-            "js_escape": "\ud83d\udd56",
-            "unicode": "U+1F556"
-        },
-        "five_oclock": {
-            "js_escape": "\ud83d\udd54",
-            "unicode": "U+1F554"
-        },
-        "one_thirty": {
-            "js_escape": "\ud83d\udd5c",
-            "unicode": "U+1F55C"
-        },
-        "nine_oclock": {
-            "js_escape": "\ud83d\udd58",
-            "unicode": "U+1F558"
-        },
-        "six_thirty": {
-            "js_escape": "\ud83d\udd61",
-            "unicode": "U+1F561"
-        },
-        "four_oclock": {
-            "js_escape": "\ud83d\udd53",
-            "unicode": "U+1F553"
-        },
-        "seven_thirty": {
-            "js_escape": "\ud83d\udd62",
-            "unicode": "U+1F562"
-        },
-        "eight_oclock": {
-            "js_escape": "\ud83d\udd57",
-            "unicode": "U+1F557"
-        },
-        "five_thirty": {
-            "js_escape": "\ud83d\udd60",
-            "unicode": "U+1F560"
-        },
-        "six_oclock": {
-            "js_escape": "\ud83d\udd55",
-            "unicode": "U+1F555"
-        },
-        "ten_thirty": {
-            "js_escape": "\ud83d\udd65",
-            "unicode": "U+1F565"
-        },
-        "three_thirty": {
-            "js_escape": "\ud83d\udd5e",
-            "unicode": "U+1F55E"
-        },
-        "alarm_clock": {
-            "js_escape": "\u23f0",
-            "unicode": "U+23F0"
-        },
-        "twelve_thirty": {
-            "js_escape": "\ud83d\udd67",
-            "unicode": "U+1F567"
-        },
-        "eight_thirty": {
-            "js_escape": "\ud83d\udd63",
-            "unicode": "U+1F563"
-        },
-        "mantelpiece_clock": {
-            "js_escape": "\ud83d\udd70",
-            "unicode": "U+1F570"
-        },
-        "one_oclock": {
-            "js_escape": "\ud83d\udd50",
-            "unicode": "U+1F550"
-        },
-        "two_oclock": {
-            "js_escape": "\ud83d\udd51",
-            "unicode": "U+1F551"
-        },
-        "watch": {
-            "js_escape": "\u231a",
-            "unicode": "U+231A"
-        },
-        "four_thirty": {
-            "js_escape": "\ud83d\udd5f",
-            "unicode": "U+1F55F"
-        },
-        "two_thirty": {
-            "js_escape": "\ud83d\udd5d",
-            "unicode": "U+1F55D"
-        },
-        "three_oclock": {
-            "js_escape": "\ud83d\udd52",
-            "unicode": "U+1F552"
-        },
-        "nine_thirty": {
-            "js_escape": "\ud83d\udd64",
-            "unicode": "U+1F564"
-        },
-        "timer_clock": {
-            "js_escape": "\u23f2",
-            "unicode": "U+23F2"
-        },
-        "hourglass_done": {
-            "js_escape": "\u231b",
-            "unicode": "U+231B"
-        },
-        "eleven_thirty": {
-            "js_escape": "\ud83d\udd66",
-            "unicode": "U+1F566"
-        }
-    },
-    "transport_ground": {
-        "minibus": {
-            "js_escape": "\ud83d\ude90",
-            "unicode": "U+1F690"
-        },
-        "tram_car": {
-            "js_escape": "\ud83d\ude8b",
-            "unicode": "U+1F68B"
-        },
-        "articulated_lorry": {
-            "js_escape": "\ud83d\ude9b",
-            "unicode": "U+1F69B"
-        },
-        "delivery_truck": {
-            "js_escape": "\ud83d\ude9a",
-            "unicode": "U+1F69A"
-        },
-        "oncoming_taxi": {
-            "js_escape": "\ud83d\ude96",
-            "unicode": "U+1F696"
-        },
-        "locomotive": {
-            "js_escape": "\ud83d\ude82",
-            "unicode": "U+1F682"
-        },
-        "ambulance": {
-            "js_escape": "\ud83d\ude91",
-            "unicode": "U+1F691"
-        },
-        "train": {
-            "js_escape": "\ud83d\ude86",
-            "unicode": "U+1F686"
-        },
-        "metro": {
-            "js_escape": "\ud83d\ude87",
-            "unicode": "U+1F687"
-        },
-        "station": {
-            "js_escape": "\ud83d\ude89",
-            "unicode": "U+1F689"
-        },
-        "construction": {
-            "js_escape": "\ud83d\udea7",
-            "unicode": "U+1F6A7"
-        },
-        "motor_scooter": {
-            "js_escape": "\ud83d\udef5",
-            "unicode": "U+1F6F5"
-        },
-        "monorail": {
-            "js_escape": "\ud83d\ude9d",
-            "unicode": "U+1F69D"
-        },
-        "fuel_pump": {
-            "js_escape": "\u26fd",
-            "unicode": "U+26FD"
-        },
-        "bullet_train": {
-            "js_escape": "\ud83d\ude85",
-            "unicode": "U+1F685"
-        },
-        "police_car": {
-            "js_escape": "\ud83d\ude93",
-            "unicode": "U+1F693"
-        },
-        "fire_engine": {
-            "js_escape": "\ud83d\ude92",
-            "unicode": "U+1F692"
-        },
-        "bicycle": {
-            "js_escape": "\ud83d\udeb2",
-            "unicode": "U+1F6B2"
-        },
-        "police_car_light": {
-            "js_escape": "\ud83d\udea8",
-            "unicode": "U+1F6A8"
-        },
-        "tram": {
-            "js_escape": "\ud83d\ude8a",
-            "unicode": "U+1F68A"
-        },
-        "tractor": {
-            "js_escape": "\ud83d\ude9c",
-            "unicode": "U+1F69C"
-        },
-        "oncoming_automobile": {
-            "js_escape": "\ud83d\ude98",
-            "unicode": "U+1F698"
-        },
-        "taxi": {
-            "js_escape": "\ud83d\ude95",
-            "unicode": "U+1F695"
-        },
-        "vertical_traffic_light": {
-            "js_escape": "\ud83d\udea6",
-            "unicode": "U+1F6A6"
-        },
-        "mountain_railway": {
-            "js_escape": "\ud83d\ude9e",
-            "unicode": "U+1F69E"
-        },
-        "bus_stop": {
-            "js_escape": "\ud83d\ude8f",
-            "unicode": "U+1F68F"
-        },
-        "horizontal_traffic_light": {
-            "js_escape": "\ud83d\udea5",
-            "unicode": "U+1F6A5"
-        },
-        "light_rail": {
-            "js_escape": "\ud83d\ude88",
-            "unicode": "U+1F688"
-        },
-        "oncoming_bus": {
-            "js_escape": "\ud83d\ude8d",
-            "unicode": "U+1F68D"
-        },
-        "railway_car": {
-            "js_escape": "\ud83d\ude83",
-            "unicode": "U+1F683"
-        },
-        "kick_scooter": {
-            "js_escape": "\ud83d\udef4",
-            "unicode": "U+1F6F4"
-        },
-        "motorway": {
-            "js_escape": "\ud83d\udee3",
-            "unicode": "U+1F6E3"
-        },
-        "stop_sign": {
-            "js_escape": "\ud83d\uded1",
-            "unicode": "U+1F6D1"
-        },
-        "high_speed_train": {
-            "js_escape": "\ud83d\ude84",
-            "unicode": "U+1F684"
-        },
-        "sport_utility_vehicle": {
-            "js_escape": "\ud83d\ude99",
-            "unicode": "U+1F699"
-        },
-        "oncoming_police_car": {
-            "js_escape": "\ud83d\ude94",
-            "unicode": "U+1F694"
-        },
-        "railway_track": {
-            "js_escape": "\ud83d\udee4",
-            "unicode": "U+1F6E4"
-        },
-        "trolleybus": {
-            "js_escape": "\ud83d\ude8e",
-            "unicode": "U+1F68E"
-        },
-        "automobile": {
-            "js_escape": "\ud83d\ude97",
-            "unicode": "U+1F697"
-        },
-        "bus": {
-            "js_escape": "\ud83d\ude8c",
-            "unicode": "U+1F68C"
+            "unicode": "U+1F54C",
+            "js_escape": "\ud83d\udd4c"
+        },
+        "hindu_temple": {
+            "unicode": "U+1F6D5",
+            "js_escape": "\ud83d\uded5"
+        },
+        "synagogue": {
+            "unicode": "U+1F54D",
+            "js_escape": "\ud83d\udd4d"
+        },
+        "shinto_shrine": {
+            "unicode": "U+26E9",
+            "js_escape": "\u26e9"
+        },
+        "kaaba": {
+            "unicode": "U+1F54B",
+            "js_escape": "\ud83d\udd4b"
         }
     },
     "place_other": {
-        "night_with_stars": {
-            "js_escape": "\ud83c\udf03",
-            "unicode": "U+1F303"
-        },
-        "cityscape_at_dusk": {
-            "js_escape": "\ud83c\udf06",
-            "unicode": "U+1F306"
-        },
         "fountain": {
-            "js_escape": "\u26f2",
-            "unicode": "U+26F2"
-        },
-        "performing_arts": {
-            "js_escape": "\ud83c\udfad",
-            "unicode": "U+1F3AD"
-        },
-        "barber_pole": {
-            "js_escape": "\ud83d\udc88",
-            "unicode": "U+1F488"
-        },
-        "sunset": {
-            "js_escape": "\ud83c\udf07",
-            "unicode": "U+1F307"
-        },
-        "milky_way": {
-            "js_escape": "\ud83c\udf0c",
-            "unicode": "U+1F30C"
-        },
-        "artist_palette": {
-            "js_escape": "\ud83c\udfa8",
-            "unicode": "U+1F3A8"
-        },
-        "framed_picture": {
-            "js_escape": "\ud83d\uddbc",
-            "unicode": "U+1F5BC"
-        },
-        "foggy": {
-            "js_escape": "\ud83c\udf01",
-            "unicode": "U+1F301"
+            "unicode": "U+26F2",
+            "js_escape": "\u26f2"
         },
         "tent": {
-            "js_escape": "\u26fa",
-            "unicode": "U+26FA"
+            "unicode": "U+26FA",
+            "js_escape": "\u26fa"
         },
-        "circus_tent": {
-            "js_escape": "\ud83c\udfaa",
-            "unicode": "U+1F3AA"
+        "foggy": {
+            "unicode": "U+1F301",
+            "js_escape": "\ud83c\udf01"
         },
-        "roller_coaster": {
-            "js_escape": "\ud83c\udfa2",
-            "unicode": "U+1F3A2"
+        "night_with_stars": {
+            "unicode": "U+1F303",
+            "js_escape": "\ud83c\udf03"
         },
-        "sunrise": {
-            "js_escape": "\ud83c\udf05",
-            "unicode": "U+1F305"
-        },
-        "ferris_wheel": {
-            "js_escape": "\ud83c\udfa1",
-            "unicode": "U+1F3A1"
-        },
-        "carousel_horse": {
-            "js_escape": "\ud83c\udfa0",
-            "unicode": "U+1F3A0"
-        },
-        "bridge_at_night": {
-            "js_escape": "\ud83c\udf09",
-            "unicode": "U+1F309"
+        "cityscape": {
+            "unicode": "U+1F3D9",
+            "js_escape": "\ud83c\udfd9"
         },
         "sunrise_over_mountains": {
-            "js_escape": "\ud83c\udf04",
-            "unicode": "U+1F304"
+            "unicode": "U+1F304",
+            "js_escape": "\ud83c\udf04"
         },
-        "slot_machine": {
-            "js_escape": "\ud83c\udfb0",
-            "unicode": "U+1F3B0"
+        "sunrise": {
+            "unicode": "U+1F305",
+            "js_escape": "\ud83c\udf05"
+        },
+        "cityscape_at_dusk": {
+            "unicode": "U+1F306",
+            "js_escape": "\ud83c\udf06"
+        },
+        "sunset": {
+            "unicode": "U+1F307",
+            "js_escape": "\ud83c\udf07"
+        },
+        "bridge_at_night": {
+            "unicode": "U+1F309",
+            "js_escape": "\ud83c\udf09"
         },
         "hot_springs": {
-            "js_escape": "\u2668",
-            "unicode": "U+2668"
+            "unicode": "U+2668",
+            "js_escape": "\u2668"
+        },
+        "carousel_horse": {
+            "unicode": "U+1F3A0",
+            "js_escape": "\ud83c\udfa0"
+        },
+        "ferris_wheel": {
+            "unicode": "U+1F3A1",
+            "js_escape": "\ud83c\udfa1"
+        },
+        "roller_coaster": {
+            "unicode": "U+1F3A2",
+            "js_escape": "\ud83c\udfa2"
+        },
+        "barber_pole": {
+            "unicode": "U+1F488",
+            "js_escape": "\ud83d\udc88"
+        },
+        "circus_tent": {
+            "unicode": "U+1F3AA",
+            "js_escape": "\ud83c\udfaa"
         }
     },
-    "place_map": {
-        "kitchen_knife": {
-            "js_escape": "\ud83d\udd2a",
-            "unicode": "U+1F52A"
+    "transport_ground": {
+        "locomotive": {
+            "unicode": "U+1F682",
+            "js_escape": "\ud83d\ude82"
         },
-        "chopsticks": {
-            "js_escape": "\ud83e\udd62",
-            "unicode": "U+1F962"
+        "railway_car": {
+            "unicode": "U+1F683",
+            "js_escape": "\ud83d\ude83"
         },
-        "amphora": {
-            "js_escape": "\ud83c\udffa",
-            "unicode": "U+1F3FA"
+        "high_speed_train": {
+            "unicode": "U+1F684",
+            "js_escape": "\ud83d\ude84"
         },
-        "map_of_japan": {
-            "js_escape": "\ud83d\uddfe",
-            "unicode": "U+1F5FE"
+        "bullet_train": {
+            "unicode": "U+1F685",
+            "js_escape": "\ud83d\ude85"
         },
-        "globe_showing_asia_australia": {
-            "js_escape": "\ud83c\udf0f",
-            "unicode": "U+1F30F"
+        "train": {
+            "unicode": "U+1F686",
+            "js_escape": "\ud83d\ude86"
         },
-        "globe_with_meridians": {
-            "js_escape": "\ud83c\udf10",
-            "unicode": "U+1F310"
+        "metro": {
+            "unicode": "U+1F687",
+            "js_escape": "\ud83d\ude87"
         },
-        "spoon": {
-            "js_escape": "\ud83e\udd44",
-            "unicode": "U+1F944"
+        "light_rail": {
+            "unicode": "U+1F688",
+            "js_escape": "\ud83d\ude88"
         },
-        "fork_and_knife": {
-            "js_escape": "\ud83c\udf74",
-            "unicode": "U+1F374"
+        "station": {
+            "unicode": "U+1F689",
+            "js_escape": "\ud83d\ude89"
         },
-        "globe_showing_americas": {
-            "js_escape": "\ud83c\udf0e",
-            "unicode": "U+1F30E"
+        "tram": {
+            "unicode": "U+1F68A",
+            "js_escape": "\ud83d\ude8a"
         },
-        "world_map": {
-            "js_escape": "\ud83d\uddfa",
-            "unicode": "U+1F5FA"
+        "monorail": {
+            "unicode": "U+1F69D",
+            "js_escape": "\ud83d\ude9d"
         },
-        "fork_and_knife_with_plate": {
-            "js_escape": "\ud83c\udf7d",
-            "unicode": "U+1F37D"
+        "mountain_railway": {
+            "unicode": "U+1F69E",
+            "js_escape": "\ud83d\ude9e"
         },
-        "globe_showing_europe_africa": {
-            "js_escape": "\ud83c\udf0d",
-            "unicode": "U+1F30D"
+        "tram_car": {
+            "unicode": "U+1F68B",
+            "js_escape": "\ud83d\ude8b"
+        },
+        "bus": {
+            "unicode": "U+1F68C",
+            "js_escape": "\ud83d\ude8c"
+        },
+        "oncoming_bus": {
+            "unicode": "U+1F68D",
+            "js_escape": "\ud83d\ude8d"
+        },
+        "trolleybus": {
+            "unicode": "U+1F68E",
+            "js_escape": "\ud83d\ude8e"
+        },
+        "minibus": {
+            "unicode": "U+1F690",
+            "js_escape": "\ud83d\ude90"
+        },
+        "ambulance": {
+            "unicode": "U+1F691",
+            "js_escape": "\ud83d\ude91"
+        },
+        "fire_engine": {
+            "unicode": "U+1F692",
+            "js_escape": "\ud83d\ude92"
+        },
+        "police_car": {
+            "unicode": "U+1F693",
+            "js_escape": "\ud83d\ude93"
+        },
+        "oncoming_police_car": {
+            "unicode": "U+1F694",
+            "js_escape": "\ud83d\ude94"
+        },
+        "taxi": {
+            "unicode": "U+1F695",
+            "js_escape": "\ud83d\ude95"
+        },
+        "oncoming_taxi": {
+            "unicode": "U+1F696",
+            "js_escape": "\ud83d\ude96"
+        },
+        "automobile": {
+            "unicode": "U+1F697",
+            "js_escape": "\ud83d\ude97"
+        },
+        "oncoming_automobile": {
+            "unicode": "U+1F698",
+            "js_escape": "\ud83d\ude98"
+        },
+        "sport_utility_vehicle": {
+            "unicode": "U+1F699",
+            "js_escape": "\ud83d\ude99"
+        },
+        "pickup_truck": {
+            "unicode": "U+1F6FB",
+            "js_escape": "\ud83d\udefb"
+        },
+        "delivery_truck": {
+            "unicode": "U+1F69A",
+            "js_escape": "\ud83d\ude9a"
+        },
+        "articulated_lorry": {
+            "unicode": "U+1F69B",
+            "js_escape": "\ud83d\ude9b"
+        },
+        "tractor": {
+            "unicode": "U+1F69C",
+            "js_escape": "\ud83d\ude9c"
+        },
+        "racing_car": {
+            "unicode": "U+1F3CE",
+            "js_escape": "\ud83c\udfce"
+        },
+        "motorcycle": {
+            "unicode": "U+1F3CD",
+            "js_escape": "\ud83c\udfcd"
+        },
+        "motor_scooter": {
+            "unicode": "U+1F6F5",
+            "js_escape": "\ud83d\udef5"
+        },
+        "manual_wheelchair": {
+            "unicode": "U+1F9BD",
+            "js_escape": "\ud83e\uddbd"
+        },
+        "motorized_wheelchair": {
+            "unicode": "U+1F9BC",
+            "js_escape": "\ud83e\uddbc"
+        },
+        "auto_rickshaw": {
+            "unicode": "U+1F6FA",
+            "js_escape": "\ud83d\udefa"
+        },
+        "bicycle": {
+            "unicode": "U+1F6B2",
+            "js_escape": "\ud83d\udeb2"
+        },
+        "kick_scooter": {
+            "unicode": "U+1F6F4",
+            "js_escape": "\ud83d\udef4"
+        },
+        "skateboard": {
+            "unicode": "U+1F6F9",
+            "js_escape": "\ud83d\udef9"
+        },
+        "roller_skate": {
+            "unicode": "U+1F6FC",
+            "js_escape": "\ud83d\udefc"
+        },
+        "bus_stop": {
+            "unicode": "U+1F68F",
+            "js_escape": "\ud83d\ude8f"
+        },
+        "motorway": {
+            "unicode": "U+1F6E3",
+            "js_escape": "\ud83d\udee3"
+        },
+        "railway_track": {
+            "unicode": "U+1F6E4",
+            "js_escape": "\ud83d\udee4"
+        },
+        "oil_drum": {
+            "unicode": "U+1F6E2",
+            "js_escape": "\ud83d\udee2"
+        },
+        "fuel_pump": {
+            "unicode": "U+26FD",
+            "js_escape": "\u26fd"
+        },
+        "police_car_light": {
+            "unicode": "U+1F6A8",
+            "js_escape": "\ud83d\udea8"
+        },
+        "horizontal_traffic_light": {
+            "unicode": "U+1F6A5",
+            "js_escape": "\ud83d\udea5"
+        },
+        "vertical_traffic_light": {
+            "unicode": "U+1F6A6",
+            "js_escape": "\ud83d\udea6"
+        },
+        "stop_sign": {
+            "unicode": "U+1F6D1",
+            "js_escape": "\ud83d\uded1"
+        },
+        "construction": {
+            "unicode": "U+1F6A7",
+            "js_escape": "\ud83d\udea7"
+        }
+    },
+    "transport_water": {
+        "anchor": {
+            "unicode": "U+2693",
+            "js_escape": "\u2693"
+        },
+        "sailboat": {
+            "unicode": "U+26F5",
+            "js_escape": "\u26f5"
+        },
+        "canoe": {
+            "unicode": "U+1F6F6",
+            "js_escape": "\ud83d\udef6"
+        },
+        "speedboat": {
+            "unicode": "U+1F6A4",
+            "js_escape": "\ud83d\udea4"
+        },
+        "passenger_ship": {
+            "unicode": "U+1F6F3",
+            "js_escape": "\ud83d\udef3"
+        },
+        "ferry": {
+            "unicode": "U+26F4",
+            "js_escape": "\u26f4"
+        },
+        "motor_boat": {
+            "unicode": "U+1F6E5",
+            "js_escape": "\ud83d\udee5"
+        },
+        "ship": {
+            "unicode": "U+1F6A2",
+            "js_escape": "\ud83d\udea2"
+        }
+    },
+    "transport_air": {
+        "airplane": {
+            "unicode": "U+2708",
+            "js_escape": "\u2708"
+        },
+        "small_airplane": {
+            "unicode": "U+1F6E9",
+            "js_escape": "\ud83d\udee9"
+        },
+        "airplane_departure": {
+            "unicode": "U+1F6EB",
+            "js_escape": "\ud83d\udeeb"
+        },
+        "airplane_arrival": {
+            "unicode": "U+1F6EC",
+            "js_escape": "\ud83d\udeec"
+        },
+        "parachute": {
+            "unicode": "U+1FA82",
+            "js_escape": "\ud83e\ude82"
+        },
+        "seat": {
+            "unicode": "U+1F4BA",
+            "js_escape": "\ud83d\udcba"
+        },
+        "helicopter": {
+            "unicode": "U+1F681",
+            "js_escape": "\ud83d\ude81"
+        },
+        "suspension_railway": {
+            "unicode": "U+1F69F",
+            "js_escape": "\ud83d\ude9f"
+        },
+        "mountain_cableway": {
+            "unicode": "U+1F6A0",
+            "js_escape": "\ud83d\udea0"
+        },
+        "aerial_tramway": {
+            "unicode": "U+1F6A1",
+            "js_escape": "\ud83d\udea1"
+        },
+        "satellite": {
+            "unicode": "U+1F6F0",
+            "js_escape": "\ud83d\udef0"
+        },
+        "rocket": {
+            "unicode": "U+1F680",
+            "js_escape": "\ud83d\ude80"
+        },
+        "flying_saucer": {
+            "unicode": "U+1F6F8",
+            "js_escape": "\ud83d\udef8"
         }
     },
     "hotel": {
-        "couch_and_lamp": {
-            "js_escape": "\ud83d\udecb",
-            "unicode": "U+1F6CB"
-        },
-        "toilet": {
-            "js_escape": "\ud83d\udebd",
-            "unicode": "U+1F6BD"
-        },
-        "door": {
-            "js_escape": "\ud83d\udeaa",
-            "unicode": "U+1F6AA"
-        },
         "bellhop_bell": {
-            "js_escape": "\ud83d\udece",
-            "unicode": "U+1F6CE"
+            "unicode": "U+1F6CE",
+            "js_escape": "\ud83d\udece"
         },
-        "bathtub": {
-            "js_escape": "\ud83d\udec1",
-            "unicode": "U+1F6C1"
+        "luggage": {
+            "unicode": "U+1F9F3",
+            "js_escape": "\ud83e\uddf3"
+        }
+    },
+    "time": {
+        "hourglass_done": {
+            "unicode": "U+231B",
+            "js_escape": "\u231b"
         },
-        "shower": {
-            "js_escape": "\ud83d\udebf",
-            "unicode": "U+1F6BF"
+        "hourglass_not_done": {
+            "unicode": "U+23F3",
+            "js_escape": "\u23f3"
         },
-        "bed": {
-            "js_escape": "\ud83d\udecf",
-            "unicode": "U+1F6CF"
+        "watch": {
+            "unicode": "U+231A",
+            "js_escape": "\u231a"
+        },
+        "alarm_clock": {
+            "unicode": "U+23F0",
+            "js_escape": "\u23f0"
+        },
+        "stopwatch": {
+            "unicode": "U+23F1",
+            "js_escape": "\u23f1"
+        },
+        "timer_clock": {
+            "unicode": "U+23F2",
+            "js_escape": "\u23f2"
+        },
+        "mantelpiece_clock": {
+            "unicode": "U+1F570",
+            "js_escape": "\ud83d\udd70"
+        },
+        "twelve_oclock": {
+            "unicode": "U+1F55B",
+            "js_escape": "\ud83d\udd5b"
+        },
+        "twelve_thirty": {
+            "unicode": "U+1F567",
+            "js_escape": "\ud83d\udd67"
+        },
+        "one_oclock": {
+            "unicode": "U+1F550",
+            "js_escape": "\ud83d\udd50"
+        },
+        "one_thirty": {
+            "unicode": "U+1F55C",
+            "js_escape": "\ud83d\udd5c"
+        },
+        "two_oclock": {
+            "unicode": "U+1F551",
+            "js_escape": "\ud83d\udd51"
+        },
+        "two_thirty": {
+            "unicode": "U+1F55D",
+            "js_escape": "\ud83d\udd5d"
+        },
+        "three_oclock": {
+            "unicode": "U+1F552",
+            "js_escape": "\ud83d\udd52"
+        },
+        "three_thirty": {
+            "unicode": "U+1F55E",
+            "js_escape": "\ud83d\udd5e"
+        },
+        "four_oclock": {
+            "unicode": "U+1F553",
+            "js_escape": "\ud83d\udd53"
+        },
+        "four_thirty": {
+            "unicode": "U+1F55F",
+            "js_escape": "\ud83d\udd5f"
+        },
+        "five_oclock": {
+            "unicode": "U+1F554",
+            "js_escape": "\ud83d\udd54"
+        },
+        "five_thirty": {
+            "unicode": "U+1F560",
+            "js_escape": "\ud83d\udd60"
+        },
+        "six_oclock": {
+            "unicode": "U+1F555",
+            "js_escape": "\ud83d\udd55"
+        },
+        "six_thirty": {
+            "unicode": "U+1F561",
+            "js_escape": "\ud83d\udd61"
+        },
+        "seven_oclock": {
+            "unicode": "U+1F556",
+            "js_escape": "\ud83d\udd56"
+        },
+        "seven_thirty": {
+            "unicode": "U+1F562",
+            "js_escape": "\ud83d\udd62"
+        },
+        "eight_oclock": {
+            "unicode": "U+1F557",
+            "js_escape": "\ud83d\udd57"
+        },
+        "eight_thirty": {
+            "unicode": "U+1F563",
+            "js_escape": "\ud83d\udd63"
+        },
+        "nine_oclock": {
+            "unicode": "U+1F558",
+            "js_escape": "\ud83d\udd58"
+        },
+        "nine_thirty": {
+            "unicode": "U+1F564",
+            "js_escape": "\ud83d\udd64"
+        },
+        "ten_oclock": {
+            "unicode": "U+1F559",
+            "js_escape": "\ud83d\udd59"
+        },
+        "ten_thirty": {
+            "unicode": "U+1F565",
+            "js_escape": "\ud83d\udd65"
+        },
+        "eleven_oclock": {
+            "unicode": "U+1F55A",
+            "js_escape": "\ud83d\udd5a"
+        },
+        "eleven_thirty": {
+            "unicode": "U+1F566",
+            "js_escape": "\ud83d\udd66"
         }
     },
     "sky_weather": {
-        "snowflake": {
-            "js_escape": "\u2744",
-            "unicode": "U+2744"
-        },
-        "water_wave": {
-            "js_escape": "\ud83c\udf0a",
-            "unicode": "U+1F30A"
-        },
-        "fire": {
-            "js_escape": "\ud83d\udd25",
-            "unicode": "U+1F525"
-        },
-        "balloon": {
-            "js_escape": "\ud83c\udf88",
-            "unicode": "U+1F388"
-        },
-        "sun": {
-            "js_escape": "\u2600",
-            "unicode": "U+2600"
-        },
-        "tanabata_tree": {
-            "js_escape": "\ud83c\udf8b",
-            "unicode": "U+1F38B"
-        },
-        "wind_face": {
-            "js_escape": "\ud83c\udf2c",
-            "unicode": "U+1F32C"
-        },
-        "ticket": {
-            "js_escape": "\ud83c\udfab",
-            "unicode": "U+1F3AB"
-        },
-        "droplet": {
-            "js_escape": "\ud83d\udca7",
-            "unicode": "U+1F4A7"
+        "new_moon": {
+            "unicode": "U+1F311",
+            "js_escape": "\ud83c\udf11"
         },
         "waxing_crescent_moon": {
-            "js_escape": "\ud83c\udf12",
-            "unicode": "U+1F312"
-        },
-        "fireworks": {
-            "js_escape": "\ud83c\udf86",
-            "unicode": "U+1F386"
-        },
-        "carp_streamer": {
-            "js_escape": "\ud83c\udf8f",
-            "unicode": "U+1F38F"
-        },
-        "sun_behind_cloud": {
-            "js_escape": "\u26c5",
-            "unicode": "U+26C5"
-        },
-        "thermometer": {
-            "js_escape": "\ud83c\udf21",
-            "unicode": "U+1F321"
-        },
-        "pine_decoration": {
-            "js_escape": "\ud83c\udf8d",
-            "unicode": "U+1F38D"
-        },
-        "christmas_tree": {
-            "js_escape": "\ud83c\udf84",
-            "unicode": "U+1F384"
-        },
-        "moon_viewing_ceremony": {
-            "js_escape": "\ud83c\udf91",
-            "unicode": "U+1F391"
-        },
-        "admission_tickets": {
-            "js_escape": "\ud83c\udf9f",
-            "unicode": "U+1F39F"
-        },
-        "sparkler": {
-            "js_escape": "\ud83c\udf87",
-            "unicode": "U+1F387"
-        },
-        "fog": {
-            "js_escape": "\ud83c\udf2b",
-            "unicode": "U+1F32B"
-        },
-        "shooting_star": {
-            "js_escape": "\ud83c\udf20",
-            "unicode": "U+1F320"
-        },
-        "cloud_with_lightning": {
-            "js_escape": "\ud83c\udf29",
-            "unicode": "U+1F329"
-        },
-        "sun_with_face": {
-            "js_escape": "\ud83c\udf1e",
-            "unicode": "U+1F31E"
-        },
-        "new_moon": {
-            "js_escape": "\ud83c\udf11",
-            "unicode": "U+1F311"
-        },
-        "snowman_without_snow": {
-            "js_escape": "\u26c4",
-            "unicode": "U+26C4"
-        },
-        "jack_o_lantern": {
-            "js_escape": "\ud83c\udf83",
-            "unicode": "U+1F383"
-        },
-        "full_moon": {
-            "js_escape": "\ud83c\udf15",
-            "unicode": "U+1F315"
-        },
-        "umbrella_with_rain_drops": {
-            "js_escape": "\u2614",
-            "unicode": "U+2614"
-        },
-        "reminder_ribbon": {
-            "js_escape": "\ud83c\udf97",
-            "unicode": "U+1F397"
-        },
-        "wrapped_gift": {
-            "js_escape": "\ud83c\udf81",
-            "unicode": "U+1F381"
-        },
-        "wind_chime": {
-            "js_escape": "\ud83c\udf90",
-            "unicode": "U+1F390"
-        },
-        "waxing_gibbous_moon": {
-            "js_escape": "\ud83c\udf14",
-            "unicode": "U+1F314"
-        },
-        "white_medium_star": {
-            "js_escape": "\u2b50",
-            "unicode": "U+2B50"
-        },
-        "umbrella_on_ground": {
-            "js_escape": "\u26f1",
-            "unicode": "U+26F1"
-        },
-        "glowing_star": {
-            "js_escape": "\ud83c\udf1f",
-            "unicode": "U+1F31F"
-        },
-        "sun_behind_rain_cloud": {
-            "js_escape": "\ud83c\udf26",
-            "unicode": "U+1F326"
-        },
-        "crescent_moon": {
-            "js_escape": "\ud83c\udf19",
-            "unicode": "U+1F319"
-        },
-        "sun_behind_large_cloud": {
-            "js_escape": "\ud83c\udf25",
-            "unicode": "U+1F325"
-        },
-        "party_popper": {
-            "js_escape": "\ud83c\udf89",
-            "unicode": "U+1F389"
-        },
-        "japanese_dolls": {
-            "js_escape": "\ud83c\udf8e",
-            "unicode": "U+1F38E"
-        },
-        "cloud_with_lightning_and_rain": {
-            "js_escape": "\u26c8",
-            "unicode": "U+26C8"
-        },
-        "comet": {
-            "js_escape": "\u2604",
-            "unicode": "U+2604"
-        },
-        "tornado": {
-            "js_escape": "\ud83c\udf2a",
-            "unicode": "U+1F32A"
-        },
-        "umbrella": {
-            "js_escape": "\u2602",
-            "unicode": "U+2602"
-        },
-        "cloud": {
-            "js_escape": "\u2601",
-            "unicode": "U+2601"
-        },
-        "closed_umbrella": {
-            "js_escape": "\ud83c\udf02",
-            "unicode": "U+1F302"
-        },
-        "confetti_ball": {
-            "js_escape": "\ud83c\udf8a",
-            "unicode": "U+1F38A"
-        },
-        "new_moon_face": {
-            "js_escape": "\ud83c\udf1a",
-            "unicode": "U+1F31A"
-        },
-        "sun_behind_small_cloud": {
-            "js_escape": "\ud83c\udf24",
-            "unicode": "U+1F324"
-        },
-        "first_quarter_moon_face": {
-            "js_escape": "\ud83c\udf1b",
-            "unicode": "U+1F31B"
-        },
-        "sparkles": {
-            "js_escape": "\u2728",
-            "unicode": "U+2728"
+            "unicode": "U+1F312",
+            "js_escape": "\ud83c\udf12"
         },
         "first_quarter_moon": {
-            "js_escape": "\ud83c\udf13",
-            "unicode": "U+1F313"
+            "unicode": "U+1F313",
+            "js_escape": "\ud83c\udf13"
         },
-        "waning_crescent_moon": {
-            "js_escape": "\ud83c\udf18",
-            "unicode": "U+1F318"
+        "waxing_gibbous_moon": {
+            "unicode": "U+1F314",
+            "js_escape": "\ud83c\udf14"
         },
-        "cyclone": {
-            "js_escape": "\ud83c\udf00",
-            "unicode": "U+1F300"
-        },
-        "last_quarter_moon": {
-            "js_escape": "\ud83c\udf17",
-            "unicode": "U+1F317"
-        },
-        "rainbow": {
-            "js_escape": "\ud83c\udf08",
-            "unicode": "U+1F308"
-        },
-        "high_voltage": {
-            "js_escape": "\u26a1",
-            "unicode": "U+26A1"
-        },
-        "full_moon_face": {
-            "js_escape": "\ud83c\udf1d",
-            "unicode": "U+1F31D"
+        "full_moon": {
+            "unicode": "U+1F315",
+            "js_escape": "\ud83c\udf15"
         },
         "waning_gibbous_moon": {
-            "js_escape": "\ud83c\udf16",
-            "unicode": "U+1F316"
+            "unicode": "U+1F316",
+            "js_escape": "\ud83c\udf16"
+        },
+        "last_quarter_moon": {
+            "unicode": "U+1F317",
+            "js_escape": "\ud83c\udf17"
+        },
+        "waning_crescent_moon": {
+            "unicode": "U+1F318",
+            "js_escape": "\ud83c\udf18"
+        },
+        "crescent_moon": {
+            "unicode": "U+1F319",
+            "js_escape": "\ud83c\udf19"
+        },
+        "new_moon_face": {
+            "unicode": "U+1F31A",
+            "js_escape": "\ud83c\udf1a"
+        },
+        "first_quarter_moon_face": {
+            "unicode": "U+1F31B",
+            "js_escape": "\ud83c\udf1b"
         },
         "last_quarter_moon_face": {
-            "js_escape": "\ud83c\udf1c",
-            "unicode": "U+1F31C"
+            "unicode": "U+1F31C",
+            "js_escape": "\ud83c\udf1c"
+        },
+        "thermometer": {
+            "unicode": "U+1F321",
+            "js_escape": "\ud83c\udf21"
+        },
+        "sun": {
+            "unicode": "U+2600",
+            "js_escape": "\u2600"
+        },
+        "full_moon_face": {
+            "unicode": "U+1F31D",
+            "js_escape": "\ud83c\udf1d"
+        },
+        "sun_with_face": {
+            "unicode": "U+1F31E",
+            "js_escape": "\ud83c\udf1e"
+        },
+        "ringed_planet": {
+            "unicode": "U+1FA90",
+            "js_escape": "\ud83e\ude90"
+        },
+        "star": {
+            "unicode": "U+2B50",
+            "js_escape": "\u2b50"
+        },
+        "glowing_star": {
+            "unicode": "U+1F31F",
+            "js_escape": "\ud83c\udf1f"
+        },
+        "shooting_star": {
+            "unicode": "U+1F320",
+            "js_escape": "\ud83c\udf20"
+        },
+        "milky_way": {
+            "unicode": "U+1F30C",
+            "js_escape": "\ud83c\udf0c"
+        },
+        "cloud": {
+            "unicode": "U+2601",
+            "js_escape": "\u2601"
+        },
+        "sun_behind_cloud": {
+            "unicode": "U+26C5",
+            "js_escape": "\u26c5"
+        },
+        "cloud_with_lightning_and_rain": {
+            "unicode": "U+26C8",
+            "js_escape": "\u26c8"
+        },
+        "sun_behind_small_cloud": {
+            "unicode": "U+1F324",
+            "js_escape": "\ud83c\udf24"
+        },
+        "sun_behind_large_cloud": {
+            "unicode": "U+1F325",
+            "js_escape": "\ud83c\udf25"
+        },
+        "sun_behind_rain_cloud": {
+            "unicode": "U+1F326",
+            "js_escape": "\ud83c\udf26"
         },
         "cloud_with_rain": {
-            "js_escape": "\ud83c\udf27",
-            "unicode": "U+1F327"
-        },
-        "ribbon": {
-            "js_escape": "\ud83c\udf80",
-            "unicode": "U+1F380"
-        },
-        "snowman": {
-            "js_escape": "\u2603",
-            "unicode": "U+2603"
+            "unicode": "U+1F327",
+            "js_escape": "\ud83c\udf27"
         },
         "cloud_with_snow": {
-            "js_escape": "\ud83c\udf28",
-            "unicode": "U+1F328"
+            "unicode": "U+1F328",
+            "js_escape": "\ud83c\udf28"
+        },
+        "cloud_with_lightning": {
+            "unicode": "U+1F329",
+            "js_escape": "\ud83c\udf29"
+        },
+        "tornado": {
+            "unicode": "U+1F32A",
+            "js_escape": "\ud83c\udf2a"
+        },
+        "fog": {
+            "unicode": "U+1F32B",
+            "js_escape": "\ud83c\udf2b"
+        },
+        "wind_face": {
+            "unicode": "U+1F32C",
+            "js_escape": "\ud83c\udf2c"
+        },
+        "cyclone": {
+            "unicode": "U+1F300",
+            "js_escape": "\ud83c\udf00"
+        },
+        "rainbow": {
+            "unicode": "U+1F308",
+            "js_escape": "\ud83c\udf08"
+        },
+        "closed_umbrella": {
+            "unicode": "U+1F302",
+            "js_escape": "\ud83c\udf02"
+        },
+        "umbrella": {
+            "unicode": "U+2602",
+            "js_escape": "\u2602"
+        },
+        "umbrella_with_rain_drops": {
+            "unicode": "U+2614",
+            "js_escape": "\u2614"
+        },
+        "umbrella_on_ground": {
+            "unicode": "U+26F1",
+            "js_escape": "\u26f1"
+        },
+        "high_voltage": {
+            "unicode": "U+26A1",
+            "js_escape": "\u26a1"
+        },
+        "snowflake": {
+            "unicode": "U+2744",
+            "js_escape": "\u2744"
+        },
+        "snowman": {
+            "unicode": "U+2603",
+            "js_escape": "\u2603"
+        },
+        "snowman_without_snow": {
+            "unicode": "U+26C4",
+            "js_escape": "\u26c4"
+        },
+        "comet": {
+            "unicode": "U+2604",
+            "js_escape": "\u2604"
+        },
+        "fire": {
+            "unicode": "U+1F525",
+            "js_escape": "\ud83d\udd25"
+        },
+        "droplet": {
+            "unicode": "U+1F4A7",
+            "js_escape": "\ud83d\udca7"
+        },
+        "water_wave": {
+            "unicode": "U+1F30A",
+            "js_escape": "\ud83c\udf0a"
+        },
+        "jack_o_lantern": {
+            "unicode": "U+1F383",
+            "js_escape": "\ud83c\udf83"
+        },
+        "christmas_tree": {
+            "unicode": "U+1F384",
+            "js_escape": "\ud83c\udf84"
+        },
+        "fireworks": {
+            "unicode": "U+1F386",
+            "js_escape": "\ud83c\udf86"
+        },
+        "sparkler": {
+            "unicode": "U+1F387",
+            "js_escape": "\ud83c\udf87"
+        },
+        "firecracker": {
+            "unicode": "U+1F9E8",
+            "js_escape": "\ud83e\udde8"
+        },
+        "sparkles": {
+            "unicode": "U+2728",
+            "js_escape": "\u2728"
+        },
+        "balloon": {
+            "unicode": "U+1F388",
+            "js_escape": "\ud83c\udf88"
+        },
+        "party_popper": {
+            "unicode": "U+1F389",
+            "js_escape": "\ud83c\udf89"
+        },
+        "confetti_ball": {
+            "unicode": "U+1F38A",
+            "js_escape": "\ud83c\udf8a"
+        },
+        "tanabata_tree": {
+            "unicode": "U+1F38B",
+            "js_escape": "\ud83c\udf8b"
+        },
+        "pine_decoration": {
+            "unicode": "U+1F38D",
+            "js_escape": "\ud83c\udf8d"
+        },
+        "japanese_dolls": {
+            "unicode": "U+1F38E",
+            "js_escape": "\ud83c\udf8e"
+        },
+        "carp_streamer": {
+            "unicode": "U+1F38F",
+            "js_escape": "\ud83c\udf8f"
+        },
+        "wind_chime": {
+            "unicode": "U+1F390",
+            "js_escape": "\ud83c\udf90"
+        },
+        "moon_viewing_ceremony": {
+            "unicode": "U+1F391",
+            "js_escape": "\ud83c\udf91"
+        },
+        "red_envelope": {
+            "unicode": "U+1F9E7",
+            "js_escape": "\ud83e\udde7"
+        },
+        "ribbon": {
+            "unicode": "U+1F380",
+            "js_escape": "\ud83c\udf80"
+        },
+        "wrapped_gift": {
+            "unicode": "U+1F381",
+            "js_escape": "\ud83c\udf81"
+        },
+        "reminder_ribbon": {
+            "unicode": "U+1F397",
+            "js_escape": "\ud83c\udf97"
+        },
+        "admission_tickets": {
+            "unicode": "U+1F39F",
+            "js_escape": "\ud83c\udf9f"
+        },
+        "ticket": {
+            "unicode": "U+1F3AB",
+            "js_escape": "\ud83c\udfab"
         }
     }
 }

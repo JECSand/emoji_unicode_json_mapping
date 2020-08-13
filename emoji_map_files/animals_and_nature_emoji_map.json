@@ -1,666 +1,690 @@
 {
     "animal_mammal": {
-        "pig_nose": {
-            "js_escape": "\ud83d\udc3d",
-            "unicode": "U+1F43D"
+        "speaking_head": {
+            "unicode": "U+1F5E3",
+            "js_escape": "\ud83d\udde3"
         },
-        "necktie": {
-            "js_escape": "\ud83d\udc54",
-            "unicode": "U+1F454"
+        "bust_in_silhouette": {
+            "unicode": "U+1F464",
+            "js_escape": "\ud83d\udc64"
         },
-        "panda_face": {
-            "js_escape": "\ud83d\udc3c",
-            "unicode": "U+1F43C"
+        "busts_in_silhouette": {
+            "unicode": "U+1F465",
+            "js_escape": "\ud83d\udc65"
         },
-        "rabbit_face": {
-            "js_escape": "\ud83d\udc30",
-            "unicode": "U+1F430"
+        "people_hugging": {
+            "unicode": "U+1FAC2",
+            "js_escape": "\ud83e\udec2"
         },
-        "camel": {
-            "js_escape": "\ud83d\udc2a",
-            "unicode": "U+1F42A"
+        "footprints": {
+            "unicode": "U+1F463",
+            "js_escape": "\ud83d\udc63"
         },
-        "ram": {
-            "js_escape": "\ud83d\udc0f",
-            "unicode": "U+1F40F"
+        "red_hair": {
+            "unicode": "U+1F9B0",
+            "js_escape": "\ud83e\uddb0"
         },
-        "sunglasses": {
-            "js_escape": "\ud83d\udd76",
-            "unicode": "U+1F576"
+        "curly_hair": {
+            "unicode": "U+1F9B1",
+            "js_escape": "\ud83e\uddb1"
         },
-        "horse": {
-            "js_escape": "\ud83d\udc0e",
-            "unicode": "U+1F40E"
+        "white_hair": {
+            "unicode": "U+1F9B3",
+            "js_escape": "\ud83e\uddb3"
         },
-        "school_backpack": {
-            "js_escape": "\ud83c\udf92",
-            "unicode": "U+1F392"
-        },
-        "boar": {
-            "js_escape": "\ud83d\udc17",
-            "unicode": "U+1F417"
-        },
-        "tiger_face": {
-            "js_escape": "\ud83d\udc2f",
-            "unicode": "U+1F42F"
-        },
-        "giraffe": {
-            "js_escape": "\ud83e\udd92",
-            "unicode": "U+1F992"
-        },
-        "mouse": {
-            "js_escape": "\ud83d\udc01",
-            "unicode": "U+1F401"
-        },
-        "shopping_bags": {
-            "js_escape": "\ud83d\udecd",
-            "unicode": "U+1F6CD"
-        },
-        "dog": {
-            "js_escape": "\ud83d\udc15",
-            "unicode": "U+1F415"
-        },
-        "paw_prints": {
-            "js_escape": "\ud83d\udc3e",
-            "unicode": "U+1F43E"
-        },
-        "kimono": {
-            "js_escape": "\ud83d\udc58",
-            "unicode": "U+1F458"
-        },
-        "prayer_beads": {
-            "js_escape": "\ud83d\udcff",
-            "unicode": "U+1F4FF"
-        },
-        "billed_cap": {
-            "js_escape": "\ud83e\udde2",
-            "unicode": "U+1F9E2"
-        },
-        "two_hump_camel": {
-            "js_escape": "\ud83d\udc2b",
-            "unicode": "U+1F42B"
-        },
-        "gorilla": {
-            "js_escape": "\ud83e\udd8d",
-            "unicode": "U+1F98D"
-        },
-        "rabbit": {
-            "js_escape": "\ud83d\udc07",
-            "unicode": "U+1F407"
-        },
-        "running_shoe": {
-            "js_escape": "\ud83d\udc5f",
-            "unicode": "U+1F45F"
-        },
-        "bat": {
-            "js_escape": "\ud83e\udd87",
-            "unicode": "U+1F987"
-        },
-        "chipmunk": {
-            "js_escape": "\ud83d\udc3f",
-            "unicode": "U+1F43F"
-        },
-        "deer": {
-            "js_escape": "\ud83e\udd8c",
-            "unicode": "U+1F98C"
-        },
-        "t_shirt": {
-            "js_escape": "\ud83d\udc55",
-            "unicode": "U+1F455"
-        },
-        "cat_face": {
-            "js_escape": "\ud83d\udc31",
-            "unicode": "U+1F431"
-        },
-        "crown": {
-            "js_escape": "\ud83d\udc51",
-            "unicode": "U+1F451"
-        },
-        "koala": {
-            "js_escape": "\ud83d\udc28",
-            "unicode": "U+1F428"
-        },
-        "gloves": {
-            "js_escape": "\ud83e\udde4",
-            "unicode": "U+1F9E4"
-        },
-        "scarf": {
-            "js_escape": "\ud83e\udde3",
-            "unicode": "U+1F9E3"
-        },
-        "lion_face": {
-            "js_escape": "\ud83e\udd81",
-            "unicode": "U+1F981"
-        },
-        "bikini": {
-            "js_escape": "\ud83d\udc59",
-            "unicode": "U+1F459"
-        },
-        "womans_hat": {
-            "js_escape": "\ud83d\udc52",
-            "unicode": "U+1F452"
-        },
-        "graduation_cap": {
-            "js_escape": "\ud83c\udf93",
-            "unicode": "U+1F393"
-        },
-        "ox": {
-            "js_escape": "\ud83d\udc02",
-            "unicode": "U+1F402"
-        },
-        "hedgehog": {
-            "js_escape": "\ud83e\udd94",
-            "unicode": "U+1F994"
-        },
-        "goat": {
-            "js_escape": "\ud83d\udc10",
-            "unicode": "U+1F410"
-        },
-        "ring": {
-            "js_escape": "\ud83d\udc8d",
-            "unicode": "U+1F48D"
-        },
-        "dog_face": {
-            "js_escape": "\ud83d\udc36",
-            "unicode": "U+1F436"
-        },
-        "mouse_face": {
-            "js_escape": "\ud83d\udc2d",
-            "unicode": "U+1F42D"
-        },
-        "water_buffalo": {
-            "js_escape": "\ud83d\udc03",
-            "unicode": "U+1F403"
-        },
-        "lipstick": {
-            "js_escape": "\ud83d\udc84",
-            "unicode": "U+1F484"
-        },
-        "glasses": {
-            "js_escape": "\ud83d\udc53",
-            "unicode": "U+1F453"
-        },
-        "bear_face": {
-            "js_escape": "\ud83d\udc3b",
-            "unicode": "U+1F43B"
-        },
-        "unicorn_face": {
-            "js_escape": "\ud83e\udd84",
-            "unicode": "U+1F984"
-        },
-        "rat": {
-            "js_escape": "\ud83d\udc00",
-            "unicode": "U+1F400"
-        },
-        "mans_shoe": {
-            "js_escape": "\ud83d\udc5e",
-            "unicode": "U+1F45E"
-        },
-        "womans_clothes": {
-            "js_escape": "\ud83d\udc5a",
-            "unicode": "U+1F45A"
-        },
-        "cat": {
-            "js_escape": "\ud83d\udc08",
-            "unicode": "U+1F408"
-        },
-        "elephant": {
-            "js_escape": "\ud83d\udc18",
-            "unicode": "U+1F418"
-        },
-        "horse_face": {
-            "js_escape": "\ud83d\udc34",
-            "unicode": "U+1F434"
-        },
-        "monkey": {
-            "js_escape": "\ud83d\udc12",
-            "unicode": "U+1F412"
-        },
-        "jeans": {
-            "js_escape": "\ud83d\udc56",
-            "unicode": "U+1F456"
+        "bald": {
+            "unicode": "U+1F9B2",
+            "js_escape": "\ud83e\uddb2"
         },
         "monkey_face": {
-            "js_escape": "\ud83d\udc35",
-            "unicode": "U+1F435"
+            "unicode": "U+1F435",
+            "js_escape": "\ud83d\udc35"
         },
-        "top_hat": {
-            "js_escape": "\ud83c\udfa9",
-            "unicode": "U+1F3A9"
+        "monkey": {
+            "unicode": "U+1F412",
+            "js_escape": "\ud83d\udc12"
         },
-        "wolf_face": {
-            "js_escape": "\ud83d\udc3a",
-            "unicode": "U+1F43A"
+        "gorilla": {
+            "unicode": "U+1F98D",
+            "js_escape": "\ud83e\udd8d"
         },
-        "tiger": {
-            "js_escape": "\ud83d\udc05",
-            "unicode": "U+1F405"
+        "orangutan": {
+            "unicode": "U+1F9A7",
+            "js_escape": "\ud83e\udda7"
         },
-        "gem_stone": {
-            "js_escape": "\ud83d\udc8e",
-            "unicode": "U+1F48E"
+        "dog_face": {
+            "unicode": "U+1F436",
+            "js_escape": "\ud83d\udc36"
         },
-        "cow": {
-            "js_escape": "\ud83d\udc04",
-            "unicode": "U+1F404"
+        "dog": {
+            "unicode": "U+1F415",
+            "js_escape": "\ud83d\udc15"
         },
-        "socks": {
-            "js_escape": "\ud83e\udde6",
-            "unicode": "U+1F9E6"
+        "guide_dog": {
+            "unicode": "U+1F9AE",
+            "js_escape": "\ud83e\uddae"
         },
-        "pig": {
-            "js_escape": "\ud83d\udc16",
-            "unicode": "U+1F416"
-        },
-        "rescue_workers_helmet": {
-            "js_escape": "\u26d1",
-            "unicode": "U+26D1"
-        },
-        "purse": {
-            "js_escape": "\ud83d\udc5b",
-            "unicode": "U+1F45B"
-        },
-        "coat": {
-            "js_escape": "\ud83e\udde5",
-            "unicode": "U+1F9E5"
-        },
-        "zebra": {
-            "js_escape": "\ud83e\udd93",
-            "unicode": "U+1F993"
-        },
-        "pig_face": {
-            "js_escape": "\ud83d\udc37",
-            "unicode": "U+1F437"
-        },
-        "womans_boot": {
-            "js_escape": "\ud83d\udc62",
-            "unicode": "U+1F462"
-        },
-        "ewe": {
-            "js_escape": "\ud83d\udc11",
-            "unicode": "U+1F411"
-        },
-        "womans_sandal": {
-            "js_escape": "\ud83d\udc61",
-            "unicode": "U+1F461"
-        },
-        "handbag": {
-            "js_escape": "\ud83d\udc5c",
-            "unicode": "U+1F45C"
-        },
-        "leopard": {
-            "js_escape": "\ud83d\udc06",
-            "unicode": "U+1F406"
-        },
-        "dress": {
-            "js_escape": "\ud83d\udc57",
-            "unicode": "U+1F457"
-        },
-        "clutch_bag": {
-            "js_escape": "\ud83d\udc5d",
-            "unicode": "U+1F45D"
+        "service_dog": {
+            "unicode": "U+1F415 U+200D U+1F9BA",
+            "js_escape": "\ud83d\udc15\u200d\ud83e\uddba"
         },
         "poodle": {
-            "js_escape": "\ud83d\udc29",
-            "unicode": "U+1F429"
+            "unicode": "U+1F429",
+            "js_escape": "\ud83d\udc29"
         },
-        "hamster_face": {
-            "js_escape": "\ud83d\udc39",
-            "unicode": "U+1F439"
+        "wolf": {
+            "unicode": "U+1F43A",
+            "js_escape": "\ud83d\udc3a"
         },
-        "high_heeled_shoe": {
-            "js_escape": "\ud83d\udc60",
-            "unicode": "U+1F460"
+        "fox": {
+            "unicode": "U+1F98A",
+            "js_escape": "\ud83e\udd8a"
+        },
+        "raccoon": {
+            "unicode": "U+1F99D",
+            "js_escape": "\ud83e\udd9d"
+        },
+        "cat_face": {
+            "unicode": "U+1F431",
+            "js_escape": "\ud83d\udc31"
+        },
+        "cat": {
+            "unicode": "U+1F408",
+            "js_escape": "\ud83d\udc08"
+        },
+        "black_cat": {
+            "unicode": "U+1F408 U+200D U+2B1B",
+            "js_escape": "\ud83d\udc08\u200d\u2b1b"
+        },
+        "lion": {
+            "unicode": "U+1F981",
+            "js_escape": "\ud83e\udd81"
+        },
+        "tiger_face": {
+            "unicode": "U+1F42F",
+            "js_escape": "\ud83d\udc2f"
+        },
+        "tiger": {
+            "unicode": "U+1F405",
+            "js_escape": "\ud83d\udc05"
+        },
+        "leopard": {
+            "unicode": "U+1F406",
+            "js_escape": "\ud83d\udc06"
+        },
+        "horse_face": {
+            "unicode": "U+1F434",
+            "js_escape": "\ud83d\udc34"
+        },
+        "horse": {
+            "unicode": "U+1F40E",
+            "js_escape": "\ud83d\udc0e"
+        },
+        "unicorn": {
+            "unicode": "U+1F984",
+            "js_escape": "\ud83e\udd84"
+        },
+        "zebra": {
+            "unicode": "U+1F993",
+            "js_escape": "\ud83e\udd93"
+        },
+        "deer": {
+            "unicode": "U+1F98C",
+            "js_escape": "\ud83e\udd8c"
+        },
+        "bison": {
+            "unicode": "U+1F9AC",
+            "js_escape": "\ud83e\uddac"
         },
         "cow_face": {
-            "js_escape": "\ud83d\udc2e",
-            "unicode": "U+1F42E"
+            "unicode": "U+1F42E",
+            "js_escape": "\ud83d\udc2e"
         },
-        "fox_face": {
-            "js_escape": "\ud83e\udd8a",
-            "unicode": "U+1F98A"
+        "ox": {
+            "unicode": "U+1F402",
+            "js_escape": "\ud83d\udc02"
+        },
+        "water_buffalo": {
+            "unicode": "U+1F403",
+            "js_escape": "\ud83d\udc03"
+        },
+        "cow": {
+            "unicode": "U+1F404",
+            "js_escape": "\ud83d\udc04"
+        },
+        "pig_face": {
+            "unicode": "U+1F437",
+            "js_escape": "\ud83d\udc37"
+        },
+        "pig": {
+            "unicode": "U+1F416",
+            "js_escape": "\ud83d\udc16"
+        },
+        "boar": {
+            "unicode": "U+1F417",
+            "js_escape": "\ud83d\udc17"
+        },
+        "pig_nose": {
+            "unicode": "U+1F43D",
+            "js_escape": "\ud83d\udc3d"
+        },
+        "ram": {
+            "unicode": "U+1F40F",
+            "js_escape": "\ud83d\udc0f"
+        },
+        "ewe": {
+            "unicode": "U+1F411",
+            "js_escape": "\ud83d\udc11"
+        },
+        "goat": {
+            "unicode": "U+1F410",
+            "js_escape": "\ud83d\udc10"
+        },
+        "camel": {
+            "unicode": "U+1F42A",
+            "js_escape": "\ud83d\udc2a"
+        },
+        "two_hump_camel": {
+            "unicode": "U+1F42B",
+            "js_escape": "\ud83d\udc2b"
+        },
+        "llama": {
+            "unicode": "U+1F999",
+            "js_escape": "\ud83e\udd99"
+        },
+        "giraffe": {
+            "unicode": "U+1F992",
+            "js_escape": "\ud83e\udd92"
+        },
+        "elephant": {
+            "unicode": "U+1F418",
+            "js_escape": "\ud83d\udc18"
+        },
+        "mammoth": {
+            "unicode": "U+1F9A3",
+            "js_escape": "\ud83e\udda3"
         },
         "rhinoceros": {
-            "js_escape": "\ud83e\udd8f",
-            "unicode": "U+1F98F"
-        }
-    },
-    "animal_amphibian": {
-        "frog_face": {
-            "js_escape": "\ud83d\udc38",
-            "unicode": "U+1F438"
-        }
-    },
-    "plant_flower": {
-        "wilted_flower": {
-            "js_escape": "\ud83e\udd40",
-            "unicode": "U+1F940"
+            "unicode": "U+1F98F",
+            "js_escape": "\ud83e\udd8f"
         },
-        "blossom": {
-            "js_escape": "\ud83c\udf3c",
-            "unicode": "U+1F33C"
+        "hippopotamus": {
+            "unicode": "U+1F99B",
+            "js_escape": "\ud83e\udd9b"
         },
-        "hibiscus": {
-            "js_escape": "\ud83c\udf3a",
-            "unicode": "U+1F33A"
+        "mouse_face": {
+            "unicode": "U+1F42D",
+            "js_escape": "\ud83d\udc2d"
         },
-        "rosette": {
-            "js_escape": "\ud83c\udff5",
-            "unicode": "U+1F3F5"
+        "mouse": {
+            "unicode": "U+1F401",
+            "js_escape": "\ud83d\udc01"
         },
-        "sunflower": {
-            "js_escape": "\ud83c\udf3b",
-            "unicode": "U+1F33B"
+        "rat": {
+            "unicode": "U+1F400",
+            "js_escape": "\ud83d\udc00"
         },
-        "white_flower": {
-            "js_escape": "\ud83d\udcae",
-            "unicode": "U+1F4AE"
+        "hamster": {
+            "unicode": "U+1F439",
+            "js_escape": "\ud83d\udc39"
         },
-        "cherry_blossom": {
-            "js_escape": "\ud83c\udf38",
-            "unicode": "U+1F338"
+        "rabbit_face": {
+            "unicode": "U+1F430",
+            "js_escape": "\ud83d\udc30"
         },
-        "rose": {
-            "js_escape": "\ud83c\udf39",
-            "unicode": "U+1F339"
+        "rabbit": {
+            "unicode": "U+1F407",
+            "js_escape": "\ud83d\udc07"
         },
-        "bouquet": {
-            "js_escape": "\ud83d\udc90",
-            "unicode": "U+1F490"
+        "chipmunk": {
+            "unicode": "U+1F43F",
+            "js_escape": "\ud83d\udc3f"
         },
-        "tulip": {
-            "js_escape": "\ud83c\udf37",
-            "unicode": "U+1F337"
-        }
-    },
-    "animal_marine": {
-        "fish": {
-            "js_escape": "\ud83d\udc1f",
-            "unicode": "U+1F41F"
+        "beaver": {
+            "unicode": "U+1F9AB",
+            "js_escape": "\ud83e\uddab"
         },
-        "blowfish": {
-            "js_escape": "\ud83d\udc21",
-            "unicode": "U+1F421"
+        "hedgehog": {
+            "unicode": "U+1F994",
+            "js_escape": "\ud83e\udd94"
         },
-        "whale": {
-            "js_escape": "\ud83d\udc0b",
-            "unicode": "U+1F40B"
+        "bat": {
+            "unicode": "U+1F987",
+            "js_escape": "\ud83e\udd87"
         },
-        "dolphin": {
-            "js_escape": "\ud83d\udc2c",
-            "unicode": "U+1F42C"
+        "bear": {
+            "unicode": "U+1F43B",
+            "js_escape": "\ud83d\udc3b"
         },
-        "shark": {
-            "js_escape": "\ud83e\udd88",
-            "unicode": "U+1F988"
+        "polar_bear": {
+            "unicode": "U+1F43B U+200D U+2744 U+FE0F",
+            "js_escape": "\ud83d\udc3b\u200d\u2744\ufe0f"
         },
-        "spouting_whale": {
-            "js_escape": "\ud83d\udc33",
-            "unicode": "U+1F433"
+        "koala": {
+            "unicode": "U+1F428",
+            "js_escape": "\ud83d\udc28"
         },
-        "octopus": {
-            "js_escape": "\ud83d\udc19",
-            "unicode": "U+1F419"
+        "panda": {
+            "unicode": "U+1F43C",
+            "js_escape": "\ud83d\udc3c"
         },
-        "shrimp": {
-            "js_escape": "\ud83e\udd90",
-            "unicode": "U+1F990"
+        "sloth": {
+            "unicode": "U+1F9A5",
+            "js_escape": "\ud83e\udda5"
         },
-        "squid": {
-            "js_escape": "\ud83e\udd91",
-            "unicode": "U+1F991"
+        "otter": {
+            "unicode": "U+1F9A6",
+            "js_escape": "\ud83e\udda6"
         },
-        "tropical_fish": {
-            "js_escape": "\ud83d\udc20",
-            "unicode": "U+1F420"
+        "skunk": {
+            "unicode": "U+1F9A8",
+            "js_escape": "\ud83e\udda8"
         },
-        "crab": {
-            "js_escape": "\ud83e\udd80",
-            "unicode": "U+1F980"
+        "kangaroo": {
+            "unicode": "U+1F998",
+            "js_escape": "\ud83e\udd98"
         },
-        "spiral_shell": {
-            "js_escape": "\ud83d\udc1a",
-            "unicode": "U+1F41A"
-        }
-    },
-    "animal_reptile": {
-        "dragon_face": {
-            "js_escape": "\ud83d\udc32",
-            "unicode": "U+1F432"
+        "badger": {
+            "unicode": "U+1F9A1",
+            "js_escape": "\ud83e\udda1"
         },
-        "turtle": {
-            "js_escape": "\ud83d\udc22",
-            "unicode": "U+1F422"
-        },
-        "sauropod": {
-            "js_escape": "\ud83e\udd95",
-            "unicode": "U+1F995"
-        },
-        "snake": {
-            "js_escape": "\ud83d\udc0d",
-            "unicode": "U+1F40D"
-        },
-        "t_rex": {
-            "js_escape": "\ud83e\udd96",
-            "unicode": "U+1F996"
-        },
-        "dragon": {
-            "js_escape": "\ud83d\udc09",
-            "unicode": "U+1F409"
-        },
-        "lizard": {
-            "js_escape": "\ud83e\udd8e",
-            "unicode": "U+1F98E"
-        },
-        "crocodile": {
-            "js_escape": "\ud83d\udc0a",
-            "unicode": "U+1F40A"
-        }
-    },
-    "plant_other": {
-        "sheaf_of_rice": {
-            "js_escape": "\ud83c\udf3e",
-            "unicode": "U+1F33E"
-        },
-        "cactus": {
-            "js_escape": "\ud83c\udf35",
-            "unicode": "U+1F335"
-        },
-        "tomato": {
-            "js_escape": "\ud83c\udf45",
-            "unicode": "U+1F345"
-        },
-        "banana": {
-            "js_escape": "\ud83c\udf4c",
-            "unicode": "U+1F34C"
-        },
-        "strawberry": {
-            "js_escape": "\ud83c\udf53",
-            "unicode": "U+1F353"
-        },
-        "maple_leaf": {
-            "js_escape": "\ud83c\udf41",
-            "unicode": "U+1F341"
-        },
-        "herb": {
-            "js_escape": "\ud83c\udf3f",
-            "unicode": "U+1F33F"
-        },
-        "grapes": {
-            "js_escape": "\ud83c\udf47",
-            "unicode": "U+1F347"
-        },
-        "peach": {
-            "js_escape": "\ud83c\udf51",
-            "unicode": "U+1F351"
-        },
-        "fallen_leaf": {
-            "js_escape": "\ud83c\udf42",
-            "unicode": "U+1F342"
-        },
-        "evergreen_tree": {
-            "js_escape": "\ud83c\udf32",
-            "unicode": "U+1F332"
-        },
-        "tangerine": {
-            "js_escape": "\ud83c\udf4a",
-            "unicode": "U+1F34A"
-        },
-        "watermelon": {
-            "js_escape": "\ud83c\udf49",
-            "unicode": "U+1F349"
-        },
-        "melon": {
-            "js_escape": "\ud83c\udf48",
-            "unicode": "U+1F348"
-        },
-        "coconut": {
-            "js_escape": "\ud83e\udd65",
-            "unicode": "U+1F965"
-        },
-        "seedling": {
-            "js_escape": "\ud83c\udf31",
-            "unicode": "U+1F331"
-        },
-        "palm_tree": {
-            "js_escape": "\ud83c\udf34",
-            "unicode": "U+1F334"
-        },
-        "shamrock": {
-            "js_escape": "\u2618",
-            "unicode": "U+2618"
-        },
-        "leaf_fluttering_in_wind": {
-            "js_escape": "\ud83c\udf43",
-            "unicode": "U+1F343"
-        },
-        "kiwi_fruit": {
-            "js_escape": "\ud83e\udd5d",
-            "unicode": "U+1F95D"
-        },
-        "four_leaf_clover": {
-            "js_escape": "\ud83c\udf40",
-            "unicode": "U+1F340"
-        },
-        "pear": {
-            "js_escape": "\ud83c\udf50",
-            "unicode": "U+1F350"
-        },
-        "pineapple": {
-            "js_escape": "\ud83c\udf4d",
-            "unicode": "U+1F34D"
-        },
-        "lemon": {
-            "js_escape": "\ud83c\udf4b",
-            "unicode": "U+1F34B"
-        },
-        "green_apple": {
-            "js_escape": "\ud83c\udf4f",
-            "unicode": "U+1F34F"
-        },
-        "cherries": {
-            "js_escape": "\ud83c\udf52",
-            "unicode": "U+1F352"
-        },
-        "deciduous_tree": {
-            "js_escape": "\ud83c\udf33",
-            "unicode": "U+1F333"
-        },
-        "red_apple": {
-            "js_escape": "\ud83c\udf4e",
-            "unicode": "U+1F34E"
+        "paw_prints": {
+            "unicode": "U+1F43E",
+            "js_escape": "\ud83d\udc3e"
         }
     },
     "animal_bird": {
-        "hatching_chick": {
-            "js_escape": "\ud83d\udc23",
-            "unicode": "U+1F423"
-        },
-        "dove": {
-            "js_escape": "\ud83d\udd4a",
-            "unicode": "U+1F54A"
-        },
-        "penguin": {
-            "js_escape": "\ud83d\udc27",
-            "unicode": "U+1F427"
-        },
-        "owl": {
-            "js_escape": "\ud83e\udd89",
-            "unicode": "U+1F989"
-        },
-        "baby_chick": {
-            "js_escape": "\ud83d\udc24",
-            "unicode": "U+1F424"
-        },
         "turkey": {
-            "js_escape": "\ud83e\udd83",
-            "unicode": "U+1F983"
-        },
-        "bird": {
-            "js_escape": "\ud83d\udc26",
-            "unicode": "U+1F426"
-        },
-        "rooster": {
-            "js_escape": "\ud83d\udc13",
-            "unicode": "U+1F413"
+            "unicode": "U+1F983",
+            "js_escape": "\ud83e\udd83"
         },
         "chicken": {
-            "js_escape": "\ud83d\udc14",
-            "unicode": "U+1F414"
+            "unicode": "U+1F414",
+            "js_escape": "\ud83d\udc14"
         },
-        "eagle": {
-            "js_escape": "\ud83e\udd85",
-            "unicode": "U+1F985"
+        "rooster": {
+            "unicode": "U+1F413",
+            "js_escape": "\ud83d\udc13"
         },
-        "duck": {
-            "js_escape": "\ud83e\udd86",
-            "unicode": "U+1F986"
+        "hatching_chick": {
+            "unicode": "U+1F423",
+            "js_escape": "\ud83d\udc23"
+        },
+        "baby_chick": {
+            "unicode": "U+1F424",
+            "js_escape": "\ud83d\udc24"
         },
         "front_facing_baby_chick": {
-            "js_escape": "\ud83d\udc25",
-            "unicode": "U+1F425"
+            "unicode": "U+1F425",
+            "js_escape": "\ud83d\udc25"
+        },
+        "bird": {
+            "unicode": "U+1F426",
+            "js_escape": "\ud83d\udc26"
+        },
+        "penguin": {
+            "unicode": "U+1F427",
+            "js_escape": "\ud83d\udc27"
+        },
+        "dove": {
+            "unicode": "U+1F54A",
+            "js_escape": "\ud83d\udd4a"
+        },
+        "eagle": {
+            "unicode": "U+1F985",
+            "js_escape": "\ud83e\udd85"
+        },
+        "duck": {
+            "unicode": "U+1F986",
+            "js_escape": "\ud83e\udd86"
+        },
+        "swan": {
+            "unicode": "U+1F9A2",
+            "js_escape": "\ud83e\udda2"
+        },
+        "owl": {
+            "unicode": "U+1F989",
+            "js_escape": "\ud83e\udd89"
+        },
+        "dodo": {
+            "unicode": "U+1F9A4",
+            "js_escape": "\ud83e\udda4"
+        },
+        "feather": {
+            "unicode": "U+1FAB6",
+            "js_escape": "\ud83e\udeb6"
+        },
+        "flamingo": {
+            "unicode": "U+1F9A9",
+            "js_escape": "\ud83e\udda9"
+        },
+        "peacock": {
+            "unicode": "U+1F99A",
+            "js_escape": "\ud83e\udd9a"
+        },
+        "parrot": {
+            "unicode": "U+1F99C",
+            "js_escape": "\ud83e\udd9c"
+        }
+    },
+    "animal_amphibian": {
+        "frog": {
+            "unicode": "U+1F438",
+            "js_escape": "\ud83d\udc38"
+        }
+    },
+    "animal_reptile": {
+        "crocodile": {
+            "unicode": "U+1F40A",
+            "js_escape": "\ud83d\udc0a"
+        },
+        "turtle": {
+            "unicode": "U+1F422",
+            "js_escape": "\ud83d\udc22"
+        },
+        "lizard": {
+            "unicode": "U+1F98E",
+            "js_escape": "\ud83e\udd8e"
+        },
+        "snake": {
+            "unicode": "U+1F40D",
+            "js_escape": "\ud83d\udc0d"
+        },
+        "dragon_face": {
+            "unicode": "U+1F432",
+            "js_escape": "\ud83d\udc32"
+        },
+        "dragon": {
+            "unicode": "U+1F409",
+            "js_escape": "\ud83d\udc09"
+        },
+        "sauropod": {
+            "unicode": "U+1F995",
+            "js_escape": "\ud83e\udd95"
+        },
+        "t_rex": {
+            "unicode": "U+1F996",
+            "js_escape": "\ud83e\udd96"
+        }
+    },
+    "animal_marine": {
+        "spouting_whale": {
+            "unicode": "U+1F433",
+            "js_escape": "\ud83d\udc33"
+        },
+        "whale": {
+            "unicode": "U+1F40B",
+            "js_escape": "\ud83d\udc0b"
+        },
+        "dolphin": {
+            "unicode": "U+1F42C",
+            "js_escape": "\ud83d\udc2c"
+        },
+        "seal": {
+            "unicode": "U+1F9AD",
+            "js_escape": "\ud83e\uddad"
+        },
+        "fish": {
+            "unicode": "U+1F41F",
+            "js_escape": "\ud83d\udc1f"
+        },
+        "tropical_fish": {
+            "unicode": "U+1F420",
+            "js_escape": "\ud83d\udc20"
+        },
+        "blowfish": {
+            "unicode": "U+1F421",
+            "js_escape": "\ud83d\udc21"
+        },
+        "shark": {
+            "unicode": "U+1F988",
+            "js_escape": "\ud83e\udd88"
+        },
+        "octopus": {
+            "unicode": "U+1F419",
+            "js_escape": "\ud83d\udc19"
+        },
+        "spiral_shell": {
+            "unicode": "U+1F41A",
+            "js_escape": "\ud83d\udc1a"
         }
     },
     "animal_bug": {
         "snail": {
-            "js_escape": "\ud83d\udc0c",
-            "unicode": "U+1F40C"
-        },
-        "spider_web": {
-            "js_escape": "\ud83d\udd78",
-            "unicode": "U+1F578"
-        },
-        "bug": {
-            "js_escape": "\ud83d\udc1b",
-            "unicode": "U+1F41B"
-        },
-        "lady_beetle": {
-            "js_escape": "\ud83d\udc1e",
-            "unicode": "U+1F41E"
-        },
-        "scorpion": {
-            "js_escape": "\ud83e\udd82",
-            "unicode": "U+1F982"
-        },
-        "spider": {
-            "js_escape": "\ud83d\udd77",
-            "unicode": "U+1F577"
-        },
-        "cricket": {
-            "js_escape": "\ud83e\udd97",
-            "unicode": "U+1F997"
-        },
-        "honeybee": {
-            "js_escape": "\ud83d\udc1d",
-            "unicode": "U+1F41D"
+            "unicode": "U+1F40C",
+            "js_escape": "\ud83d\udc0c"
         },
         "butterfly": {
-            "js_escape": "\ud83e\udd8b",
-            "unicode": "U+1F98B"
+            "unicode": "U+1F98B",
+            "js_escape": "\ud83e\udd8b"
+        },
+        "bug": {
+            "unicode": "U+1F41B",
+            "js_escape": "\ud83d\udc1b"
         },
         "ant": {
-            "js_escape": "\ud83d\udc1c",
-            "unicode": "U+1F41C"
+            "unicode": "U+1F41C",
+            "js_escape": "\ud83d\udc1c"
+        },
+        "honeybee": {
+            "unicode": "U+1F41D",
+            "js_escape": "\ud83d\udc1d"
+        },
+        "beetle": {
+            "unicode": "U+1FAB2",
+            "js_escape": "\ud83e\udeb2"
+        },
+        "lady_beetle": {
+            "unicode": "U+1F41E",
+            "js_escape": "\ud83d\udc1e"
+        },
+        "cricket": {
+            "unicode": "U+1F997",
+            "js_escape": "\ud83e\udd97"
+        },
+        "cockroach": {
+            "unicode": "U+1FAB3",
+            "js_escape": "\ud83e\udeb3"
+        },
+        "spider": {
+            "unicode": "U+1F577",
+            "js_escape": "\ud83d\udd77"
+        },
+        "spider_web": {
+            "unicode": "U+1F578",
+            "js_escape": "\ud83d\udd78"
+        },
+        "scorpion": {
+            "unicode": "U+1F982",
+            "js_escape": "\ud83e\udd82"
+        },
+        "mosquito": {
+            "unicode": "U+1F99F",
+            "js_escape": "\ud83e\udd9f"
+        },
+        "fly": {
+            "unicode": "U+1FAB0",
+            "js_escape": "\ud83e\udeb0"
+        },
+        "worm": {
+            "unicode": "U+1FAB1",
+            "js_escape": "\ud83e\udeb1"
+        },
+        "microbe": {
+            "unicode": "U+1F9A0",
+            "js_escape": "\ud83e\udda0"
+        }
+    },
+    "plant_flower": {
+        "bouquet": {
+            "unicode": "U+1F490",
+            "js_escape": "\ud83d\udc90"
+        },
+        "cherry_blossom": {
+            "unicode": "U+1F338",
+            "js_escape": "\ud83c\udf38"
+        },
+        "white_flower": {
+            "unicode": "U+1F4AE",
+            "js_escape": "\ud83d\udcae"
+        },
+        "rosette": {
+            "unicode": "U+1F3F5",
+            "js_escape": "\ud83c\udff5"
+        },
+        "rose": {
+            "unicode": "U+1F339",
+            "js_escape": "\ud83c\udf39"
+        },
+        "wilted_flower": {
+            "unicode": "U+1F940",
+            "js_escape": "\ud83e\udd40"
+        },
+        "hibiscus": {
+            "unicode": "U+1F33A",
+            "js_escape": "\ud83c\udf3a"
+        },
+        "sunflower": {
+            "unicode": "U+1F33B",
+            "js_escape": "\ud83c\udf3b"
+        },
+        "blossom": {
+            "unicode": "U+1F33C",
+            "js_escape": "\ud83c\udf3c"
+        },
+        "tulip": {
+            "unicode": "U+1F337",
+            "js_escape": "\ud83c\udf37"
+        }
+    },
+    "plant_other": {
+        "seedling": {
+            "unicode": "U+1F331",
+            "js_escape": "\ud83c\udf31"
+        },
+        "potted_plant": {
+            "unicode": "U+1FAB4",
+            "js_escape": "\ud83e\udeb4"
+        },
+        "evergreen_tree": {
+            "unicode": "U+1F332",
+            "js_escape": "\ud83c\udf32"
+        },
+        "deciduous_tree": {
+            "unicode": "U+1F333",
+            "js_escape": "\ud83c\udf33"
+        },
+        "palm_tree": {
+            "unicode": "U+1F334",
+            "js_escape": "\ud83c\udf34"
+        },
+        "cactus": {
+            "unicode": "U+1F335",
+            "js_escape": "\ud83c\udf35"
+        },
+        "sheaf_of_rice": {
+            "unicode": "U+1F33E",
+            "js_escape": "\ud83c\udf3e"
+        },
+        "herb": {
+            "unicode": "U+1F33F",
+            "js_escape": "\ud83c\udf3f"
+        },
+        "shamrock": {
+            "unicode": "U+2618",
+            "js_escape": "\u2618"
+        },
+        "four_leaf_clover": {
+            "unicode": "U+1F340",
+            "js_escape": "\ud83c\udf40"
+        },
+        "maple_leaf": {
+            "unicode": "U+1F341",
+            "js_escape": "\ud83c\udf41"
+        },
+        "fallen_leaf": {
+            "unicode": "U+1F342",
+            "js_escape": "\ud83c\udf42"
+        },
+        "leaf_fluttering_in_wind": {
+            "unicode": "U+1F343",
+            "js_escape": "\ud83c\udf43"
+        },
+        "grapes": {
+            "unicode": "U+1F347",
+            "js_escape": "\ud83c\udf47"
+        },
+        "melon": {
+            "unicode": "U+1F348",
+            "js_escape": "\ud83c\udf48"
+        },
+        "watermelon": {
+            "unicode": "U+1F349",
+            "js_escape": "\ud83c\udf49"
+        },
+        "tangerine": {
+            "unicode": "U+1F34A",
+            "js_escape": "\ud83c\udf4a"
+        },
+        "lemon": {
+            "unicode": "U+1F34B",
+            "js_escape": "\ud83c\udf4b"
+        },
+        "banana": {
+            "unicode": "U+1F34C",
+            "js_escape": "\ud83c\udf4c"
+        },
+        "pineapple": {
+            "unicode": "U+1F34D",
+            "js_escape": "\ud83c\udf4d"
+        },
+        "mango": {
+            "unicode": "U+1F96D",
+            "js_escape": "\ud83e\udd6d"
+        },
+        "red_apple": {
+            "unicode": "U+1F34E",
+            "js_escape": "\ud83c\udf4e"
+        },
+        "green_apple": {
+            "unicode": "U+1F34F",
+            "js_escape": "\ud83c\udf4f"
+        },
+        "pear": {
+            "unicode": "U+1F350",
+            "js_escape": "\ud83c\udf50"
+        },
+        "peach": {
+            "unicode": "U+1F351",
+            "js_escape": "\ud83c\udf51"
+        },
+        "cherries": {
+            "unicode": "U+1F352",
+            "js_escape": "\ud83c\udf52"
+        },
+        "strawberry": {
+            "unicode": "U+1F353",
+            "js_escape": "\ud83c\udf53"
+        },
+        "blueberries": {
+            "unicode": "U+1FAD0",
+            "js_escape": "\ud83e\uded0"
+        },
+        "kiwi_fruit": {
+            "unicode": "U+1F95D",
+            "js_escape": "\ud83e\udd5d"
+        },
+        "tomato": {
+            "unicode": "U+1F345",
+            "js_escape": "\ud83c\udf45"
+        },
+        "olive": {
+            "unicode": "U+1FAD2",
+            "js_escape": "\ud83e\uded2"
+        },
+        "coconut": {
+            "unicode": "U+1F965",
+            "js_escape": "\ud83e\udd65"
         }
     }
 }
